@@ -114,9 +114,12 @@ except Exception as e:
 # Input section
 col1, col2 = st.columns([2, 1])
 with col1:
-    ticker = st.text_input("Enter Stock Ticker (e.g., AAPL)", "").upper()
+    ticker = st.text_input("Enter Stock Ticker (e.g., AAPL, MSFT, TSLA)", "", help="This is the short symbol used to represent a company on the stock market. Example: Apple = AAPL, Microsoft = MSFT, Tesla = TSLA.").upper()
 with col2:
     analyze_button = st.button("🚀 Run Valuation", type="primary")
+
+# Helper text for users
+st.caption("💡 A stock ticker is a company's trading symbol, like AAPL for Apple, TSLA for Tesla, or MSFT for Microsoft.")
 
 if analyze_button and ticker:
     with st.spinner("Fetching data and running prediction..."):
@@ -136,13 +139,47 @@ if analyze_button and ticker:
             dcf_years = model.predict(np.array(processed_features).reshape(1, -1))[0]
             dcf_years_rounded = round(dcf_years)
             
-            # Calculate intrinsic value
+            # Calculate intrinsic value and get FCF data
             intrinsic_value = calculate_intrinsic_value(info, dcf_years_rounded)
             market_cap = info.get("marketCap", 0)
             
+            # === FIXED DCF AND MAX UNDERVALUED PRICE CALCULATION ===
+            try:
+                ticker_obj = yf.Ticker(ticker)
+                cf = ticker_obj.cashflow
+                fcf = cf.loc["Free Cash Flow", cf.columns[0]] if "Free Cash Flow" in cf.index else info.get("freeCashflow", 0)
+                shares_outstanding = info.get("sharesOutstanding", 1)
+                
+                # ✅ Adjust FCF scale (yfinance often gives in millions or billions)
+                if fcf < 1e6:
+                    fcf *= 1e9  # assume billions
+                elif fcf < 1e9:
+                    fcf *= 1e6  # assume millions
+                
+                # ✅ Calculate total intrinsic value using DCF formula
+                growth_rate = 0.05  # 5% growth rate
+                discount_rate = 0.10  # 10% discount rate
+                intrinsic_value_total = fcf * ((1 + growth_rate)**dcf_years_rounded - 1) / (discount_rate - growth_rate)
+                
+                # ✅ Compute value per share
+                intrinsic_value_per_share = intrinsic_value_total / shares_outstanding
+                
+                # ✅ Apply margin of safety (15%)
+                undervalue_margin = 0.15
+                max_undervalued_price_per_share = intrinsic_value_per_share * (1 - undervalue_margin)
+                
+                # ✅ Display results in Streamlit
+                st.metric("📈 Intrinsic Value Per Share", f"${intrinsic_value_per_share:,.2f}")
+                st.metric("🟢 Max Undervalued Price", f"${max_undervalued_price_per_share:,.2f}")
+                
+            except Exception as e:
+                st.error(f"❌ Error in DCF calculation: {str(e)}")
+                intrinsic_value_per_share = 0
+                max_undervalued_price_per_share = 0
+            
             # Valuation analysis
             if market_cap > 0:
-                valuation_ratio = intrinsic_value / market_cap
+                valuation_ratio = intrinsic_value_total / market_cap
                 
                 if valuation_ratio > 1.15:
                     status = "🟢 Undervalued"
@@ -159,7 +196,6 @@ if analyze_button and ticker:
             
             # Undervaluation threshold
             undervalue_margin = 0.15
-            max_undervalued_price = intrinsic_value * (1 - undervalue_margin)
             
             # Display results
             st.success("✅ Valuation Complete!")
@@ -176,8 +212,8 @@ if analyze_button and ticker:
             
             with col2:
                 st.metric(
-                    label="Intrinsic Value",
-                    value=f"${intrinsic_value:,.0f}",
+                    label="Intrinsic Value Per Share",
+                    value=f"${intrinsic_value_per_share:,.2f}",
                     delta=f"{valuation_ratio:.1%}" if market_cap > 0 else None
                 )
             
@@ -205,10 +241,9 @@ if analyze_button and ticker:
             with col2:
                 st.markdown("### 💡 Investment Insights")
                 st.markdown(f"""
-                - **Max Undervalued Price**: ${max_undervalued_price:,.0f}
+                - **Max Undervalued Price per Share**: ${max_undervalued_price_per_share:,.2f}
                 - **Valuation Ratio**: {valuation_ratio:.2f}x
                 - **Margin of Safety**: {undervalue_margin:.0%}
-                - **Recommendation**: {'Consider buying' if valuation_ratio > 1.15 else 'Consider selling' if valuation_ratio < 0.85 else 'Hold'}
                 """)
             
             # Additional metrics
@@ -229,6 +264,29 @@ if analyze_button and ticker:
                 
                 with col4:
                     st.metric("Gross Margin", f"{info.get('grossMargins', 0):.1%}")
+            
+            # PE/G Ratio Section
+            st.markdown("---")
+            st.subheader("📊 Additional Insights")
+            
+            try:
+                eps = info.get("trailingEps", 0)
+                price_per_share = info.get("currentPrice", 0)
+                pe_ratio = price_per_share / eps if eps != 0 else None
+                fcf_growth = 0.05  # Using the 5% growth rate from DCF calculation
+                
+                if pe_ratio is not None and fcf_growth > 0:
+                    peg_ratio = pe_ratio / (fcf_growth * 100)  # growth as percentage
+                    peg_text = f"{peg_ratio:.2f}"
+                    peg_description = "The PE/G ratio compares the Price-to-Earnings ratio to the FCF growth rate. Lower values (<1) may indicate undervaluation."
+                else:
+                    peg_text = "N/A"
+                    peg_description = "Insufficient earnings or growth data to calculate PE/G."
+                
+                st.metric("📉 PE/G Ratio", peg_text, help=peg_description)
+                
+            except Exception as e:
+                st.error(f"❌ Error calculating PE/G: {e}")
             
         except Exception as e:
             st.error(f"⚠️ Error processing {ticker}: {str(e)}")
