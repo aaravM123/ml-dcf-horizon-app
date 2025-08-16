@@ -1,0 +1,1093 @@
+line_item,period,value,ticker,analog_year
+Tax Effect Of Unusual Items,2024-09-30 00:00:00,1780000.0,QCOM,2021
+Tax Rate For Calcs,2024-09-30 00:00:00,0.02,QCOM,2021
+Normalized EBITDA,2024-09-30 00:00:00,12650000000.0,QCOM,2021
+Total Unusual Items,2024-09-30 00:00:00,89000000.0,QCOM,2021
+Total Unusual Items Excluding Goodwill,2024-09-30 00:00:00,89000000.0,QCOM,2021
+Net Income From Continuing Operation Net Minority Interest,2024-09-30 00:00:00,10110000000.0,QCOM,2021
+Reconciled Depreciation,2024-09-30 00:00:00,1706000000.0,QCOM,2021
+Reconciled Cost Of Revenue,2024-09-30 00:00:00,17060000000.0,QCOM,2021
+EBITDA,2024-09-30 00:00:00,12739000000.0,QCOM,2021
+EBIT,2024-09-30 00:00:00,11033000000.0,QCOM,2021
+Net Interest Income,2024-09-30 00:00:00,-22000000.0,QCOM,2021
+Interest Expense,2024-09-30 00:00:00,697000000.0,QCOM,2021
+Interest Income,2024-09-30 00:00:00,675000000.0,QCOM,2021
+Normalized Income,2024-09-30 00:00:00,10022780000.0,QCOM,2021
+Net Income From Continuing And Discontinued Operation,2024-09-30 00:00:00,10142000000.0,QCOM,2021
+Total Expenses,2024-09-30 00:00:00,28891000000.0,QCOM,2021
+Total Operating Income As Reported,2024-09-30 00:00:00,10071000000.0,QCOM,2021
+Diluted Average Shares,2024-09-30 00:00:00,1130000000.0,QCOM,2021
+Basic Average Shares,2024-09-30 00:00:00,1116000000.0,QCOM,2021
+Diluted EPS,2024-09-30 00:00:00,8.97,QCOM,2021
+Basic EPS,2024-09-30 00:00:00,9.09,QCOM,2021
+Diluted NI Availto Com Stockholders,2024-09-30 00:00:00,10142000000.0,QCOM,2021
+Net Income Common Stockholders,2024-09-30 00:00:00,10142000000.0,QCOM,2021
+Net Income,2024-09-30 00:00:00,10142000000.0,QCOM,2021
+Net Income Including Noncontrolling Interests,2024-09-30 00:00:00,10142000000.0,QCOM,2021
+Net Income Discontinuous Operations,2024-09-30 00:00:00,32000000.0,QCOM,2021
+Net Income Continuous Operations,2024-09-30 00:00:00,10110000000.0,QCOM,2021
+Tax Provision,2024-09-30 00:00:00,226000000.0,QCOM,2021
+Pretax Income,2024-09-30 00:00:00,10336000000.0,QCOM,2021
+Other Income Expense,2024-09-30 00:00:00,287000000.0,QCOM,2021
+Other Non Operating Income Expenses,2024-09-30 00:00:00,198000000.0,QCOM,2021
+Special Income Charges,2024-09-30 00:00:00,-79000000.0,QCOM,2021
+Write Off,2024-09-30 00:00:00,79000000.0,QCOM,2021
+Earnings From Equity Interest,2024-09-30 00:00:00,,QCOM,2021
+Gain On Sale Of Security,2024-09-30 00:00:00,168000000.0,QCOM,2021
+Net Non Operating Interest Income Expense,2024-09-30 00:00:00,-22000000.0,QCOM,2021
+Interest Expense Non Operating,2024-09-30 00:00:00,697000000.0,QCOM,2021
+Interest Income Non Operating,2024-09-30 00:00:00,675000000.0,QCOM,2021
+Operating Income,2024-09-30 00:00:00,10071000000.0,QCOM,2021
+Operating Expense,2024-09-30 00:00:00,11831000000.0,QCOM,2021
+Other Operating Expenses,2024-09-30 00:00:00,179000000.0,QCOM,2021
+Research And Development,2024-09-30 00:00:00,8893000000.0,QCOM,2021
+Selling General And Administration,2024-09-30 00:00:00,2759000000.0,QCOM,2021
+Gross Profit,2024-09-30 00:00:00,21902000000.0,QCOM,2021
+Cost Of Revenue,2024-09-30 00:00:00,17060000000.0,QCOM,2021
+Total Revenue,2024-09-30 00:00:00,38962000000.0,QCOM,2021
+Operating Revenue,2024-09-30 00:00:00,38962000000.0,QCOM,2021
+Tax Effect Of Unusual Items,2023-09-30 00:00:00,-500000.0,QCOM,2021
+Tax Rate For Calcs,2023-09-30 00:00:00,0.01,QCOM,2021
+Normalized EBITDA,2023-09-30 00:00:00,9996000000.0,QCOM,2021
+Total Unusual Items,2023-09-30 00:00:00,-50000000.0,QCOM,2021
+Total Unusual Items Excluding Goodwill,2023-09-30 00:00:00,-50000000.0,QCOM,2021
+Net Income From Continuing Operation Net Minority Interest,2023-09-30 00:00:00,7339000000.0,QCOM,2021
+Reconciled Depreciation,2023-09-30 00:00:00,1809000000.0,QCOM,2021
+Reconciled Cost Of Revenue,2023-09-30 00:00:00,15869000000.0,QCOM,2021
+EBITDA,2023-09-30 00:00:00,9946000000.0,QCOM,2021
+EBIT,2023-09-30 00:00:00,8137000000.0,QCOM,2021
+Net Interest Income,2023-09-30 00:00:00,-381000000.0,QCOM,2021
+Interest Expense,2023-09-30 00:00:00,694000000.0,QCOM,2021
+Interest Income,2023-09-30 00:00:00,313000000.0,QCOM,2021
+Normalized Income,2023-09-30 00:00:00,7388500000.0,QCOM,2021
+Net Income From Continuing And Discontinued Operation,2023-09-30 00:00:00,7232000000.0,QCOM,2021
+Total Expenses,2023-09-30 00:00:00,28032000000.0,QCOM,2021
+Total Operating Income As Reported,2023-09-30 00:00:00,7788000000.0,QCOM,2021
+Diluted Average Shares,2023-09-30 00:00:00,1126000000.0,QCOM,2021
+Basic Average Shares,2023-09-30 00:00:00,1117000000.0,QCOM,2021
+Diluted EPS,2023-09-30 00:00:00,6.42,QCOM,2021
+Basic EPS,2023-09-30 00:00:00,6.47,QCOM,2021
+Diluted NI Availto Com Stockholders,2023-09-30 00:00:00,7232000000.0,QCOM,2021
+Net Income Common Stockholders,2023-09-30 00:00:00,7232000000.0,QCOM,2021
+Net Income,2023-09-30 00:00:00,7232000000.0,QCOM,2021
+Net Income Including Noncontrolling Interests,2023-09-30 00:00:00,7232000000.0,QCOM,2021
+Net Income Discontinuous Operations,2023-09-30 00:00:00,-107000000.0,QCOM,2021
+Net Income Continuous Operations,2023-09-30 00:00:00,7339000000.0,QCOM,2021
+Tax Provision,2023-09-30 00:00:00,104000000.0,QCOM,2021
+Pretax Income,2023-09-30 00:00:00,7443000000.0,QCOM,2021
+Other Income Expense,2023-09-30 00:00:00,36000000.0,QCOM,2021
+Other Non Operating Income Expenses,2023-09-30 00:00:00,86000000.0,QCOM,2021
+Special Income Charges,2023-09-30 00:00:00,-132000000.0,QCOM,2021
+Write Off,2023-09-30 00:00:00,132000000.0,QCOM,2021
+Earnings From Equity Interest,2023-09-30 00:00:00,,QCOM,2021
+Gain On Sale Of Security,2023-09-30 00:00:00,82000000.0,QCOM,2021
+Net Non Operating Interest Income Expense,2023-09-30 00:00:00,-381000000.0,QCOM,2021
+Interest Expense Non Operating,2023-09-30 00:00:00,694000000.0,QCOM,2021
+Interest Income Non Operating,2023-09-30 00:00:00,313000000.0,QCOM,2021
+Operating Income,2023-09-30 00:00:00,7788000000.0,QCOM,2021
+Operating Expense,2023-09-30 00:00:00,12163000000.0,QCOM,2021
+Other Operating Expenses,2023-09-30 00:00:00,862000000.0,QCOM,2021
+Research And Development,2023-09-30 00:00:00,8818000000.0,QCOM,2021
+Selling General And Administration,2023-09-30 00:00:00,2483000000.0,QCOM,2021
+Gross Profit,2023-09-30 00:00:00,19951000000.0,QCOM,2021
+Cost Of Revenue,2023-09-30 00:00:00,15869000000.0,QCOM,2021
+Total Revenue,2023-09-30 00:00:00,35820000000.0,QCOM,2021
+Operating Revenue,2023-09-30 00:00:00,35820000000.0,QCOM,2021
+Tax Effect Of Unusual Items,2022-09-30 00:00:00,-41860000.0,QCOM,2021
+Tax Rate For Calcs,2022-09-30 00:00:00,0.13,QCOM,2021
+Normalized EBITDA,2022-09-30 00:00:00,17572000000.0,QCOM,2021
+Total Unusual Items,2022-09-30 00:00:00,-322000000.0,QCOM,2021
+Total Unusual Items Excluding Goodwill,2022-09-30 00:00:00,-322000000.0,QCOM,2021
+Net Income From Continuing Operation Net Minority Interest,2022-09-30 00:00:00,12986000000.0,QCOM,2021
+Reconciled Depreciation,2022-09-30 00:00:00,1762000000.0,QCOM,2021
+Reconciled Cost Of Revenue,2022-09-30 00:00:00,18635000000.0,QCOM,2021
+EBITDA,2022-09-30 00:00:00,17250000000.0,QCOM,2021
+EBIT,2022-09-30 00:00:00,15488000000.0,QCOM,2021
+Net Interest Income,2022-09-30 00:00:00,-399000000.0,QCOM,2021
+Interest Expense,2022-09-30 00:00:00,490000000.0,QCOM,2021
+Interest Income,2022-09-30 00:00:00,91000000.0,QCOM,2021
+Normalized Income,2022-09-30 00:00:00,13266140000.0,QCOM,2021
+Net Income From Continuing And Discontinued Operation,2022-09-30 00:00:00,12936000000.0,QCOM,2021
+Total Expenses,2022-09-30 00:00:00,28340000000.0,QCOM,2021
+Total Operating Income As Reported,2022-09-30 00:00:00,15860000000.0,QCOM,2021
+Diluted Average Shares,2022-09-30 00:00:00,1137000000.0,QCOM,2021
+Basic Average Shares,2022-09-30 00:00:00,1123000000.0,QCOM,2021
+Diluted EPS,2022-09-30 00:00:00,11.37,QCOM,2021
+Basic EPS,2022-09-30 00:00:00,11.52,QCOM,2021
+Diluted NI Availto Com Stockholders,2022-09-30 00:00:00,12936000000.0,QCOM,2021
+Net Income Common Stockholders,2022-09-30 00:00:00,12936000000.0,QCOM,2021
+Net Income,2022-09-30 00:00:00,12936000000.0,QCOM,2021
+Net Income Including Noncontrolling Interests,2022-09-30 00:00:00,12936000000.0,QCOM,2021
+Net Income Discontinuous Operations,2022-09-30 00:00:00,-50000000.0,QCOM,2021
+Net Income Continuous Operations,2022-09-30 00:00:00,12986000000.0,QCOM,2021
+Tax Provision,2022-09-30 00:00:00,2012000000.0,QCOM,2021
+Pretax Income,2022-09-30 00:00:00,14998000000.0,QCOM,2021
+Other Income Expense,2022-09-30 00:00:00,-463000000.0,QCOM,2021
+Other Non Operating Income Expenses,2022-09-30 00:00:00,-141000000.0,QCOM,2021
+Special Income Charges,2022-09-30 00:00:00,-47000000.0,QCOM,2021
+Write Off,2022-09-30 00:00:00,47000000.0,QCOM,2021
+Earnings From Equity Interest,2022-09-30 00:00:00,-7000000.0,QCOM,2021
+Gain On Sale Of Security,2022-09-30 00:00:00,-275000000.0,QCOM,2021
+Net Non Operating Interest Income Expense,2022-09-30 00:00:00,-399000000.0,QCOM,2021
+Interest Expense Non Operating,2022-09-30 00:00:00,490000000.0,QCOM,2021
+Interest Income Non Operating,2022-09-30 00:00:00,91000000.0,QCOM,2021
+Operating Income,2022-09-30 00:00:00,15860000000.0,QCOM,2021
+Operating Expense,2022-09-30 00:00:00,9705000000.0,QCOM,2021
+Other Operating Expenses,2022-09-30 00:00:00,-1059000000.0,QCOM,2021
+Research And Development,2022-09-30 00:00:00,8194000000.0,QCOM,2021
+Selling General And Administration,2022-09-30 00:00:00,2570000000.0,QCOM,2021
+Gross Profit,2022-09-30 00:00:00,25565000000.0,QCOM,2021
+Cost Of Revenue,2022-09-30 00:00:00,18635000000.0,QCOM,2021
+Total Revenue,2022-09-30 00:00:00,44200000000.0,QCOM,2021
+Operating Revenue,2022-09-30 00:00:00,44200000000.0,QCOM,2021
+Tax Effect Of Unusual Items,2021-09-30 00:00:00,99720000.0,QCOM,2021
+Tax Rate For Calcs,2021-09-30 00:00:00,0.12,QCOM,2021
+Normalized EBITDA,2021-09-30 00:00:00,11584000000.0,QCOM,2021
+Total Unusual Items,2021-09-30 00:00:00,831000000.0,QCOM,2021
+Total Unusual Items Excluding Goodwill,2021-09-30 00:00:00,831000000.0,QCOM,2021
+Net Income From Continuing Operation Net Minority Interest,2021-09-30 00:00:00,9043000000.0,QCOM,2021
+Reconciled Depreciation,2021-09-30 00:00:00,1582000000.0,QCOM,2021
+Reconciled Cost Of Revenue,2021-09-30 00:00:00,14262000000.0,QCOM,2021
+EBITDA,2021-09-30 00:00:00,12415000000.0,QCOM,2021
+EBIT,2021-09-30 00:00:00,10833000000.0,QCOM,2021
+Net Interest Income,2021-09-30 00:00:00,-476000000.0,QCOM,2021
+Interest Expense,2021-09-30 00:00:00,559000000.0,QCOM,2021
+Interest Income,2021-09-30 00:00:00,83000000.0,QCOM,2021
+Normalized Income,2021-09-30 00:00:00,8311720000.0,QCOM,2021
+Net Income From Continuing And Discontinued Operation,2021-09-30 00:00:00,9043000000.0,QCOM,2021
+Total Expenses,2021-09-30 00:00:00,23777000000.0,QCOM,2021
+Total Operating Income As Reported,2021-09-30 00:00:00,9789000000.0,QCOM,2021
+Diluted Average Shares,2021-09-30 00:00:00,1149000000.0,QCOM,2021
+Basic Average Shares,2021-09-30 00:00:00,1131000000.0,QCOM,2021
+Diluted EPS,2021-09-30 00:00:00,7.87,QCOM,2021
+Basic EPS,2021-09-30 00:00:00,7.99,QCOM,2021
+Diluted NI Availto Com Stockholders,2021-09-30 00:00:00,9043000000.0,QCOM,2021
+Net Income Common Stockholders,2021-09-30 00:00:00,9043000000.0,QCOM,2021
+Net Income,2021-09-30 00:00:00,9043000000.0,QCOM,2021
+Net Income Including Noncontrolling Interests,2021-09-30 00:00:00,9043000000.0,QCOM,2021
+Net Income Discontinuous Operations,2021-09-30 00:00:00,0.0,QCOM,2021
+Net Income Continuous Operations,2021-09-30 00:00:00,9043000000.0,QCOM,2021
+Tax Provision,2021-09-30 00:00:00,1231000000.0,QCOM,2021
+Pretax Income,2021-09-30 00:00:00,10274000000.0,QCOM,2021
+Other Income Expense,2021-09-30 00:00:00,961000000.0,QCOM,2021
+Other Non Operating Income Expenses,2021-09-30 00:00:00,130000000.0,QCOM,2021
+Special Income Charges,2021-09-30 00:00:00,-33000000.0,QCOM,2021
+Write Off,2021-09-30 00:00:00,33000000.0,QCOM,2021
+Earnings From Equity Interest,2021-09-30 00:00:00,13000000.0,QCOM,2021
+Gain On Sale Of Security,2021-09-30 00:00:00,864000000.0,QCOM,2021
+Net Non Operating Interest Income Expense,2021-09-30 00:00:00,-476000000.0,QCOM,2021
+Interest Expense Non Operating,2021-09-30 00:00:00,559000000.0,QCOM,2021
+Interest Income Non Operating,2021-09-30 00:00:00,83000000.0,QCOM,2021
+Operating Income,2021-09-30 00:00:00,9789000000.0,QCOM,2021
+Operating Expense,2021-09-30 00:00:00,9515000000.0,QCOM,2021
+Other Operating Expenses,2021-09-30 00:00:00,,QCOM,2021
+Research And Development,2021-09-30 00:00:00,7176000000.0,QCOM,2021
+Selling General And Administration,2021-09-30 00:00:00,2339000000.0,QCOM,2021
+Gross Profit,2021-09-30 00:00:00,19304000000.0,QCOM,2021
+Cost Of Revenue,2021-09-30 00:00:00,14262000000.0,QCOM,2021
+Total Revenue,2021-09-30 00:00:00,33566000000.0,QCOM,2021
+Operating Revenue,2021-09-30 00:00:00,33566000000.0,QCOM,2021
+Tax Effect Of Unusual Items,2020-09-30 00:00:00,,QCOM,2021
+Tax Rate For Calcs,2020-09-30 00:00:00,,QCOM,2021
+Normalized EBITDA,2020-09-30 00:00:00,,QCOM,2021
+Total Unusual Items,2020-09-30 00:00:00,,QCOM,2021
+Total Unusual Items Excluding Goodwill,2020-09-30 00:00:00,,QCOM,2021
+Net Income From Continuing Operation Net Minority Interest,2020-09-30 00:00:00,,QCOM,2021
+Reconciled Depreciation,2020-09-30 00:00:00,,QCOM,2021
+Reconciled Cost Of Revenue,2020-09-30 00:00:00,,QCOM,2021
+EBITDA,2020-09-30 00:00:00,,QCOM,2021
+EBIT,2020-09-30 00:00:00,,QCOM,2021
+Net Interest Income,2020-09-30 00:00:00,,QCOM,2021
+Interest Expense,2020-09-30 00:00:00,,QCOM,2021
+Interest Income,2020-09-30 00:00:00,,QCOM,2021
+Normalized Income,2020-09-30 00:00:00,,QCOM,2021
+Net Income From Continuing And Discontinued Operation,2020-09-30 00:00:00,,QCOM,2021
+Total Expenses,2020-09-30 00:00:00,,QCOM,2021
+Total Operating Income As Reported,2020-09-30 00:00:00,,QCOM,2021
+Diluted Average Shares,2020-09-30 00:00:00,,QCOM,2021
+Basic Average Shares,2020-09-30 00:00:00,,QCOM,2021
+Diluted EPS,2020-09-30 00:00:00,,QCOM,2021
+Basic EPS,2020-09-30 00:00:00,,QCOM,2021
+Diluted NI Availto Com Stockholders,2020-09-30 00:00:00,,QCOM,2021
+Net Income Common Stockholders,2020-09-30 00:00:00,,QCOM,2021
+Net Income,2020-09-30 00:00:00,,QCOM,2021
+Net Income Including Noncontrolling Interests,2020-09-30 00:00:00,,QCOM,2021
+Net Income Discontinuous Operations,2020-09-30 00:00:00,,QCOM,2021
+Net Income Continuous Operations,2020-09-30 00:00:00,,QCOM,2021
+Tax Provision,2020-09-30 00:00:00,,QCOM,2021
+Pretax Income,2020-09-30 00:00:00,,QCOM,2021
+Other Income Expense,2020-09-30 00:00:00,,QCOM,2021
+Other Non Operating Income Expenses,2020-09-30 00:00:00,,QCOM,2021
+Special Income Charges,2020-09-30 00:00:00,,QCOM,2021
+Write Off,2020-09-30 00:00:00,,QCOM,2021
+Earnings From Equity Interest,2020-09-30 00:00:00,-21000000.0,QCOM,2021
+Gain On Sale Of Security,2020-09-30 00:00:00,,QCOM,2021
+Net Non Operating Interest Income Expense,2020-09-30 00:00:00,,QCOM,2021
+Interest Expense Non Operating,2020-09-30 00:00:00,,QCOM,2021
+Interest Income Non Operating,2020-09-30 00:00:00,,QCOM,2021
+Operating Income,2020-09-30 00:00:00,,QCOM,2021
+Operating Expense,2020-09-30 00:00:00,,QCOM,2021
+Other Operating Expenses,2020-09-30 00:00:00,-28000000.0,QCOM,2021
+Research And Development,2020-09-30 00:00:00,,QCOM,2021
+Selling General And Administration,2020-09-30 00:00:00,,QCOM,2021
+Gross Profit,2020-09-30 00:00:00,,QCOM,2021
+Cost Of Revenue,2020-09-30 00:00:00,,QCOM,2021
+Total Revenue,2020-09-30 00:00:00,,QCOM,2021
+Operating Revenue,2020-09-30 00:00:00,,QCOM,2021
+Tax Effect Of Unusual Items,__statement__,income_stmt,QCOM,2021
+Tax Rate For Calcs,__statement__,income_stmt,QCOM,2021
+Normalized EBITDA,__statement__,income_stmt,QCOM,2021
+Total Unusual Items,__statement__,income_stmt,QCOM,2021
+Total Unusual Items Excluding Goodwill,__statement__,income_stmt,QCOM,2021
+Net Income From Continuing Operation Net Minority Interest,__statement__,income_stmt,QCOM,2021
+Reconciled Depreciation,__statement__,income_stmt,QCOM,2021
+Reconciled Cost Of Revenue,__statement__,income_stmt,QCOM,2021
+EBITDA,__statement__,income_stmt,QCOM,2021
+EBIT,__statement__,income_stmt,QCOM,2021
+Net Interest Income,__statement__,income_stmt,QCOM,2021
+Interest Expense,__statement__,income_stmt,QCOM,2021
+Interest Income,__statement__,income_stmt,QCOM,2021
+Normalized Income,__statement__,income_stmt,QCOM,2021
+Net Income From Continuing And Discontinued Operation,__statement__,income_stmt,QCOM,2021
+Total Expenses,__statement__,income_stmt,QCOM,2021
+Total Operating Income As Reported,__statement__,income_stmt,QCOM,2021
+Diluted Average Shares,__statement__,income_stmt,QCOM,2021
+Basic Average Shares,__statement__,income_stmt,QCOM,2021
+Diluted EPS,__statement__,income_stmt,QCOM,2021
+Basic EPS,__statement__,income_stmt,QCOM,2021
+Diluted NI Availto Com Stockholders,__statement__,income_stmt,QCOM,2021
+Net Income Common Stockholders,__statement__,income_stmt,QCOM,2021
+Net Income,__statement__,income_stmt,QCOM,2021
+Net Income Including Noncontrolling Interests,__statement__,income_stmt,QCOM,2021
+Net Income Discontinuous Operations,__statement__,income_stmt,QCOM,2021
+Net Income Continuous Operations,__statement__,income_stmt,QCOM,2021
+Tax Provision,__statement__,income_stmt,QCOM,2021
+Pretax Income,__statement__,income_stmt,QCOM,2021
+Other Income Expense,__statement__,income_stmt,QCOM,2021
+Other Non Operating Income Expenses,__statement__,income_stmt,QCOM,2021
+Special Income Charges,__statement__,income_stmt,QCOM,2021
+Write Off,__statement__,income_stmt,QCOM,2021
+Earnings From Equity Interest,__statement__,income_stmt,QCOM,2021
+Gain On Sale Of Security,__statement__,income_stmt,QCOM,2021
+Net Non Operating Interest Income Expense,__statement__,income_stmt,QCOM,2021
+Interest Expense Non Operating,__statement__,income_stmt,QCOM,2021
+Interest Income Non Operating,__statement__,income_stmt,QCOM,2021
+Operating Income,__statement__,income_stmt,QCOM,2021
+Operating Expense,__statement__,income_stmt,QCOM,2021
+Other Operating Expenses,__statement__,income_stmt,QCOM,2021
+Research And Development,__statement__,income_stmt,QCOM,2021
+Selling General And Administration,__statement__,income_stmt,QCOM,2021
+Gross Profit,__statement__,income_stmt,QCOM,2021
+Cost Of Revenue,__statement__,income_stmt,QCOM,2021
+Total Revenue,__statement__,income_stmt,QCOM,2021
+Operating Revenue,__statement__,income_stmt,QCOM,2021
+Ordinary Shares Number,2024-09-30 00:00:00,1113000000.0,QCOM,2021
+Share Issued,2024-09-30 00:00:00,1113000000.0,QCOM,2021
+Net Debt,2024-09-30 00:00:00,6785000000.0,QCOM,2021
+Total Debt,2024-09-30 00:00:00,14634000000.0,QCOM,2021
+Tangible Book Value,2024-09-30 00:00:00,14231000000.0,QCOM,2021
+Invested Capital,2024-09-30 00:00:00,40908000000.0,QCOM,2021
+Working Capital,2024-09-30 00:00:00,14727000000.0,QCOM,2021
+Net Tangible Assets,2024-09-30 00:00:00,14231000000.0,QCOM,2021
+Common Stock Equity,2024-09-30 00:00:00,26274000000.0,QCOM,2021
+Total Capitalization,2024-09-30 00:00:00,39544000000.0,QCOM,2021
+Total Equity Gross Minority Interest,2024-09-30 00:00:00,26274000000.0,QCOM,2021
+Stockholders Equity,2024-09-30 00:00:00,26274000000.0,QCOM,2021
+Gains Losses Not Affecting Retained Earnings,2024-09-30 00:00:00,587000000.0,QCOM,2021
+Other Equity Adjustments,2024-09-30 00:00:00,587000000.0,QCOM,2021
+Retained Earnings,2024-09-30 00:00:00,25687000000.0,QCOM,2021
+Capital Stock,2024-09-30 00:00:00,0.0,QCOM,2021
+Common Stock,2024-09-30 00:00:00,0.0,QCOM,2021
+Preferred Stock,2024-09-30 00:00:00,0.0,QCOM,2021
+Total Liabilities Net Minority Interest,2024-09-30 00:00:00,28880000000.0,QCOM,2021
+Total Non Current Liabilities Net Minority Interest,2024-09-30 00:00:00,18376000000.0,QCOM,2021
+Other Non Current Liabilities,2024-09-30 00:00:00,5018000000.0,QCOM,2021
+Liabilities Heldfor Sale Non Current,2024-09-30 00:00:00,0.0,QCOM,2021
+Tradeand Other Payables Non Current,2024-09-30 00:00:00,,QCOM,2021
+Non Current Deferred Liabilities,2024-09-30 00:00:00,88000000.0,QCOM,2021
+Non Current Deferred Revenue,2024-09-30 00:00:00,88000000.0,QCOM,2021
+Long Term Debt And Capital Lease Obligation,2024-09-30 00:00:00,13270000000.0,QCOM,2021
+Long Term Debt,2024-09-30 00:00:00,13270000000.0,QCOM,2021
+Current Liabilities,2024-09-30 00:00:00,10504000000.0,QCOM,2021
+Other Current Liabilities,2024-09-30 00:00:00,3345000000.0,QCOM,2021
+Current Deferred Liabilities,2024-09-30 00:00:00,297000000.0,QCOM,2021
+Current Deferred Revenue,2024-09-30 00:00:00,297000000.0,QCOM,2021
+Current Debt And Capital Lease Obligation,2024-09-30 00:00:00,1364000000.0,QCOM,2021
+Current Debt,2024-09-30 00:00:00,1364000000.0,QCOM,2021
+Other Current Borrowings,2024-09-30 00:00:00,1364000000.0,QCOM,2021
+Commercial Paper,2024-09-30 00:00:00,,QCOM,2021
+Payables And Accrued Expenses,2024-09-30 00:00:00,5498000000.0,QCOM,2021
+Current Accrued Expenses,2024-09-30 00:00:00,1834000000.0,QCOM,2021
+Payables,2024-09-30 00:00:00,3664000000.0,QCOM,2021
+Total Tax Payable,2024-09-30 00:00:00,1080000000.0,QCOM,2021
+Income Tax Payable,2024-09-30 00:00:00,1080000000.0,QCOM,2021
+Accounts Payable,2024-09-30 00:00:00,2584000000.0,QCOM,2021
+Total Assets,2024-09-30 00:00:00,55154000000.0,QCOM,2021
+Total Non Current Assets,2024-09-30 00:00:00,29923000000.0,QCOM,2021
+Other Non Current Assets,2024-09-30 00:00:00,8053000000.0,QCOM,2021
+Non Current Deferred Assets,2024-09-30 00:00:00,5162000000.0,QCOM,2021
+Non Current Deferred Taxes Assets,2024-09-30 00:00:00,5162000000.0,QCOM,2021
+Goodwill And Other Intangible Assets,2024-09-30 00:00:00,12043000000.0,QCOM,2021
+Other Intangible Assets,2024-09-30 00:00:00,1244000000.0,QCOM,2021
+Goodwill,2024-09-30 00:00:00,10799000000.0,QCOM,2021
+Net PPE,2024-09-30 00:00:00,4665000000.0,QCOM,2021
+Accumulated Depreciation,2024-09-30 00:00:00,-8876000000.0,QCOM,2021
+Gross PPE,2024-09-30 00:00:00,13541000000.0,QCOM,2021
+Leases,2024-09-30 00:00:00,550000000.0,QCOM,2021
+Construction In Progress,2024-09-30 00:00:00,126000000.0,QCOM,2021
+Machinery Furniture Equipment,2024-09-30 00:00:00,10808000000.0,QCOM,2021
+Buildings And Improvements,2024-09-30 00:00:00,1888000000.0,QCOM,2021
+Land And Improvements,2024-09-30 00:00:00,169000000.0,QCOM,2021
+Properties,2024-09-30 00:00:00,0.0,QCOM,2021
+Current Assets,2024-09-30 00:00:00,25231000000.0,QCOM,2021
+Other Current Assets,2024-09-30 00:00:00,1579000000.0,QCOM,2021
+Assets Held For Sale Current,2024-09-30 00:00:00,0.0,QCOM,2021
+Inventory,2024-09-30 00:00:00,6423000000.0,QCOM,2021
+Finished Goods,2024-09-30 00:00:00,2586000000.0,QCOM,2021
+Work In Process,2024-09-30 00:00:00,3497000000.0,QCOM,2021
+Raw Materials,2024-09-30 00:00:00,340000000.0,QCOM,2021
+Receivables,2024-09-30 00:00:00,3929000000.0,QCOM,2021
+Other Receivables,2024-09-30 00:00:00,1582000000.0,QCOM,2021
+Accounts Receivable,2024-09-30 00:00:00,2347000000.0,QCOM,2021
+Cash Cash Equivalents And Short Term Investments,2024-09-30 00:00:00,13300000000.0,QCOM,2021
+Other Short Term Investments,2024-09-30 00:00:00,5451000000.0,QCOM,2021
+Cash And Cash Equivalents,2024-09-30 00:00:00,7849000000.0,QCOM,2021
+Ordinary Shares Number,2023-09-30 00:00:00,1114000000.0,QCOM,2021
+Share Issued,2023-09-30 00:00:00,1114000000.0,QCOM,2021
+Net Debt,2023-09-30 00:00:00,6948000000.0,QCOM,2021
+Total Debt,2023-09-30 00:00:00,15398000000.0,QCOM,2021
+Tangible Book Value,2023-09-30 00:00:00,9531000000.0,QCOM,2021
+Invested Capital,2023-09-30 00:00:00,36979000000.0,QCOM,2021
+Working Capital,2023-09-30 00:00:00,12836000000.0,QCOM,2021
+Net Tangible Assets,2023-09-30 00:00:00,9531000000.0,QCOM,2021
+Common Stock Equity,2023-09-30 00:00:00,21581000000.0,QCOM,2021
+Total Capitalization,2023-09-30 00:00:00,36065000000.0,QCOM,2021
+Total Equity Gross Minority Interest,2023-09-30 00:00:00,21581000000.0,QCOM,2021
+Stockholders Equity,2023-09-30 00:00:00,21581000000.0,QCOM,2021
+Gains Losses Not Affecting Retained Earnings,2023-09-30 00:00:00,358000000.0,QCOM,2021
+Other Equity Adjustments,2023-09-30 00:00:00,358000000.0,QCOM,2021
+Retained Earnings,2023-09-30 00:00:00,20733000000.0,QCOM,2021
+Capital Stock,2023-09-30 00:00:00,490000000.0,QCOM,2021
+Common Stock,2023-09-30 00:00:00,490000000.0,QCOM,2021
+Preferred Stock,2023-09-30 00:00:00,0.0,QCOM,2021
+Total Liabilities Net Minority Interest,2023-09-30 00:00:00,29459000000.0,QCOM,2021
+Total Non Current Liabilities Net Minority Interest,2023-09-30 00:00:00,19831000000.0,QCOM,2021
+Other Non Current Liabilities,2023-09-30 00:00:00,5210000000.0,QCOM,2021
+Liabilities Heldfor Sale Non Current,2023-09-30 00:00:00,38000000.0,QCOM,2021
+Tradeand Other Payables Non Current,2023-09-30 00:00:00,1080000000.0,QCOM,2021
+Non Current Deferred Liabilities,2023-09-30 00:00:00,99000000.0,QCOM,2021
+Non Current Deferred Revenue,2023-09-30 00:00:00,99000000.0,QCOM,2021
+Long Term Debt And Capital Lease Obligation,2023-09-30 00:00:00,14484000000.0,QCOM,2021
+Long Term Debt,2023-09-30 00:00:00,14484000000.0,QCOM,2021
+Current Liabilities,2023-09-30 00:00:00,9628000000.0,QCOM,2021
+Other Current Liabilities,2023-09-30 00:00:00,3107000000.0,QCOM,2021
+Current Deferred Liabilities,2023-09-30 00:00:00,293000000.0,QCOM,2021
+Current Deferred Revenue,2023-09-30 00:00:00,293000000.0,QCOM,2021
+Current Debt And Capital Lease Obligation,2023-09-30 00:00:00,914000000.0,QCOM,2021
+Current Debt,2023-09-30 00:00:00,914000000.0,QCOM,2021
+Other Current Borrowings,2023-09-30 00:00:00,914000000.0,QCOM,2021
+Commercial Paper,2023-09-30 00:00:00,0.0,QCOM,2021
+Payables And Accrued Expenses,2023-09-30 00:00:00,5314000000.0,QCOM,2021
+Current Accrued Expenses,2023-09-30 00:00:00,1685000000.0,QCOM,2021
+Payables,2023-09-30 00:00:00,3629000000.0,QCOM,2021
+Total Tax Payable,2023-09-30 00:00:00,1717000000.0,QCOM,2021
+Income Tax Payable,2023-09-30 00:00:00,1717000000.0,QCOM,2021
+Accounts Payable,2023-09-30 00:00:00,1912000000.0,QCOM,2021
+Total Assets,2023-09-30 00:00:00,51040000000.0,QCOM,2021
+Total Non Current Assets,2023-09-30 00:00:00,28576000000.0,QCOM,2021
+Other Non Current Assets,2023-09-30 00:00:00,8174000000.0,QCOM,2021
+Non Current Deferred Assets,2023-09-30 00:00:00,3310000000.0,QCOM,2021
+Non Current Deferred Taxes Assets,2023-09-30 00:00:00,3310000000.0,QCOM,2021
+Goodwill And Other Intangible Assets,2023-09-30 00:00:00,12050000000.0,QCOM,2021
+Other Intangible Assets,2023-09-30 00:00:00,1408000000.0,QCOM,2021
+Goodwill,2023-09-30 00:00:00,10642000000.0,QCOM,2021
+Net PPE,2023-09-30 00:00:00,5042000000.0,QCOM,2021
+Accumulated Depreciation,2023-09-30 00:00:00,-7668000000.0,QCOM,2021
+Gross PPE,2023-09-30 00:00:00,12710000000.0,QCOM,2021
+Leases,2023-09-30 00:00:00,485000000.0,QCOM,2021
+Construction In Progress,2023-09-30 00:00:00,226000000.0,QCOM,2021
+Machinery Furniture Equipment,2023-09-30 00:00:00,9981000000.0,QCOM,2021
+Buildings And Improvements,2023-09-30 00:00:00,1849000000.0,QCOM,2021
+Land And Improvements,2023-09-30 00:00:00,169000000.0,QCOM,2021
+Properties,2023-09-30 00:00:00,0.0,QCOM,2021
+Current Assets,2023-09-30 00:00:00,22464000000.0,QCOM,2021
+Other Current Assets,2023-09-30 00:00:00,1194000000.0,QCOM,2021
+Assets Held For Sale Current,2023-09-30 00:00:00,341000000.0,QCOM,2021
+Inventory,2023-09-30 00:00:00,6422000000.0,QCOM,2021
+Finished Goods,2023-09-30 00:00:00,2150000000.0,QCOM,2021
+Work In Process,2023-09-30 00:00:00,4096000000.0,QCOM,2021
+Raw Materials,2023-09-30 00:00:00,176000000.0,QCOM,2021
+Receivables,2023-09-30 00:00:00,3183000000.0,QCOM,2021
+Other Receivables,2023-09-30 00:00:00,1260000000.0,QCOM,2021
+Accounts Receivable,2023-09-30 00:00:00,1923000000.0,QCOM,2021
+Cash Cash Equivalents And Short Term Investments,2023-09-30 00:00:00,11324000000.0,QCOM,2021
+Other Short Term Investments,2023-09-30 00:00:00,2874000000.0,QCOM,2021
+Cash And Cash Equivalents,2023-09-30 00:00:00,8450000000.0,QCOM,2021
+Ordinary Shares Number,2022-09-30 00:00:00,1121000000.0,QCOM,2021
+Share Issued,2022-09-30 00:00:00,1121000000.0,QCOM,2021
+Net Debt,2022-09-30 00:00:00,12709000000.0,QCOM,2021
+Total Debt,2022-09-30 00:00:00,15482000000.0,QCOM,2021
+Tangible Book Value,2022-09-30 00:00:00,5623000000.0,QCOM,2021
+Invested Capital,2022-09-30 00:00:00,33495000000.0,QCOM,2021
+Working Capital,2022-09-30 00:00:00,8858000000.0,QCOM,2021
+Net Tangible Assets,2022-09-30 00:00:00,5623000000.0,QCOM,2021
+Common Stock Equity,2022-09-30 00:00:00,18013000000.0,QCOM,2021
+Total Capitalization,2022-09-30 00:00:00,31550000000.0,QCOM,2021
+Total Equity Gross Minority Interest,2022-09-30 00:00:00,18013000000.0,QCOM,2021
+Stockholders Equity,2022-09-30 00:00:00,18013000000.0,QCOM,2021
+Gains Losses Not Affecting Retained Earnings,2022-09-30 00:00:00,-22000000.0,QCOM,2021
+Other Equity Adjustments,2022-09-30 00:00:00,-22000000.0,QCOM,2021
+Retained Earnings,2022-09-30 00:00:00,17840000000.0,QCOM,2021
+Capital Stock,2022-09-30 00:00:00,195000000.0,QCOM,2021
+Common Stock,2022-09-30 00:00:00,195000000.0,QCOM,2021
+Preferred Stock,2022-09-30 00:00:00,0.0,QCOM,2021
+Total Liabilities Net Minority Interest,2022-09-30 00:00:00,31001000000.0,QCOM,2021
+Total Non Current Liabilities Net Minority Interest,2022-09-30 00:00:00,19135000000.0,QCOM,2021
+Other Non Current Liabilities,2022-09-30 00:00:00,3863000000.0,QCOM,2021
+Liabilities Heldfor Sale Non Current,2022-09-30 00:00:00,119000000.0,QCOM,2021
+Tradeand Other Payables Non Current,2022-09-30 00:00:00,1472000000.0,QCOM,2021
+Non Current Deferred Liabilities,2022-09-30 00:00:00,144000000.0,QCOM,2021
+Non Current Deferred Revenue,2022-09-30 00:00:00,144000000.0,QCOM,2021
+Long Term Debt And Capital Lease Obligation,2022-09-30 00:00:00,13537000000.0,QCOM,2021
+Long Term Debt,2022-09-30 00:00:00,13537000000.0,QCOM,2021
+Current Liabilities,2022-09-30 00:00:00,11866000000.0,QCOM,2021
+Other Current Liabilities,2022-09-30 00:00:00,3636000000.0,QCOM,2021
+Current Deferred Liabilities,2022-09-30 00:00:00,369000000.0,QCOM,2021
+Current Deferred Revenue,2022-09-30 00:00:00,369000000.0,QCOM,2021
+Current Debt And Capital Lease Obligation,2022-09-30 00:00:00,1945000000.0,QCOM,2021
+Current Debt,2022-09-30 00:00:00,1945000000.0,QCOM,2021
+Other Current Borrowings,2022-09-30 00:00:00,1446000000.0,QCOM,2021
+Commercial Paper,2022-09-30 00:00:00,499000000.0,QCOM,2021
+Payables And Accrued Expenses,2022-09-30 00:00:00,5916000000.0,QCOM,2021
+Current Accrued Expenses,2022-09-30 00:00:00,1486000000.0,QCOM,2021
+Payables,2022-09-30 00:00:00,4430000000.0,QCOM,2021
+Total Tax Payable,2022-09-30 00:00:00,634000000.0,QCOM,2021
+Income Tax Payable,2022-09-30 00:00:00,634000000.0,QCOM,2021
+Accounts Payable,2022-09-30 00:00:00,3796000000.0,QCOM,2021
+Total Assets,2022-09-30 00:00:00,49014000000.0,QCOM,2021
+Total Non Current Assets,2022-09-30 00:00:00,28290000000.0,QCOM,2021
+Other Non Current Assets,2022-09-30 00:00:00,8929000000.0,QCOM,2021
+Non Current Deferred Assets,2022-09-30 00:00:00,1803000000.0,QCOM,2021
+Non Current Deferred Taxes Assets,2022-09-30 00:00:00,1803000000.0,QCOM,2021
+Goodwill And Other Intangible Assets,2022-09-30 00:00:00,12390000000.0,QCOM,2021
+Other Intangible Assets,2022-09-30 00:00:00,1882000000.0,QCOM,2021
+Goodwill,2022-09-30 00:00:00,10508000000.0,QCOM,2021
+Net PPE,2022-09-30 00:00:00,5168000000.0,QCOM,2021
+Accumulated Depreciation,2022-09-30 00:00:00,-6602000000.0,QCOM,2021
+Gross PPE,2022-09-30 00:00:00,11770000000.0,QCOM,2021
+Leases,2022-09-30 00:00:00,369000000.0,QCOM,2021
+Construction In Progress,2022-09-30 00:00:00,330000000.0,QCOM,2021
+Machinery Furniture Equipment,2022-09-30 00:00:00,9134000000.0,QCOM,2021
+Buildings And Improvements,2022-09-30 00:00:00,1767000000.0,QCOM,2021
+Land And Improvements,2022-09-30 00:00:00,170000000.0,QCOM,2021
+Properties,2022-09-30 00:00:00,0.0,QCOM,2021
+Current Assets,2022-09-30 00:00:00,20724000000.0,QCOM,2021
+Other Current Assets,2022-09-30 00:00:00,1625000000.0,QCOM,2021
+Assets Held For Sale Current,2022-09-30 00:00:00,733000000.0,QCOM,2021
+Inventory,2022-09-30 00:00:00,6341000000.0,QCOM,2021
+Finished Goods,2022-09-30 00:00:00,2791000000.0,QCOM,2021
+Work In Process,2022-09-30 00:00:00,3329000000.0,QCOM,2021
+Raw Materials,2022-09-30 00:00:00,221000000.0,QCOM,2021
+Receivables,2022-09-30 00:00:00,5643000000.0,QCOM,2021
+Other Receivables,2022-09-30 00:00:00,1468000000.0,QCOM,2021
+Accounts Receivable,2022-09-30 00:00:00,4175000000.0,QCOM,2021
+Cash Cash Equivalents And Short Term Investments,2022-09-30 00:00:00,6382000000.0,QCOM,2021
+Other Short Term Investments,2022-09-30 00:00:00,3609000000.0,QCOM,2021
+Cash And Cash Equivalents,2022-09-30 00:00:00,2773000000.0,QCOM,2021
+Ordinary Shares Number,2021-09-30 00:00:00,1125000000.0,QCOM,2021
+Share Issued,2021-09-30 00:00:00,1125000000.0,QCOM,2021
+Net Debt,2021-09-30 00:00:00,8629000000.0,QCOM,2021
+Total Debt,2021-09-30 00:00:00,15745000000.0,QCOM,2021
+Tangible Book Value,2021-09-30 00:00:00,1246000000.0,QCOM,2021
+Invested Capital,2021-09-30 00:00:00,25695000000.0,QCOM,2021
+Working Capital,2021-09-30 00:00:00,8124000000.0,QCOM,2021
+Net Tangible Assets,2021-09-30 00:00:00,1246000000.0,QCOM,2021
+Common Stock Equity,2021-09-30 00:00:00,9950000000.0,QCOM,2021
+Total Capitalization,2021-09-30 00:00:00,23651000000.0,QCOM,2021
+Total Equity Gross Minority Interest,2021-09-30 00:00:00,9950000000.0,QCOM,2021
+Stockholders Equity,2021-09-30 00:00:00,9950000000.0,QCOM,2021
+Gains Losses Not Affecting Retained Earnings,2021-09-30 00:00:00,128000000.0,QCOM,2021
+Other Equity Adjustments,2021-09-30 00:00:00,128000000.0,QCOM,2021
+Retained Earnings,2021-09-30 00:00:00,9822000000.0,QCOM,2021
+Capital Stock,2021-09-30 00:00:00,0.0,QCOM,2021
+Common Stock,2021-09-30 00:00:00,0.0,QCOM,2021
+Preferred Stock,2021-09-30 00:00:00,,QCOM,2021
+Total Liabilities Net Minority Interest,2021-09-30 00:00:00,31290000000.0,QCOM,2021
+Total Non Current Liabilities Net Minority Interest,2021-09-30 00:00:00,19339000000.0,QCOM,2021
+Other Non Current Liabilities,2021-09-30 00:00:00,3561000000.0,QCOM,2021
+Liabilities Heldfor Sale Non Current,2021-09-30 00:00:00,0.0,QCOM,2021
+Tradeand Other Payables Non Current,2021-09-30 00:00:00,1713000000.0,QCOM,2021
+Non Current Deferred Liabilities,2021-09-30 00:00:00,364000000.0,QCOM,2021
+Non Current Deferred Revenue,2021-09-30 00:00:00,364000000.0,QCOM,2021
+Long Term Debt And Capital Lease Obligation,2021-09-30 00:00:00,13701000000.0,QCOM,2021
+Long Term Debt,2021-09-30 00:00:00,13701000000.0,QCOM,2021
+Current Liabilities,2021-09-30 00:00:00,11951000000.0,QCOM,2021
+Other Current Liabilities,2021-09-30 00:00:00,2630000000.0,QCOM,2021
+Current Deferred Liabilities,2021-09-30 00:00:00,612000000.0,QCOM,2021
+Current Deferred Revenue,2021-09-30 00:00:00,612000000.0,QCOM,2021
+Current Debt And Capital Lease Obligation,2021-09-30 00:00:00,2044000000.0,QCOM,2021
+Current Debt,2021-09-30 00:00:00,2044000000.0,QCOM,2021
+Other Current Borrowings,2021-09-30 00:00:00,1544000000.0,QCOM,2021
+Commercial Paper,2021-09-30 00:00:00,500000000.0,QCOM,2021
+Payables And Accrued Expenses,2021-09-30 00:00:00,6665000000.0,QCOM,2021
+Current Accrued Expenses,2021-09-30 00:00:00,3053000000.0,QCOM,2021
+Payables,2021-09-30 00:00:00,3612000000.0,QCOM,2021
+Total Tax Payable,2021-09-30 00:00:00,862000000.0,QCOM,2021
+Income Tax Payable,2021-09-30 00:00:00,862000000.0,QCOM,2021
+Accounts Payable,2021-09-30 00:00:00,2750000000.0,QCOM,2021
+Total Assets,2021-09-30 00:00:00,41240000000.0,QCOM,2021
+Total Non Current Assets,2021-09-30 00:00:00,21165000000.0,QCOM,2021
+Other Non Current Assets,2021-09-30 00:00:00,6311000000.0,QCOM,2021
+Non Current Deferred Assets,2021-09-30 00:00:00,1591000000.0,QCOM,2021
+Non Current Deferred Taxes Assets,2021-09-30 00:00:00,1591000000.0,QCOM,2021
+Goodwill And Other Intangible Assets,2021-09-30 00:00:00,8704000000.0,QCOM,2021
+Other Intangible Assets,2021-09-30 00:00:00,1458000000.0,QCOM,2021
+Goodwill,2021-09-30 00:00:00,7246000000.0,QCOM,2021
+Net PPE,2021-09-30 00:00:00,4559000000.0,QCOM,2021
+Accumulated Depreciation,2021-09-30 00:00:00,-5895000000.0,QCOM,2021
+Gross PPE,2021-09-30 00:00:00,10454000000.0,QCOM,2021
+Leases,2021-09-30 00:00:00,374000000.0,QCOM,2021
+Construction In Progress,2021-09-30 00:00:00,269000000.0,QCOM,2021
+Machinery Furniture Equipment,2021-09-30 00:00:00,7997000000.0,QCOM,2021
+Buildings And Improvements,2021-09-30 00:00:00,1642000000.0,QCOM,2021
+Land And Improvements,2021-09-30 00:00:00,172000000.0,QCOM,2021
+Properties,2021-09-30 00:00:00,0.0,QCOM,2021
+Current Assets,2021-09-30 00:00:00,20075000000.0,QCOM,2021
+Other Current Assets,2021-09-30 00:00:00,854000000.0,QCOM,2021
+Assets Held For Sale Current,2021-09-30 00:00:00,0.0,QCOM,2021
+Inventory,2021-09-30 00:00:00,3228000000.0,QCOM,2021
+Finished Goods,2021-09-30 00:00:00,1486000000.0,QCOM,2021
+Work In Process,2021-09-30 00:00:00,1475000000.0,QCOM,2021
+Raw Materials,2021-09-30 00:00:00,267000000.0,QCOM,2021
+Receivables,2021-09-30 00:00:00,3579000000.0,QCOM,2021
+Other Receivables,2021-09-30 00:00:00,1365000000.0,QCOM,2021
+Accounts Receivable,2021-09-30 00:00:00,2214000000.0,QCOM,2021
+Cash Cash Equivalents And Short Term Investments,2021-09-30 00:00:00,12414000000.0,QCOM,2021
+Other Short Term Investments,2021-09-30 00:00:00,5298000000.0,QCOM,2021
+Cash And Cash Equivalents,2021-09-30 00:00:00,7116000000.0,QCOM,2021
+Ordinary Shares Number,2020-09-30 00:00:00,,QCOM,2021
+Share Issued,2020-09-30 00:00:00,,QCOM,2021
+Net Debt,2020-09-30 00:00:00,,QCOM,2021
+Total Debt,2020-09-30 00:00:00,,QCOM,2021
+Tangible Book Value,2020-09-30 00:00:00,,QCOM,2021
+Invested Capital,2020-09-30 00:00:00,,QCOM,2021
+Working Capital,2020-09-30 00:00:00,,QCOM,2021
+Net Tangible Assets,2020-09-30 00:00:00,,QCOM,2021
+Common Stock Equity,2020-09-30 00:00:00,,QCOM,2021
+Total Capitalization,2020-09-30 00:00:00,,QCOM,2021
+Total Equity Gross Minority Interest,2020-09-30 00:00:00,,QCOM,2021
+Stockholders Equity,2020-09-30 00:00:00,,QCOM,2021
+Gains Losses Not Affecting Retained Earnings,2020-09-30 00:00:00,,QCOM,2021
+Other Equity Adjustments,2020-09-30 00:00:00,,QCOM,2021
+Retained Earnings,2020-09-30 00:00:00,,QCOM,2021
+Capital Stock,2020-09-30 00:00:00,,QCOM,2021
+Common Stock,2020-09-30 00:00:00,,QCOM,2021
+Preferred Stock,2020-09-30 00:00:00,0.0,QCOM,2021
+Total Liabilities Net Minority Interest,2020-09-30 00:00:00,,QCOM,2021
+Total Non Current Liabilities Net Minority Interest,2020-09-30 00:00:00,,QCOM,2021
+Other Non Current Liabilities,2020-09-30 00:00:00,,QCOM,2021
+Liabilities Heldfor Sale Non Current,2020-09-30 00:00:00,,QCOM,2021
+Tradeand Other Payables Non Current,2020-09-30 00:00:00,1872000000.0,QCOM,2021
+Non Current Deferred Liabilities,2020-09-30 00:00:00,,QCOM,2021
+Non Current Deferred Revenue,2020-09-30 00:00:00,,QCOM,2021
+Long Term Debt And Capital Lease Obligation,2020-09-30 00:00:00,,QCOM,2021
+Long Term Debt,2020-09-30 00:00:00,,QCOM,2021
+Current Liabilities,2020-09-30 00:00:00,,QCOM,2021
+Other Current Liabilities,2020-09-30 00:00:00,,QCOM,2021
+Current Deferred Liabilities,2020-09-30 00:00:00,,QCOM,2021
+Current Deferred Revenue,2020-09-30 00:00:00,,QCOM,2021
+Current Debt And Capital Lease Obligation,2020-09-30 00:00:00,,QCOM,2021
+Current Debt,2020-09-30 00:00:00,,QCOM,2021
+Other Current Borrowings,2020-09-30 00:00:00,,QCOM,2021
+Commercial Paper,2020-09-30 00:00:00,500000000.0,QCOM,2021
+Payables And Accrued Expenses,2020-09-30 00:00:00,,QCOM,2021
+Current Accrued Expenses,2020-09-30 00:00:00,,QCOM,2021
+Payables,2020-09-30 00:00:00,,QCOM,2021
+Total Tax Payable,2020-09-30 00:00:00,,QCOM,2021
+Income Tax Payable,2020-09-30 00:00:00,,QCOM,2021
+Accounts Payable,2020-09-30 00:00:00,,QCOM,2021
+Total Assets,2020-09-30 00:00:00,,QCOM,2021
+Total Non Current Assets,2020-09-30 00:00:00,,QCOM,2021
+Other Non Current Assets,2020-09-30 00:00:00,,QCOM,2021
+Non Current Deferred Assets,2020-09-30 00:00:00,,QCOM,2021
+Non Current Deferred Taxes Assets,2020-09-30 00:00:00,,QCOM,2021
+Goodwill And Other Intangible Assets,2020-09-30 00:00:00,,QCOM,2021
+Other Intangible Assets,2020-09-30 00:00:00,,QCOM,2021
+Goodwill,2020-09-30 00:00:00,,QCOM,2021
+Net PPE,2020-09-30 00:00:00,,QCOM,2021
+Accumulated Depreciation,2020-09-30 00:00:00,,QCOM,2021
+Gross PPE,2020-09-30 00:00:00,,QCOM,2021
+Leases,2020-09-30 00:00:00,,QCOM,2021
+Construction In Progress,2020-09-30 00:00:00,,QCOM,2021
+Machinery Furniture Equipment,2020-09-30 00:00:00,,QCOM,2021
+Buildings And Improvements,2020-09-30 00:00:00,,QCOM,2021
+Land And Improvements,2020-09-30 00:00:00,,QCOM,2021
+Properties,2020-09-30 00:00:00,,QCOM,2021
+Current Assets,2020-09-30 00:00:00,,QCOM,2021
+Other Current Assets,2020-09-30 00:00:00,,QCOM,2021
+Assets Held For Sale Current,2020-09-30 00:00:00,,QCOM,2021
+Inventory,2020-09-30 00:00:00,,QCOM,2021
+Finished Goods,2020-09-30 00:00:00,,QCOM,2021
+Work In Process,2020-09-30 00:00:00,,QCOM,2021
+Raw Materials,2020-09-30 00:00:00,,QCOM,2021
+Receivables,2020-09-30 00:00:00,,QCOM,2021
+Other Receivables,2020-09-30 00:00:00,,QCOM,2021
+Accounts Receivable,2020-09-30 00:00:00,,QCOM,2021
+Cash Cash Equivalents And Short Term Investments,2020-09-30 00:00:00,,QCOM,2021
+Other Short Term Investments,2020-09-30 00:00:00,,QCOM,2021
+Cash And Cash Equivalents,2020-09-30 00:00:00,,QCOM,2021
+Ordinary Shares Number,__statement__,balance_sheet,QCOM,2021
+Share Issued,__statement__,balance_sheet,QCOM,2021
+Net Debt,__statement__,balance_sheet,QCOM,2021
+Total Debt,__statement__,balance_sheet,QCOM,2021
+Tangible Book Value,__statement__,balance_sheet,QCOM,2021
+Invested Capital,__statement__,balance_sheet,QCOM,2021
+Working Capital,__statement__,balance_sheet,QCOM,2021
+Net Tangible Assets,__statement__,balance_sheet,QCOM,2021
+Common Stock Equity,__statement__,balance_sheet,QCOM,2021
+Total Capitalization,__statement__,balance_sheet,QCOM,2021
+Total Equity Gross Minority Interest,__statement__,balance_sheet,QCOM,2021
+Stockholders Equity,__statement__,balance_sheet,QCOM,2021
+Gains Losses Not Affecting Retained Earnings,__statement__,balance_sheet,QCOM,2021
+Other Equity Adjustments,__statement__,balance_sheet,QCOM,2021
+Retained Earnings,__statement__,balance_sheet,QCOM,2021
+Capital Stock,__statement__,balance_sheet,QCOM,2021
+Common Stock,__statement__,balance_sheet,QCOM,2021
+Preferred Stock,__statement__,balance_sheet,QCOM,2021
+Total Liabilities Net Minority Interest,__statement__,balance_sheet,QCOM,2021
+Total Non Current Liabilities Net Minority Interest,__statement__,balance_sheet,QCOM,2021
+Other Non Current Liabilities,__statement__,balance_sheet,QCOM,2021
+Liabilities Heldfor Sale Non Current,__statement__,balance_sheet,QCOM,2021
+Tradeand Other Payables Non Current,__statement__,balance_sheet,QCOM,2021
+Non Current Deferred Liabilities,__statement__,balance_sheet,QCOM,2021
+Non Current Deferred Revenue,__statement__,balance_sheet,QCOM,2021
+Long Term Debt And Capital Lease Obligation,__statement__,balance_sheet,QCOM,2021
+Long Term Debt,__statement__,balance_sheet,QCOM,2021
+Current Liabilities,__statement__,balance_sheet,QCOM,2021
+Other Current Liabilities,__statement__,balance_sheet,QCOM,2021
+Current Deferred Liabilities,__statement__,balance_sheet,QCOM,2021
+Current Deferred Revenue,__statement__,balance_sheet,QCOM,2021
+Current Debt And Capital Lease Obligation,__statement__,balance_sheet,QCOM,2021
+Current Debt,__statement__,balance_sheet,QCOM,2021
+Other Current Borrowings,__statement__,balance_sheet,QCOM,2021
+Commercial Paper,__statement__,balance_sheet,QCOM,2021
+Payables And Accrued Expenses,__statement__,balance_sheet,QCOM,2021
+Current Accrued Expenses,__statement__,balance_sheet,QCOM,2021
+Payables,__statement__,balance_sheet,QCOM,2021
+Total Tax Payable,__statement__,balance_sheet,QCOM,2021
+Income Tax Payable,__statement__,balance_sheet,QCOM,2021
+Accounts Payable,__statement__,balance_sheet,QCOM,2021
+Total Assets,__statement__,balance_sheet,QCOM,2021
+Total Non Current Assets,__statement__,balance_sheet,QCOM,2021
+Other Non Current Assets,__statement__,balance_sheet,QCOM,2021
+Non Current Deferred Assets,__statement__,balance_sheet,QCOM,2021
+Non Current Deferred Taxes Assets,__statement__,balance_sheet,QCOM,2021
+Goodwill And Other Intangible Assets,__statement__,balance_sheet,QCOM,2021
+Other Intangible Assets,__statement__,balance_sheet,QCOM,2021
+Goodwill,__statement__,balance_sheet,QCOM,2021
+Net PPE,__statement__,balance_sheet,QCOM,2021
+Accumulated Depreciation,__statement__,balance_sheet,QCOM,2021
+Gross PPE,__statement__,balance_sheet,QCOM,2021
+Leases,__statement__,balance_sheet,QCOM,2021
+Construction In Progress,__statement__,balance_sheet,QCOM,2021
+Machinery Furniture Equipment,__statement__,balance_sheet,QCOM,2021
+Buildings And Improvements,__statement__,balance_sheet,QCOM,2021
+Land And Improvements,__statement__,balance_sheet,QCOM,2021
+Properties,__statement__,balance_sheet,QCOM,2021
+Current Assets,__statement__,balance_sheet,QCOM,2021
+Other Current Assets,__statement__,balance_sheet,QCOM,2021
+Assets Held For Sale Current,__statement__,balance_sheet,QCOM,2021
+Inventory,__statement__,balance_sheet,QCOM,2021
+Finished Goods,__statement__,balance_sheet,QCOM,2021
+Work In Process,__statement__,balance_sheet,QCOM,2021
+Raw Materials,__statement__,balance_sheet,QCOM,2021
+Receivables,__statement__,balance_sheet,QCOM,2021
+Other Receivables,__statement__,balance_sheet,QCOM,2021
+Accounts Receivable,__statement__,balance_sheet,QCOM,2021
+Cash Cash Equivalents And Short Term Investments,__statement__,balance_sheet,QCOM,2021
+Other Short Term Investments,__statement__,balance_sheet,QCOM,2021
+Cash And Cash Equivalents,__statement__,balance_sheet,QCOM,2021
+Free Cash Flow,2024-09-30 00:00:00,11161000000.0,QCOM,2021
+Repurchase Of Capital Stock,2024-09-30 00:00:00,-4121000000.0,QCOM,2021
+Repayment Of Debt,2024-09-30 00:00:00,-1713000000.0,QCOM,2021
+Issuance Of Debt,2024-09-30 00:00:00,799000000.0,QCOM,2021
+Issuance Of Capital Stock,2024-09-30 00:00:00,383000000.0,QCOM,2021
+Capital Expenditure,2024-09-30 00:00:00,-1041000000.0,QCOM,2021
+End Cash Position,2024-09-30 00:00:00,7849000000.0,QCOM,2021
+Beginning Cash Position,2024-09-30 00:00:00,8527000000.0,QCOM,2021
+Effect Of Exchange Rate Changes,2024-09-30 00:00:00,12000000.0,QCOM,2021
+Changes In Cash,2024-09-30 00:00:00,-690000000.0,QCOM,2021
+Financing Cash Flow,2024-09-30 00:00:00,-9269000000.0,QCOM,2021
+Cash From Discontinued Financing Activities,2024-09-30 00:00:00,19000000.0,QCOM,2021
+Cash Flow From Continuing Financing Activities,2024-09-30 00:00:00,-9288000000.0,QCOM,2021
+Net Other Financing Charges,2024-09-30 00:00:00,-949000000.0,QCOM,2021
+Cash Dividends Paid,2024-09-30 00:00:00,-3687000000.0,QCOM,2021
+Common Stock Dividend Paid,2024-09-30 00:00:00,-3687000000.0,QCOM,2021
+Net Common Stock Issuance,2024-09-30 00:00:00,-3738000000.0,QCOM,2021
+Common Stock Payments,2024-09-30 00:00:00,-4121000000.0,QCOM,2021
+Common Stock Issuance,2024-09-30 00:00:00,383000000.0,QCOM,2021
+Net Issuance Payments Of Debt,2024-09-30 00:00:00,-914000000.0,QCOM,2021
+Net Short Term Debt Issuance,2024-09-30 00:00:00,0.0,QCOM,2021
+Short Term Debt Payments,2024-09-30 00:00:00,-799000000.0,QCOM,2021
+Short Term Debt Issuance,2024-09-30 00:00:00,799000000.0,QCOM,2021
+Net Long Term Debt Issuance,2024-09-30 00:00:00,-914000000.0,QCOM,2021
+Long Term Debt Payments,2024-09-30 00:00:00,-914000000.0,QCOM,2021
+Long Term Debt Issuance,2024-09-30 00:00:00,0.0,QCOM,2021
+Investing Cash Flow,2024-09-30 00:00:00,-3623000000.0,QCOM,2021
+Cash From Discontinued Investing Activities,2024-09-30 00:00:00,2000000.0,QCOM,2021
+Cash Flow From Continuing Investing Activities,2024-09-30 00:00:00,-3625000000.0,QCOM,2021
+Net Other Investing Changes,2024-09-30 00:00:00,-36000000.0,QCOM,2021
+Net Investment Purchase And Sale,2024-09-30 00:00:00,-2304000000.0,QCOM,2021
+Sale Of Investment,2024-09-30 00:00:00,2765000000.0,QCOM,2021
+Purchase Of Investment,2024-09-30 00:00:00,-5069000000.0,QCOM,2021
+Net Business Purchase And Sale,2024-09-30 00:00:00,-254000000.0,QCOM,2021
+Purchase Of Business,2024-09-30 00:00:00,-254000000.0,QCOM,2021
+Net PPE Purchase And Sale,2024-09-30 00:00:00,10000000.0,QCOM,2021
+Sale Of PPE,2024-09-30 00:00:00,10000000.0,QCOM,2021
+Capital Expenditure Reported,2024-09-30 00:00:00,-1041000000.0,QCOM,2021
+Operating Cash Flow,2024-09-30 00:00:00,12202000000.0,QCOM,2021
+Cash From Discontinued Operating Activities,2024-09-30 00:00:00,-91000000.0,QCOM,2021
+Cash Flow From Continuing Operating Activities,2024-09-30 00:00:00,12293000000.0,QCOM,2021
+Change In Working Capital,2024-09-30 00:00:00,1223000000.0,QCOM,2021
+Change In Other Working Capital,2024-09-30 00:00:00,20000000.0,QCOM,2021
+Change In Other Current Assets,2024-09-30 00:00:00,230000000.0,QCOM,2021
+Change In Payables And Accrued Expense,2024-09-30 00:00:00,1728000000.0,QCOM,2021
+Change In Accrued Expense,2024-09-30 00:00:00,1046000000.0,QCOM,2021
+Change In Payable,2024-09-30 00:00:00,682000000.0,QCOM,2021
+Change In Account Payable,2024-09-30 00:00:00,682000000.0,QCOM,2021
+Change In Inventory,2024-09-30 00:00:00,13000000.0,QCOM,2021
+Change In Receivables,2024-09-30 00:00:00,-768000000.0,QCOM,2021
+Changes In Account Receivables,2024-09-30 00:00:00,-768000000.0,QCOM,2021
+Other Non Cash Items,2024-09-30 00:00:00,-67000000.0,QCOM,2021
+Stock Based Compensation,2024-09-30 00:00:00,2648000000.0,QCOM,2021
+Asset Impairment Charge,2024-09-30 00:00:00,86000000.0,QCOM,2021
+Deferred Tax,2024-09-30 00:00:00,-3064000000.0,QCOM,2021
+Deferred Income Tax,2024-09-30 00:00:00,-3064000000.0,QCOM,2021
+Depreciation Amortization Depletion,2024-09-30 00:00:00,1706000000.0,QCOM,2021
+Depreciation And Amortization,2024-09-30 00:00:00,1706000000.0,QCOM,2021
+Amortization Cash Flow,2024-09-30 00:00:00,,QCOM,2021
+Amortization Of Intangibles,2024-09-30 00:00:00,,QCOM,2021
+Depreciation,2024-09-30 00:00:00,,QCOM,2021
+Operating Gains Losses,2024-09-30 00:00:00,-349000000.0,QCOM,2021
+Gain Loss On Investment Securities,2024-09-30 00:00:00,-349000000.0,QCOM,2021
+Net Income From Continuing Operations,2024-09-30 00:00:00,10110000000.0,QCOM,2021
+Free Cash Flow,2023-09-30 00:00:00,9849000000.0,QCOM,2021
+Repurchase Of Capital Stock,2023-09-30 00:00:00,-2973000000.0,QCOM,2021
+Repayment Of Debt,2023-09-30 00:00:00,-7012000000.0,QCOM,2021
+Issuance Of Debt,2023-09-30 00:00:00,6948000000.0,QCOM,2021
+Issuance Of Capital Stock,2023-09-30 00:00:00,434000000.0,QCOM,2021
+Capital Expenditure,2023-09-30 00:00:00,-1450000000.0,QCOM,2021
+End Cash Position,2023-09-30 00:00:00,8527000000.0,QCOM,2021
+Beginning Cash Position,2023-09-30 00:00:00,3099000000.0,QCOM,2021
+Effect Of Exchange Rate Changes,2023-09-30 00:00:00,30000000.0,QCOM,2021
+Changes In Cash,2023-09-30 00:00:00,5398000000.0,QCOM,2021
+Financing Cash Flow,2023-09-30 00:00:00,-6663000000.0,QCOM,2021
+Cash From Discontinued Financing Activities,2023-09-30 00:00:00,-58000000.0,QCOM,2021
+Cash Flow From Continuing Financing Activities,2023-09-30 00:00:00,-6605000000.0,QCOM,2021
+Net Other Financing Charges,2023-09-30 00:00:00,-540000000.0,QCOM,2021
+Cash Dividends Paid,2023-09-30 00:00:00,-3462000000.0,QCOM,2021
+Common Stock Dividend Paid,2023-09-30 00:00:00,-3462000000.0,QCOM,2021
+Net Common Stock Issuance,2023-09-30 00:00:00,-2539000000.0,QCOM,2021
+Common Stock Payments,2023-09-30 00:00:00,-2973000000.0,QCOM,2021
+Common Stock Issuance,2023-09-30 00:00:00,434000000.0,QCOM,2021
+Net Issuance Payments Of Debt,2023-09-30 00:00:00,-64000000.0,QCOM,2021
+Net Short Term Debt Issuance,2023-09-30 00:00:00,-498000000.0,QCOM,2021
+Short Term Debt Payments,2023-09-30 00:00:00,-5566000000.0,QCOM,2021
+Short Term Debt Issuance,2023-09-30 00:00:00,5068000000.0,QCOM,2021
+Net Long Term Debt Issuance,2023-09-30 00:00:00,434000000.0,QCOM,2021
+Long Term Debt Payments,2023-09-30 00:00:00,-1446000000.0,QCOM,2021
+Long Term Debt Issuance,2023-09-30 00:00:00,1880000000.0,QCOM,2021
+Investing Cash Flow,2023-09-30 00:00:00,762000000.0,QCOM,2021
+Cash From Discontinued Investing Activities,2023-09-30 00:00:00,1383000000.0,QCOM,2021
+Cash Flow From Continuing Investing Activities,2023-09-30 00:00:00,-621000000.0,QCOM,2021
+Net Other Investing Changes,2023-09-30 00:00:00,19000000.0,QCOM,2021
+Net Investment Purchase And Sale,2023-09-30 00:00:00,918000000.0,QCOM,2021
+Sale Of Investment,2023-09-30 00:00:00,1586000000.0,QCOM,2021
+Purchase Of Investment,2023-09-30 00:00:00,-668000000.0,QCOM,2021
+Net Business Purchase And Sale,2023-09-30 00:00:00,-235000000.0,QCOM,2021
+Purchase Of Business,2023-09-30 00:00:00,-235000000.0,QCOM,2021
+Net PPE Purchase And Sale,2023-09-30 00:00:00,127000000.0,QCOM,2021
+Sale Of PPE,2023-09-30 00:00:00,127000000.0,QCOM,2021
+Capital Expenditure Reported,2023-09-30 00:00:00,-1450000000.0,QCOM,2021
+Operating Cash Flow,2023-09-30 00:00:00,11299000000.0,QCOM,2021
+Cash From Discontinued Operating Activities,2023-09-30 00:00:00,-399000000.0,QCOM,2021
+Cash Flow From Continuing Operating Activities,2023-09-30 00:00:00,11698000000.0,QCOM,2021
+Change In Working Capital,2023-09-30 00:00:00,1148000000.0,QCOM,2021
+Change In Other Working Capital,2023-09-30 00:00:00,-56000000.0,QCOM,2021
+Change In Other Current Assets,2023-09-30 00:00:00,603000000.0,QCOM,2021
+Change In Payables And Accrued Expense,2023-09-30 00:00:00,-1879000000.0,QCOM,2021
+Change In Accrued Expense,2023-09-30 00:00:00,1000000.0,QCOM,2021
+Change In Payable,2023-09-30 00:00:00,-1880000000.0,QCOM,2021
+Change In Account Payable,2023-09-30 00:00:00,-1880000000.0,QCOM,2021
+Change In Inventory,2023-09-30 00:00:00,8000000.0,QCOM,2021
+Change In Receivables,2023-09-30 00:00:00,2472000000.0,QCOM,2021
+Changes In Account Receivables,2023-09-30 00:00:00,2472000000.0,QCOM,2021
+Other Non Cash Items,2023-09-30 00:00:00,25000000.0,QCOM,2021
+Stock Based Compensation,2023-09-30 00:00:00,2484000000.0,QCOM,2021
+Asset Impairment Charge,2023-09-30 00:00:00,314000000.0,QCOM,2021
+Deferred Tax,2023-09-30 00:00:00,-1269000000.0,QCOM,2021
+Deferred Income Tax,2023-09-30 00:00:00,-1269000000.0,QCOM,2021
+Depreciation Amortization Depletion,2023-09-30 00:00:00,1809000000.0,QCOM,2021
+Depreciation And Amortization,2023-09-30 00:00:00,1809000000.0,QCOM,2021
+Amortization Cash Flow,2023-09-30 00:00:00,,QCOM,2021
+Amortization Of Intangibles,2023-09-30 00:00:00,,QCOM,2021
+Depreciation,2023-09-30 00:00:00,,QCOM,2021
+Operating Gains Losses,2023-09-30 00:00:00,-152000000.0,QCOM,2021
+Gain Loss On Investment Securities,2023-09-30 00:00:00,-152000000.0,QCOM,2021
+Net Income From Continuing Operations,2023-09-30 00:00:00,7339000000.0,QCOM,2021
+Free Cash Flow,2022-09-30 00:00:00,6834000000.0,QCOM,2021
+Repurchase Of Capital Stock,2022-09-30 00:00:00,-3129000000.0,QCOM,2021
+Repayment Of Debt,2022-09-30 00:00:00,-8892000000.0,QCOM,2021
+Issuance Of Debt,2022-09-30 00:00:00,8477000000.0,QCOM,2021
+Issuance Of Capital Stock,2022-09-30 00:00:00,356000000.0,QCOM,2021
+Capital Expenditure,2022-09-30 00:00:00,-2262000000.0,QCOM,2021
+End Cash Position,2022-09-30 00:00:00,3099000000.0,QCOM,2021
+Beginning Cash Position,2022-09-30 00:00:00,7116000000.0,QCOM,2021
+Effect Of Exchange Rate Changes,2022-09-30 00:00:00,-113000000.0,QCOM,2021
+Changes In Cash,2022-09-30 00:00:00,-3904000000.0,QCOM,2021
+Financing Cash Flow,2022-09-30 00:00:00,-7196000000.0,QCOM,2021
+Cash From Discontinued Financing Activities,2022-09-30 00:00:00,4000000.0,QCOM,2021
+Cash Flow From Continuing Financing Activities,2022-09-30 00:00:00,-7200000000.0,QCOM,2021
+Net Other Financing Charges,2022-09-30 00:00:00,-800000000.0,QCOM,2021
+Cash Dividends Paid,2022-09-30 00:00:00,-3212000000.0,QCOM,2021
+Common Stock Dividend Paid,2022-09-30 00:00:00,-3212000000.0,QCOM,2021
+Net Common Stock Issuance,2022-09-30 00:00:00,-2773000000.0,QCOM,2021
+Common Stock Payments,2022-09-30 00:00:00,-3129000000.0,QCOM,2021
+Common Stock Issuance,2022-09-30 00:00:00,356000000.0,QCOM,2021
+Net Issuance Payments Of Debt,2022-09-30 00:00:00,-415000000.0,QCOM,2021
+Net Short Term Debt Issuance,2022-09-30 00:00:00,-3000000.0,QCOM,2021
+Short Term Debt Payments,2022-09-30 00:00:00,-7003000000.0,QCOM,2021
+Short Term Debt Issuance,2022-09-30 00:00:00,7000000000.0,QCOM,2021
+Net Long Term Debt Issuance,2022-09-30 00:00:00,-412000000.0,QCOM,2021
+Long Term Debt Payments,2022-09-30 00:00:00,-1889000000.0,QCOM,2021
+Long Term Debt Issuance,2022-09-30 00:00:00,1477000000.0,QCOM,2021
+Investing Cash Flow,2022-09-30 00:00:00,-5804000000.0,QCOM,2021
+Cash From Discontinued Investing Activities,2022-09-30 00:00:00,-16000000.0,QCOM,2021
+Cash Flow From Continuing Investing Activities,2022-09-30 00:00:00,-5788000000.0,QCOM,2021
+Net Other Investing Changes,2022-09-30 00:00:00,41000000.0,QCOM,2021
+Net Investment Purchase And Sale,2022-09-30 00:00:00,1340000000.0,QCOM,2021
+Sale Of Investment,2022-09-30 00:00:00,2754000000.0,QCOM,2021
+Purchase Of Investment,2022-09-30 00:00:00,-1414000000.0,QCOM,2021
+Net Business Purchase And Sale,2022-09-30 00:00:00,-4912000000.0,QCOM,2021
+Purchase Of Business,2022-09-30 00:00:00,-4912000000.0,QCOM,2021
+Net PPE Purchase And Sale,2022-09-30 00:00:00,5000000.0,QCOM,2021
+Sale Of PPE,2022-09-30 00:00:00,5000000.0,QCOM,2021
+Capital Expenditure Reported,2022-09-30 00:00:00,-2262000000.0,QCOM,2021
+Operating Cash Flow,2022-09-30 00:00:00,9096000000.0,QCOM,2021
+Cash From Discontinued Operating Activities,2022-09-30 00:00:00,-170000000.0,QCOM,2021
+Cash Flow From Continuing Operating Activities,2022-09-30 00:00:00,9266000000.0,QCOM,2021
+Change In Working Capital,2022-09-30 00:00:00,-7800000000.0,QCOM,2021
+Change In Other Working Capital,2022-09-30 00:00:00,-324000000.0,QCOM,2021
+Change In Other Current Assets,2022-09-30 00:00:00,-2266000000.0,QCOM,2021
+Change In Payables And Accrued Expense,2022-09-30 00:00:00,-7000000.0,QCOM,2021
+Change In Accrued Expense,2022-09-30 00:00:00,-1043000000.0,QCOM,2021
+Change In Payable,2022-09-30 00:00:00,1036000000.0,QCOM,2021
+Change In Account Payable,2022-09-30 00:00:00,1036000000.0,QCOM,2021
+Change In Inventory,2022-09-30 00:00:00,-3137000000.0,QCOM,2021
+Change In Receivables,2022-09-30 00:00:00,-2066000000.0,QCOM,2021
+Changes In Account Receivables,2022-09-30 00:00:00,-2066000000.0,QCOM,2021
+Other Non Cash Items,2022-09-30 00:00:00,-56000000.0,QCOM,2021
+Stock Based Compensation,2022-09-30 00:00:00,2031000000.0,QCOM,2021
+Asset Impairment Charge,2022-09-30 00:00:00,49000000.0,QCOM,2021
+Deferred Tax,2022-09-30 00:00:00,-138000000.0,QCOM,2021
+Deferred Income Tax,2022-09-30 00:00:00,-138000000.0,QCOM,2021
+Depreciation Amortization Depletion,2022-09-30 00:00:00,1762000000.0,QCOM,2021
+Depreciation And Amortization,2022-09-30 00:00:00,1762000000.0,QCOM,2021
+Amortization Cash Flow,2022-09-30 00:00:00,,QCOM,2021
+Amortization Of Intangibles,2022-09-30 00:00:00,,QCOM,2021
+Depreciation,2022-09-30 00:00:00,,QCOM,2021
+Operating Gains Losses,2022-09-30 00:00:00,432000000.0,QCOM,2021
+Gain Loss On Investment Securities,2022-09-30 00:00:00,432000000.0,QCOM,2021
+Net Income From Continuing Operations,2022-09-30 00:00:00,12986000000.0,QCOM,2021
+Free Cash Flow,2021-09-30 00:00:00,8648000000.0,QCOM,2021
+Repurchase Of Capital Stock,2021-09-30 00:00:00,-3366000000.0,QCOM,2021
+Repayment Of Debt,2021-09-30 00:00:00,-2885000000.0,QCOM,2021
+Issuance Of Debt,2021-09-30 00:00:00,2886000000.0,QCOM,2021
+Issuance Of Capital Stock,2021-09-30 00:00:00,347000000.0,QCOM,2021
+Capital Expenditure,2021-09-30 00:00:00,-1888000000.0,QCOM,2021
+End Cash Position,2021-09-30 00:00:00,7116000000.0,QCOM,2021
+Beginning Cash Position,2021-09-30 00:00:00,6707000000.0,QCOM,2021
+Effect Of Exchange Rate Changes,2021-09-30 00:00:00,27000000.0,QCOM,2021
+Changes In Cash,2021-09-30 00:00:00,382000000.0,QCOM,2021
+Financing Cash Flow,2021-09-30 00:00:00,-6798000000.0,QCOM,2021
+Cash From Discontinued Financing Activities,2021-09-30 00:00:00,0.0,QCOM,2021
+Cash Flow From Continuing Financing Activities,2021-09-30 00:00:00,-6798000000.0,QCOM,2021
+Net Other Financing Charges,2021-09-30 00:00:00,-772000000.0,QCOM,2021
+Cash Dividends Paid,2021-09-30 00:00:00,-3008000000.0,QCOM,2021
+Common Stock Dividend Paid,2021-09-30 00:00:00,-3008000000.0,QCOM,2021
+Net Common Stock Issuance,2021-09-30 00:00:00,-3019000000.0,QCOM,2021
+Common Stock Payments,2021-09-30 00:00:00,-3366000000.0,QCOM,2021
+Common Stock Issuance,2021-09-30 00:00:00,347000000.0,QCOM,2021
+Net Issuance Payments Of Debt,2021-09-30 00:00:00,1000000.0,QCOM,2021
+Net Short Term Debt Issuance,2021-09-30 00:00:00,1000000.0,QCOM,2021
+Short Term Debt Payments,2021-09-30 00:00:00,-2885000000.0,QCOM,2021
+Short Term Debt Issuance,2021-09-30 00:00:00,2886000000.0,QCOM,2021
+Net Long Term Debt Issuance,2021-09-30 00:00:00,0.0,QCOM,2021
+Long Term Debt Payments,2021-09-30 00:00:00,0.0,QCOM,2021
+Long Term Debt Issuance,2021-09-30 00:00:00,0.0,QCOM,2021
+Investing Cash Flow,2021-09-30 00:00:00,-3356000000.0,QCOM,2021
+Cash From Discontinued Investing Activities,2021-09-30 00:00:00,0.0,QCOM,2021
+Cash Flow From Continuing Investing Activities,2021-09-30 00:00:00,-3356000000.0,QCOM,2021
+Net Other Investing Changes,2021-09-30 00:00:00,-62000000.0,QCOM,2021
+Net Investment Purchase And Sale,2021-09-30 00:00:00,-32000000.0,QCOM,2021
+Sale Of Investment,2021-09-30 00:00:00,5875000000.0,QCOM,2021
+Purchase Of Investment,2021-09-30 00:00:00,-5907000000.0,QCOM,2021
+Net Business Purchase And Sale,2021-09-30 00:00:00,-1377000000.0,QCOM,2021
+Purchase Of Business,2021-09-30 00:00:00,-1377000000.0,QCOM,2021
+Net PPE Purchase And Sale,2021-09-30 00:00:00,3000000.0,QCOM,2021
+Sale Of PPE,2021-09-30 00:00:00,3000000.0,QCOM,2021
+Capital Expenditure Reported,2021-09-30 00:00:00,-1888000000.0,QCOM,2021
+Operating Cash Flow,2021-09-30 00:00:00,10536000000.0,QCOM,2021
+Cash From Discontinued Operating Activities,2021-09-30 00:00:00,0.0,QCOM,2021
+Cash Flow From Continuing Operating Activities,2021-09-30 00:00:00,10536000000.0,QCOM,2021
+Change In Working Capital,2021-09-30 00:00:00,-461000000.0,QCOM,2021
+Change In Other Working Capital,2021-09-30 00:00:00,-202000000.0,QCOM,2021
+Change In Other Current Assets,2021-09-30 00:00:00,-1649000000.0,QCOM,2021
+Change In Payables And Accrued Expense,2021-09-30 00:00:00,1586000000.0,QCOM,2021
+Change In Accrued Expense,2021-09-30 00:00:00,1091000000.0,QCOM,2021
+Change In Payable,2021-09-30 00:00:00,495000000.0,QCOM,2021
+Change In Account Payable,2021-09-30 00:00:00,495000000.0,QCOM,2021
+Change In Inventory,2021-09-30 00:00:00,-622000000.0,QCOM,2021
+Change In Receivables,2021-09-30 00:00:00,426000000.0,QCOM,2021
+Changes In Account Receivables,2021-09-30 00:00:00,426000000.0,QCOM,2021
+Other Non Cash Items,2021-09-30 00:00:00,-82000000.0,QCOM,2021
+Stock Based Compensation,2021-09-30 00:00:00,1663000000.0,QCOM,2021
+Asset Impairment Charge,2021-09-30 00:00:00,38000000.0,QCOM,2021
+Deferred Tax,2021-09-30 00:00:00,-245000000.0,QCOM,2021
+Deferred Income Tax,2021-09-30 00:00:00,-245000000.0,QCOM,2021
+Depreciation Amortization Depletion,2021-09-30 00:00:00,1582000000.0,QCOM,2021
+Depreciation And Amortization,2021-09-30 00:00:00,1582000000.0,QCOM,2021
+Amortization Cash Flow,2021-09-30 00:00:00,,QCOM,2021
+Amortization Of Intangibles,2021-09-30 00:00:00,,QCOM,2021
+Depreciation,2021-09-30 00:00:00,,QCOM,2021
+Operating Gains Losses,2021-09-30 00:00:00,-1002000000.0,QCOM,2021
+Gain Loss On Investment Securities,2021-09-30 00:00:00,-1002000000.0,QCOM,2021
+Net Income From Continuing Operations,2021-09-30 00:00:00,9043000000.0,QCOM,2021
+Free Cash Flow,2020-09-30 00:00:00,,QCOM,2021
+Repurchase Of Capital Stock,2020-09-30 00:00:00,,QCOM,2021
+Repayment Of Debt,2020-09-30 00:00:00,,QCOM,2021
+Issuance Of Debt,2020-09-30 00:00:00,,QCOM,2021
+Issuance Of Capital Stock,2020-09-30 00:00:00,,QCOM,2021
+Capital Expenditure,2020-09-30 00:00:00,,QCOM,2021
+End Cash Position,2020-09-30 00:00:00,,QCOM,2021
+Beginning Cash Position,2020-09-30 00:00:00,,QCOM,2021
+Effect Of Exchange Rate Changes,2020-09-30 00:00:00,,QCOM,2021
+Changes In Cash,2020-09-30 00:00:00,,QCOM,2021
+Financing Cash Flow,2020-09-30 00:00:00,,QCOM,2021
+Cash From Discontinued Financing Activities,2020-09-30 00:00:00,,QCOM,2021
+Cash Flow From Continuing Financing Activities,2020-09-30 00:00:00,,QCOM,2021
+Net Other Financing Charges,2020-09-30 00:00:00,,QCOM,2021
+Cash Dividends Paid,2020-09-30 00:00:00,,QCOM,2021
+Common Stock Dividend Paid,2020-09-30 00:00:00,,QCOM,2021
+Net Common Stock Issuance,2020-09-30 00:00:00,,QCOM,2021
+Common Stock Payments,2020-09-30 00:00:00,,QCOM,2021
+Common Stock Issuance,2020-09-30 00:00:00,,QCOM,2021
+Net Issuance Payments Of Debt,2020-09-30 00:00:00,,QCOM,2021
+Net Short Term Debt Issuance,2020-09-30 00:00:00,,QCOM,2021
+Short Term Debt Payments,2020-09-30 00:00:00,,QCOM,2021
+Short Term Debt Issuance,2020-09-30 00:00:00,,QCOM,2021
+Net Long Term Debt Issuance,2020-09-30 00:00:00,,QCOM,2021
+Long Term Debt Payments,2020-09-30 00:00:00,,QCOM,2021
+Long Term Debt Issuance,2020-09-30 00:00:00,,QCOM,2021
+Investing Cash Flow,2020-09-30 00:00:00,,QCOM,2021
+Cash From Discontinued Investing Activities,2020-09-30 00:00:00,,QCOM,2021
+Cash Flow From Continuing Investing Activities,2020-09-30 00:00:00,,QCOM,2021
+Net Other Investing Changes,2020-09-30 00:00:00,,QCOM,2021
+Net Investment Purchase And Sale,2020-09-30 00:00:00,,QCOM,2021
+Sale Of Investment,2020-09-30 00:00:00,,QCOM,2021
+Purchase Of Investment,2020-09-30 00:00:00,,QCOM,2021
+Net Business Purchase And Sale,2020-09-30 00:00:00,,QCOM,2021
+Purchase Of Business,2020-09-30 00:00:00,,QCOM,2021
+Net PPE Purchase And Sale,2020-09-30 00:00:00,,QCOM,2021
+Sale Of PPE,2020-09-30 00:00:00,,QCOM,2021
+Capital Expenditure Reported,2020-09-30 00:00:00,,QCOM,2021
+Operating Cash Flow,2020-09-30 00:00:00,,QCOM,2021
+Cash From Discontinued Operating Activities,2020-09-30 00:00:00,,QCOM,2021
+Cash Flow From Continuing Operating Activities,2020-09-30 00:00:00,,QCOM,2021
+Change In Working Capital,2020-09-30 00:00:00,,QCOM,2021
+Change In Other Working Capital,2020-09-30 00:00:00,,QCOM,2021
+Change In Other Current Assets,2020-09-30 00:00:00,,QCOM,2021
+Change In Payables And Accrued Expense,2020-09-30 00:00:00,,QCOM,2021
+Change In Accrued Expense,2020-09-30 00:00:00,,QCOM,2021
+Change In Payable,2020-09-30 00:00:00,,QCOM,2021
+Change In Account Payable,2020-09-30 00:00:00,,QCOM,2021
+Change In Inventory,2020-09-30 00:00:00,,QCOM,2021
+Change In Receivables,2020-09-30 00:00:00,,QCOM,2021
+Changes In Account Receivables,2020-09-30 00:00:00,,QCOM,2021
+Other Non Cash Items,2020-09-30 00:00:00,,QCOM,2021
+Stock Based Compensation,2020-09-30 00:00:00,,QCOM,2021
+Asset Impairment Charge,2020-09-30 00:00:00,,QCOM,2021
+Deferred Tax,2020-09-30 00:00:00,,QCOM,2021
+Deferred Income Tax,2020-09-30 00:00:00,,QCOM,2021
+Depreciation Amortization Depletion,2020-09-30 00:00:00,,QCOM,2021
+Depreciation And Amortization,2020-09-30 00:00:00,,QCOM,2021
+Amortization Cash Flow,2020-09-30 00:00:00,621000000.0,QCOM,2021
+Amortization Of Intangibles,2020-09-30 00:00:00,621000000.0,QCOM,2021
+Depreciation,2020-09-30 00:00:00,772000000.0,QCOM,2021
+Operating Gains Losses,2020-09-30 00:00:00,,QCOM,2021
+Gain Loss On Investment Securities,2020-09-30 00:00:00,,QCOM,2021
+Net Income From Continuing Operations,2020-09-30 00:00:00,,QCOM,2021
+Free Cash Flow,__statement__,cashflow,QCOM,2021
+Repurchase Of Capital Stock,__statement__,cashflow,QCOM,2021
+Repayment Of Debt,__statement__,cashflow,QCOM,2021
+Issuance Of Debt,__statement__,cashflow,QCOM,2021
+Issuance Of Capital Stock,__statement__,cashflow,QCOM,2021
+Capital Expenditure,__statement__,cashflow,QCOM,2021
+End Cash Position,__statement__,cashflow,QCOM,2021
+Beginning Cash Position,__statement__,cashflow,QCOM,2021
+Effect Of Exchange Rate Changes,__statement__,cashflow,QCOM,2021
+Changes In Cash,__statement__,cashflow,QCOM,2021
+Financing Cash Flow,__statement__,cashflow,QCOM,2021
+Cash From Discontinued Financing Activities,__statement__,cashflow,QCOM,2021
+Cash Flow From Continuing Financing Activities,__statement__,cashflow,QCOM,2021
+Net Other Financing Charges,__statement__,cashflow,QCOM,2021
+Cash Dividends Paid,__statement__,cashflow,QCOM,2021
+Common Stock Dividend Paid,__statement__,cashflow,QCOM,2021
+Net Common Stock Issuance,__statement__,cashflow,QCOM,2021
+Common Stock Payments,__statement__,cashflow,QCOM,2021
+Common Stock Issuance,__statement__,cashflow,QCOM,2021
+Net Issuance Payments Of Debt,__statement__,cashflow,QCOM,2021
+Net Short Term Debt Issuance,__statement__,cashflow,QCOM,2021
+Short Term Debt Payments,__statement__,cashflow,QCOM,2021
+Short Term Debt Issuance,__statement__,cashflow,QCOM,2021
+Net Long Term Debt Issuance,__statement__,cashflow,QCOM,2021
+Long Term Debt Payments,__statement__,cashflow,QCOM,2021
+Long Term Debt Issuance,__statement__,cashflow,QCOM,2021
+Investing Cash Flow,__statement__,cashflow,QCOM,2021
+Cash From Discontinued Investing Activities,__statement__,cashflow,QCOM,2021
+Cash Flow From Continuing Investing Activities,__statement__,cashflow,QCOM,2021
+Net Other Investing Changes,__statement__,cashflow,QCOM,2021
+Net Investment Purchase And Sale,__statement__,cashflow,QCOM,2021
+Sale Of Investment,__statement__,cashflow,QCOM,2021
+Purchase Of Investment,__statement__,cashflow,QCOM,2021
+Net Business Purchase And Sale,__statement__,cashflow,QCOM,2021
+Purchase Of Business,__statement__,cashflow,QCOM,2021
+Net PPE Purchase And Sale,__statement__,cashflow,QCOM,2021
+Sale Of PPE,__statement__,cashflow,QCOM,2021
+Capital Expenditure Reported,__statement__,cashflow,QCOM,2021
+Operating Cash Flow,__statement__,cashflow,QCOM,2021
+Cash From Discontinued Operating Activities,__statement__,cashflow,QCOM,2021
+Cash Flow From Continuing Operating Activities,__statement__,cashflow,QCOM,2021
+Change In Working Capital,__statement__,cashflow,QCOM,2021
+Change In Other Working Capital,__statement__,cashflow,QCOM,2021
+Change In Other Current Assets,__statement__,cashflow,QCOM,2021
+Change In Payables And Accrued Expense,__statement__,cashflow,QCOM,2021
+Change In Accrued Expense,__statement__,cashflow,QCOM,2021
+Change In Payable,__statement__,cashflow,QCOM,2021
+Change In Account Payable,__statement__,cashflow,QCOM,2021
+Change In Inventory,__statement__,cashflow,QCOM,2021
+Change In Receivables,__statement__,cashflow,QCOM,2021
+Changes In Account Receivables,__statement__,cashflow,QCOM,2021
+Other Non Cash Items,__statement__,cashflow,QCOM,2021
+Stock Based Compensation,__statement__,cashflow,QCOM,2021
+Asset Impairment Charge,__statement__,cashflow,QCOM,2021
+Deferred Tax,__statement__,cashflow,QCOM,2021
+Deferred Income Tax,__statement__,cashflow,QCOM,2021
+Depreciation Amortization Depletion,__statement__,cashflow,QCOM,2021
+Depreciation And Amortization,__statement__,cashflow,QCOM,2021
+Amortization Cash Flow,__statement__,cashflow,QCOM,2021
+Amortization Of Intangibles,__statement__,cashflow,QCOM,2021
+Depreciation,__statement__,cashflow,QCOM,2021
+Operating Gains Losses,__statement__,cashflow,QCOM,2021
+Gain Loss On Investment Securities,__statement__,cashflow,QCOM,2021
+Net Income From Continuing Operations,__statement__,cashflow,QCOM,2021

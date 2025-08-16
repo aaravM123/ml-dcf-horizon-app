@@ -1,0 +1,1273 @@
+line_item,period,value,ticker,analog_year
+Tax Effect Of Unusual Items,2024-12-31 00:00:00,-10880000.0,STM,2021
+Tax Rate For Calcs,2024-12-31 00:00:00,0.17,STM,2021
+Normalized EBITDA,2024-12-31 00:00:00,3787000000.0,STM,2021
+Total Unusual Items,2024-12-31 00:00:00,-64000000.0,STM,2021
+Total Unusual Items Excluding Goodwill,2024-12-31 00:00:00,-64000000.0,STM,2021
+Net Income From Continuing Operation Net Minority Interest,2024-12-31 00:00:00,1557000000.0,STM,2021
+Reconciled Depreciation,2024-12-31 00:00:00,1760000000.0,STM,2021
+Reconciled Cost Of Revenue,2024-12-31 00:00:00,8049000000.0,STM,2021
+EBITDA,2024-12-31 00:00:00,3723000000.0,STM,2021
+EBIT,2024-12-31 00:00:00,1963000000.0,STM,2021
+Net Interest Income,2024-12-31 00:00:00,218000000.0,STM,2021
+Interest Expense,2024-12-31 00:00:00,85000000.0,STM,2021
+Interest Income,2024-12-31 00:00:00,303000000.0,STM,2021
+Normalized Income,2024-12-31 00:00:00,1610120000.0,STM,2021
+Net Income From Continuing And Discontinued Operation,2024-12-31 00:00:00,1557000000.0,STM,2021
+Total Expenses,2024-12-31 00:00:00,11775000000.0,STM,2021
+Total Operating Income As Reported,2024-12-31 00:00:00,1676000000.0,STM,2021
+Diluted Average Shares,2024-12-31 00:00:00,939345283.0,STM,2021
+Basic Average Shares,2024-12-31 00:00:00,901210072.0,STM,2021
+Diluted EPS,2024-12-31 00:00:00,1.66,STM,2021
+Basic EPS,2024-12-31 00:00:00,1.73,STM,2021
+Diluted NI Availto Com Stockholders,2024-12-31 00:00:00,1558000000.0,STM,2021
+Average Dilution Earnings,2024-12-31 00:00:00,1000000.0,STM,2021
+Net Income Common Stockholders,2024-12-31 00:00:00,1557000000.0,STM,2021
+Net Income,2024-12-31 00:00:00,1557000000.0,STM,2021
+Minority Interests,2024-12-31 00:00:00,-8000000.0,STM,2021
+Net Income Including Noncontrolling Interests,2024-12-31 00:00:00,1565000000.0,STM,2021
+Net Income Continuous Operations,2024-12-31 00:00:00,1565000000.0,STM,2021
+Tax Provision,2024-12-31 00:00:00,313000000.0,STM,2021
+Pretax Income,2024-12-31 00:00:00,1878000000.0,STM,2021
+Other Income Expense,2024-12-31 00:00:00,166000000.0,STM,2021
+Other Non Operating Income Expenses,2024-12-31 00:00:00,230000000.0,STM,2021
+Special Income Charges,2024-12-31 00:00:00,-69000000.0,STM,2021
+Gain On Sale Of Ppe,2024-12-31 00:00:00,5000000.0,STM,2021
+Other Special Charges,2024-12-31 00:00:00,74000000.0,STM,2021
+Write Off,2024-12-31 00:00:00,,STM,2021
+Impairment Of Capital Assets,2024-12-31 00:00:00,,STM,2021
+Restructuring And Mergern Acquisition,2024-12-31 00:00:00,,STM,2021
+Earnings From Equity Interest,2024-12-31 00:00:00,,STM,2021
+Gain On Sale Of Security,2024-12-31 00:00:00,5000000.0,STM,2021
+Net Non Operating Interest Income Expense,2024-12-31 00:00:00,218000000.0,STM,2021
+Interest Expense Non Operating,2024-12-31 00:00:00,85000000.0,STM,2021
+Interest Income Non Operating,2024-12-31 00:00:00,303000000.0,STM,2021
+Operating Income,2024-12-31 00:00:00,1494000000.0,STM,2021
+Operating Expense,2024-12-31 00:00:00,3726000000.0,STM,2021
+Other Operating Expenses,2024-12-31 00:00:00,,STM,2021
+Research And Development,2024-12-31 00:00:00,2077000000.0,STM,2021
+Selling General And Administration,2024-12-31 00:00:00,1649000000.0,STM,2021
+General And Administrative Expense,2024-12-31 00:00:00,,STM,2021
+Other Gand A,2024-12-31 00:00:00,,STM,2021
+Salaries And Wages,2024-12-31 00:00:00,,STM,2021
+Gross Profit,2024-12-31 00:00:00,5220000000.0,STM,2021
+Cost Of Revenue,2024-12-31 00:00:00,8049000000.0,STM,2021
+Total Revenue,2024-12-31 00:00:00,13269000000.0,STM,2021
+Operating Revenue,2024-12-31 00:00:00,13217000000.0,STM,2021
+Tax Effect Of Unusual Items,2023-12-31 00:00:00,-14850000.0,STM,2021
+Tax Rate For Calcs,2023-12-31 00:00:00,0.11,STM,2021
+Normalized EBITDA,2023-12-31 00:00:00,6514000000.0,STM,2021
+Total Unusual Items,2023-12-31 00:00:00,-135000000.0,STM,2021
+Total Unusual Items Excluding Goodwill,2023-12-31 00:00:00,-135000000.0,STM,2021
+Net Income From Continuing Operation Net Minority Interest,2023-12-31 00:00:00,4211000000.0,STM,2021
+Reconciled Depreciation,2023-12-31 00:00:00,1561000000.0,STM,2021
+Reconciled Cost Of Revenue,2023-12-31 00:00:00,8999000000.0,STM,2021
+EBITDA,2023-12-31 00:00:00,6379000000.0,STM,2021
+EBIT,2023-12-31 00:00:00,4818000000.0,STM,2021
+Net Interest Income,2023-12-31 00:00:00,171000000.0,STM,2021
+Interest Expense,2023-12-31 00:00:00,55000000.0,STM,2021
+Interest Income,2023-12-31 00:00:00,226000000.0,STM,2021
+Normalized Income,2023-12-31 00:00:00,4331150000.0,STM,2021
+Net Income From Continuing And Discontinued Operation,2023-12-31 00:00:00,4211000000.0,STM,2021
+Total Expenses,2023-12-31 00:00:00,12730000000.0,STM,2021
+Total Operating Income As Reported,2023-12-31 00:00:00,4611000000.0,STM,2021
+Diluted Average Shares,2023-12-31 00:00:00,944200000.0,STM,2021
+Basic Average Shares,2023-12-31 00:00:00,903648069.0,STM,2021
+Diluted EPS,2023-12-31 00:00:00,4.46,STM,2021
+Basic EPS,2023-12-31 00:00:00,4.66,STM,2021
+Diluted NI Availto Com Stockholders,2023-12-31 00:00:00,4212000000.0,STM,2021
+Average Dilution Earnings,2023-12-31 00:00:00,1000000.0,STM,2021
+Net Income Common Stockholders,2023-12-31 00:00:00,4211000000.0,STM,2021
+Net Income,2023-12-31 00:00:00,4211000000.0,STM,2021
+Minority Interests,2023-12-31 00:00:00,-11000000.0,STM,2021
+Net Income Including Noncontrolling Interests,2023-12-31 00:00:00,4222000000.0,STM,2021
+Net Income Continuous Operations,2023-12-31 00:00:00,4222000000.0,STM,2021
+Tax Provision,2023-12-31 00:00:00,541000000.0,STM,2021
+Pretax Income,2023-12-31 00:00:00,4763000000.0,STM,2021
+Other Income Expense,2023-12-31 00:00:00,36000000.0,STM,2021
+Other Non Operating Income Expenses,2023-12-31 00:00:00,171000000.0,STM,2021
+Special Income Charges,2023-12-31 00:00:00,-140000000.0,STM,2021
+Gain On Sale Of Ppe,2023-12-31 00:00:00,6000000.0,STM,2021
+Other Special Charges,2023-12-31 00:00:00,146000000.0,STM,2021
+Write Off,2023-12-31 00:00:00,0.0,STM,2021
+Impairment Of Capital Assets,2023-12-31 00:00:00,,STM,2021
+Restructuring And Mergern Acquisition,2023-12-31 00:00:00,,STM,2021
+Earnings From Equity Interest,2023-12-31 00:00:00,,STM,2021
+Gain On Sale Of Security,2023-12-31 00:00:00,5000000.0,STM,2021
+Net Non Operating Interest Income Expense,2023-12-31 00:00:00,171000000.0,STM,2021
+Interest Expense Non Operating,2023-12-31 00:00:00,55000000.0,STM,2021
+Interest Income Non Operating,2023-12-31 00:00:00,226000000.0,STM,2021
+Operating Income,2023-12-31 00:00:00,4556000000.0,STM,2021
+Operating Expense,2023-12-31 00:00:00,3731000000.0,STM,2021
+Other Operating Expenses,2023-12-31 00:00:00,,STM,2021
+Research And Development,2023-12-31 00:00:00,2100000000.0,STM,2021
+Selling General And Administration,2023-12-31 00:00:00,1631000000.0,STM,2021
+General And Administrative Expense,2023-12-31 00:00:00,1631000000.0,STM,2021
+Other Gand A,2023-12-31 00:00:00,1631000000.0,STM,2021
+Salaries And Wages,2023-12-31 00:00:00,19000000.0,STM,2021
+Gross Profit,2023-12-31 00:00:00,8287000000.0,STM,2021
+Cost Of Revenue,2023-12-31 00:00:00,8999000000.0,STM,2021
+Total Revenue,2023-12-31 00:00:00,17286000000.0,STM,2021
+Operating Revenue,2023-12-31 00:00:00,17239000000.0,STM,2021
+Tax Effect Of Unusual Items,2022-12-31 00:00:00,-1680000.0,STM,2021
+Tax Rate For Calcs,2022-12-31 00:00:00,0.12,STM,2021
+Normalized EBITDA,2022-12-31 00:00:00,5729000000.0,STM,2021
+Total Unusual Items,2022-12-31 00:00:00,-14000000.0,STM,2021
+Total Unusual Items Excluding Goodwill,2022-12-31 00:00:00,-14000000.0,STM,2021
+Net Income From Continuing Operation Net Minority Interest,2022-12-31 00:00:00,3960000000.0,STM,2021
+Reconciled Depreciation,2022-12-31 00:00:00,1216000000.0,STM,2021
+Reconciled Cost Of Revenue,2022-12-31 00:00:00,8493000000.0,STM,2021
+EBITDA,2022-12-31 00:00:00,5715000000.0,STM,2021
+EBIT,2022-12-31 00:00:00,4499000000.0,STM,2021
+Net Interest Income,2022-12-31 00:00:00,58000000.0,STM,2021
+Interest Expense,2022-12-31 00:00:00,13000000.0,STM,2021
+Interest Income,2022-12-31 00:00:00,71000000.0,STM,2021
+Normalized Income,2022-12-31 00:00:00,3972320000.0,STM,2021
+Net Income From Continuing And Discontinued Operation,2022-12-31 00:00:00,3960000000.0,STM,2021
+Total Expenses,2022-12-31 00:00:00,11848000000.0,STM,2021
+Total Operating Income As Reported,2022-12-31 00:00:00,4439000000.0,STM,2021
+Diluted Average Shares,2022-12-31 00:00:00,912270458.0,STM,2021
+Basic Average Shares,2022-12-31 00:00:00,905606885.0,STM,2021
+Diluted EPS,2022-12-31 00:00:00,4.74,STM,2021
+Basic EPS,2022-12-31 00:00:00,4.77,STM,2021
+Diluted NI Availto Com Stockholders,2022-12-31 00:00:00,3962000000.0,STM,2021
+Average Dilution Earnings,2022-12-31 00:00:00,2000000.0,STM,2021
+Net Income Common Stockholders,2022-12-31 00:00:00,3960000000.0,STM,2021
+Net Income,2022-12-31 00:00:00,3960000000.0,STM,2021
+Minority Interests,2022-12-31 00:00:00,-6000000.0,STM,2021
+Net Income Including Noncontrolling Interests,2022-12-31 00:00:00,3966000000.0,STM,2021
+Net Income Continuous Operations,2022-12-31 00:00:00,3966000000.0,STM,2021
+Tax Provision,2022-12-31 00:00:00,520000000.0,STM,2021
+Pretax Income,2022-12-31 00:00:00,4486000000.0,STM,2021
+Other Income Expense,2022-12-31 00:00:00,148000000.0,STM,2021
+Other Non Operating Income Expenses,2022-12-31 00:00:00,162000000.0,STM,2021
+Special Income Charges,2022-12-31 00:00:00,-29000000.0,STM,2021
+Gain On Sale Of Ppe,2022-12-31 00:00:00,2000000.0,STM,2021
+Other Special Charges,2022-12-31 00:00:00,31000000.0,STM,2021
+Write Off,2022-12-31 00:00:00,0.0,STM,2021
+Impairment Of Capital Assets,2022-12-31 00:00:00,,STM,2021
+Restructuring And Mergern Acquisition,2022-12-31 00:00:00,,STM,2021
+Earnings From Equity Interest,2022-12-31 00:00:00,0.0,STM,2021
+Gain On Sale Of Security,2022-12-31 00:00:00,15000000.0,STM,2021
+Net Non Operating Interest Income Expense,2022-12-31 00:00:00,58000000.0,STM,2021
+Interest Expense Non Operating,2022-12-31 00:00:00,13000000.0,STM,2021
+Interest Income Non Operating,2022-12-31 00:00:00,71000000.0,STM,2021
+Operating Income,2022-12-31 00:00:00,4280000000.0,STM,2021
+Operating Expense,2022-12-31 00:00:00,3355000000.0,STM,2021
+Other Operating Expenses,2022-12-31 00:00:00,,STM,2021
+Research And Development,2022-12-31 00:00:00,1901000000.0,STM,2021
+Selling General And Administration,2022-12-31 00:00:00,1454000000.0,STM,2021
+General And Administrative Expense,2022-12-31 00:00:00,1465000000.0,STM,2021
+Other Gand A,2022-12-31 00:00:00,1454000000.0,STM,2021
+Salaries And Wages,2022-12-31 00:00:00,11000000.0,STM,2021
+Gross Profit,2022-12-31 00:00:00,7635000000.0,STM,2021
+Cost Of Revenue,2022-12-31 00:00:00,8493000000.0,STM,2021
+Total Revenue,2022-12-31 00:00:00,16128000000.0,STM,2021
+Operating Revenue,2022-12-31 00:00:00,16083000000.0,STM,2021
+Tax Effect Of Unusual Items,2021-12-31 00:00:00,-8680000.0,STM,2021
+Tax Rate For Calcs,2021-12-31 00:00:00,0.14,STM,2021
+Normalized EBITDA,2021-12-31 00:00:00,3486000000.0,STM,2021
+Total Unusual Items,2021-12-31 00:00:00,-62000000.0,STM,2021
+Total Unusual Items Excluding Goodwill,2021-12-31 00:00:00,-62000000.0,STM,2021
+Net Income From Continuing Operation Net Minority Interest,2021-12-31 00:00:00,2000000000.0,STM,2021
+Reconciled Depreciation,2021-12-31 00:00:00,1045000000.0,STM,2021
+Reconciled Cost Of Revenue,2021-12-31 00:00:00,7435000000.0,STM,2021
+EBITDA,2021-12-31 00:00:00,3424000000.0,STM,2021
+EBIT,2021-12-31 00:00:00,2379000000.0,STM,2021
+Net Interest Income,2021-12-31 00:00:00,-29000000.0,STM,2021
+Interest Expense,2021-12-31 00:00:00,42000000.0,STM,2021
+Interest Income,2021-12-31 00:00:00,13000000.0,STM,2021
+Normalized Income,2021-12-31 00:00:00,2053320000.0,STM,2021
+Net Income From Continuing And Discontinued Operation,2021-12-31 00:00:00,2000000000.0,STM,2021
+Total Expenses,2021-12-31 00:00:00,10481000000.0,STM,2021
+Total Operating Income As Reported,2021-12-31 00:00:00,2419000000.0,STM,2021
+Diluted Average Shares,2021-12-31 00:00:00,924800000.0,STM,2021
+Basic Average Shares,2021-12-31 00:00:00,904977376.0,STM,2021
+Diluted EPS,2021-12-31 00:00:00,2.16,STM,2021
+Basic EPS,2021-12-31 00:00:00,2.21,STM,2021
+Diluted NI Availto Com Stockholders,2021-12-31 00:00:00,2000000000.0,STM,2021
+Average Dilution Earnings,2021-12-31 00:00:00,0.0,STM,2021
+Net Income Common Stockholders,2021-12-31 00:00:00,2000000000.0,STM,2021
+Net Income,2021-12-31 00:00:00,2000000000.0,STM,2021
+Minority Interests,2021-12-31 00:00:00,-6000000.0,STM,2021
+Net Income Including Noncontrolling Interests,2021-12-31 00:00:00,2006000000.0,STM,2021
+Net Income Continuous Operations,2021-12-31 00:00:00,2006000000.0,STM,2021
+Tax Provision,2021-12-31 00:00:00,331000000.0,STM,2021
+Pretax Income,2021-12-31 00:00:00,2337000000.0,STM,2021
+Other Income Expense,2021-12-31 00:00:00,86000000.0,STM,2021
+Other Non Operating Income Expenses,2021-12-31 00:00:00,148000000.0,STM,2021
+Special Income Charges,2021-12-31 00:00:00,-26000000.0,STM,2021
+Gain On Sale Of Ppe,2021-12-31 00:00:00,5000000.0,STM,2021
+Other Special Charges,2021-12-31 00:00:00,29000000.0,STM,2021
+Write Off,2021-12-31 00:00:00,2000000.0,STM,2021
+Impairment Of Capital Assets,2021-12-31 00:00:00,1000000.0,STM,2021
+Restructuring And Mergern Acquisition,2021-12-31 00:00:00,1000000.0,STM,2021
+Earnings From Equity Interest,2021-12-31 00:00:00,0.0,STM,2021
+Gain On Sale Of Security,2021-12-31 00:00:00,-36000000.0,STM,2021
+Net Non Operating Interest Income Expense,2021-12-31 00:00:00,-29000000.0,STM,2021
+Interest Expense Non Operating,2021-12-31 00:00:00,42000000.0,STM,2021
+Interest Income Non Operating,2021-12-31 00:00:00,13000000.0,STM,2021
+Operating Income,2021-12-31 00:00:00,2280000000.0,STM,2021
+Operating Expense,2021-12-31 00:00:00,3046000000.0,STM,2021
+Other Operating Expenses,2021-12-31 00:00:00,-162000000.0,STM,2021
+Research And Development,2021-12-31 00:00:00,1723000000.0,STM,2021
+Selling General And Administration,2021-12-31 00:00:00,1323000000.0,STM,2021
+General And Administrative Expense,2021-12-31 00:00:00,1323000000.0,STM,2021
+Other Gand A,2021-12-31 00:00:00,1323000000.0,STM,2021
+Salaries And Wages,2021-12-31 00:00:00,10000000.0,STM,2021
+Gross Profit,2021-12-31 00:00:00,5326000000.0,STM,2021
+Cost Of Revenue,2021-12-31 00:00:00,7435000000.0,STM,2021
+Total Revenue,2021-12-31 00:00:00,12761000000.0,STM,2021
+Operating Revenue,2021-12-31 00:00:00,12729000000.0,STM,2021
+Tax Effect Of Unusual Items,2020-12-31 00:00:00,,STM,2021
+Tax Rate For Calcs,2020-12-31 00:00:00,,STM,2021
+Normalized EBITDA,2020-12-31 00:00:00,,STM,2021
+Total Unusual Items,2020-12-31 00:00:00,,STM,2021
+Total Unusual Items Excluding Goodwill,2020-12-31 00:00:00,,STM,2021
+Net Income From Continuing Operation Net Minority Interest,2020-12-31 00:00:00,,STM,2021
+Reconciled Depreciation,2020-12-31 00:00:00,,STM,2021
+Reconciled Cost Of Revenue,2020-12-31 00:00:00,,STM,2021
+EBITDA,2020-12-31 00:00:00,,STM,2021
+EBIT,2020-12-31 00:00:00,,STM,2021
+Net Interest Income,2020-12-31 00:00:00,,STM,2021
+Interest Expense,2020-12-31 00:00:00,,STM,2021
+Interest Income,2020-12-31 00:00:00,,STM,2021
+Normalized Income,2020-12-31 00:00:00,,STM,2021
+Net Income From Continuing And Discontinued Operation,2020-12-31 00:00:00,,STM,2021
+Total Expenses,2020-12-31 00:00:00,,STM,2021
+Total Operating Income As Reported,2020-12-31 00:00:00,,STM,2021
+Diluted Average Shares,2020-12-31 00:00:00,,STM,2021
+Basic Average Shares,2020-12-31 00:00:00,,STM,2021
+Diluted EPS,2020-12-31 00:00:00,,STM,2021
+Basic EPS,2020-12-31 00:00:00,,STM,2021
+Diluted NI Availto Com Stockholders,2020-12-31 00:00:00,,STM,2021
+Average Dilution Earnings,2020-12-31 00:00:00,,STM,2021
+Net Income Common Stockholders,2020-12-31 00:00:00,,STM,2021
+Net Income,2020-12-31 00:00:00,,STM,2021
+Minority Interests,2020-12-31 00:00:00,,STM,2021
+Net Income Including Noncontrolling Interests,2020-12-31 00:00:00,,STM,2021
+Net Income Continuous Operations,2020-12-31 00:00:00,,STM,2021
+Tax Provision,2020-12-31 00:00:00,,STM,2021
+Pretax Income,2020-12-31 00:00:00,,STM,2021
+Other Income Expense,2020-12-31 00:00:00,,STM,2021
+Other Non Operating Income Expenses,2020-12-31 00:00:00,,STM,2021
+Special Income Charges,2020-12-31 00:00:00,,STM,2021
+Gain On Sale Of Ppe,2020-12-31 00:00:00,,STM,2021
+Other Special Charges,2020-12-31 00:00:00,,STM,2021
+Write Off,2020-12-31 00:00:00,11000000.0,STM,2021
+Impairment Of Capital Assets,2020-12-31 00:00:00,4000000.0,STM,2021
+Restructuring And Mergern Acquisition,2020-12-31 00:00:00,15000000.0,STM,2021
+Earnings From Equity Interest,2020-12-31 00:00:00,2000000.0,STM,2021
+Gain On Sale Of Security,2020-12-31 00:00:00,,STM,2021
+Net Non Operating Interest Income Expense,2020-12-31 00:00:00,,STM,2021
+Interest Expense Non Operating,2020-12-31 00:00:00,,STM,2021
+Interest Income Non Operating,2020-12-31 00:00:00,,STM,2021
+Operating Income,2020-12-31 00:00:00,,STM,2021
+Operating Expense,2020-12-31 00:00:00,,STM,2021
+Other Operating Expenses,2020-12-31 00:00:00,-231000000.0,STM,2021
+Research And Development,2020-12-31 00:00:00,,STM,2021
+Selling General And Administration,2020-12-31 00:00:00,,STM,2021
+General And Administrative Expense,2020-12-31 00:00:00,1109000000.0,STM,2021
+Other Gand A,2020-12-31 00:00:00,1109000000.0,STM,2021
+Salaries And Wages,2020-12-31 00:00:00,12000000.0,STM,2021
+Gross Profit,2020-12-31 00:00:00,,STM,2021
+Cost Of Revenue,2020-12-31 00:00:00,,STM,2021
+Total Revenue,2020-12-31 00:00:00,,STM,2021
+Operating Revenue,2020-12-31 00:00:00,,STM,2021
+Tax Effect Of Unusual Items,__statement__,income_stmt,STM,2021
+Tax Rate For Calcs,__statement__,income_stmt,STM,2021
+Normalized EBITDA,__statement__,income_stmt,STM,2021
+Total Unusual Items,__statement__,income_stmt,STM,2021
+Total Unusual Items Excluding Goodwill,__statement__,income_stmt,STM,2021
+Net Income From Continuing Operation Net Minority Interest,__statement__,income_stmt,STM,2021
+Reconciled Depreciation,__statement__,income_stmt,STM,2021
+Reconciled Cost Of Revenue,__statement__,income_stmt,STM,2021
+EBITDA,__statement__,income_stmt,STM,2021
+EBIT,__statement__,income_stmt,STM,2021
+Net Interest Income,__statement__,income_stmt,STM,2021
+Interest Expense,__statement__,income_stmt,STM,2021
+Interest Income,__statement__,income_stmt,STM,2021
+Normalized Income,__statement__,income_stmt,STM,2021
+Net Income From Continuing And Discontinued Operation,__statement__,income_stmt,STM,2021
+Total Expenses,__statement__,income_stmt,STM,2021
+Total Operating Income As Reported,__statement__,income_stmt,STM,2021
+Diluted Average Shares,__statement__,income_stmt,STM,2021
+Basic Average Shares,__statement__,income_stmt,STM,2021
+Diluted EPS,__statement__,income_stmt,STM,2021
+Basic EPS,__statement__,income_stmt,STM,2021
+Diluted NI Availto Com Stockholders,__statement__,income_stmt,STM,2021
+Average Dilution Earnings,__statement__,income_stmt,STM,2021
+Net Income Common Stockholders,__statement__,income_stmt,STM,2021
+Net Income,__statement__,income_stmt,STM,2021
+Minority Interests,__statement__,income_stmt,STM,2021
+Net Income Including Noncontrolling Interests,__statement__,income_stmt,STM,2021
+Net Income Continuous Operations,__statement__,income_stmt,STM,2021
+Tax Provision,__statement__,income_stmt,STM,2021
+Pretax Income,__statement__,income_stmt,STM,2021
+Other Income Expense,__statement__,income_stmt,STM,2021
+Other Non Operating Income Expenses,__statement__,income_stmt,STM,2021
+Special Income Charges,__statement__,income_stmt,STM,2021
+Gain On Sale Of Ppe,__statement__,income_stmt,STM,2021
+Other Special Charges,__statement__,income_stmt,STM,2021
+Write Off,__statement__,income_stmt,STM,2021
+Impairment Of Capital Assets,__statement__,income_stmt,STM,2021
+Restructuring And Mergern Acquisition,__statement__,income_stmt,STM,2021
+Earnings From Equity Interest,__statement__,income_stmt,STM,2021
+Gain On Sale Of Security,__statement__,income_stmt,STM,2021
+Net Non Operating Interest Income Expense,__statement__,income_stmt,STM,2021
+Interest Expense Non Operating,__statement__,income_stmt,STM,2021
+Interest Income Non Operating,__statement__,income_stmt,STM,2021
+Operating Income,__statement__,income_stmt,STM,2021
+Operating Expense,__statement__,income_stmt,STM,2021
+Other Operating Expenses,__statement__,income_stmt,STM,2021
+Research And Development,__statement__,income_stmt,STM,2021
+Selling General And Administration,__statement__,income_stmt,STM,2021
+General And Administrative Expense,__statement__,income_stmt,STM,2021
+Other Gand A,__statement__,income_stmt,STM,2021
+Salaries And Wages,__statement__,income_stmt,STM,2021
+Gross Profit,__statement__,income_stmt,STM,2021
+Cost Of Revenue,__statement__,income_stmt,STM,2021
+Total Revenue,__statement__,income_stmt,STM,2021
+Operating Revenue,__statement__,income_stmt,STM,2021
+Treasury Shares Number,2024-12-31 00:00:00,13106512.0,STM,2021
+Ordinary Shares Number,2024-12-31 00:00:00,898175408.0,STM,2021
+Share Issued,2024-12-31 00:00:00,911281920.0,STM,2021
+Net Debt,2024-12-31 00:00:00,671000000.0,STM,2021
+Total Debt,2024-12-31 00:00:00,3167000000.0,STM,2021
+Tangible Book Value,2024-12-31 00:00:00,16813000000.0,STM,2021
+Invested Capital,2024-12-31 00:00:00,20402000000.0,STM,2021
+Working Capital,2024-12-31 00:00:00,7961000000.0,STM,2021
+Net Tangible Assets,2024-12-31 00:00:00,16813000000.0,STM,2021
+Capital Lease Obligations,2024-12-31 00:00:00,214000000.0,STM,2021
+Common Stock Equity,2024-12-31 00:00:00,17449000000.0,STM,2021
+Total Capitalization,2024-12-31 00:00:00,19412000000.0,STM,2021
+Total Equity Gross Minority Interest,2024-12-31 00:00:00,17679000000.0,STM,2021
+Minority Interest,2024-12-31 00:00:00,230000000.0,STM,2021
+Stockholders Equity,2024-12-31 00:00:00,17449000000.0,STM,2021
+Gains Losses Not Affecting Retained Earnings,2024-12-31 00:00:00,236000000.0,STM,2021
+Other Equity Adjustments,2024-12-31 00:00:00,236000000.0,STM,2021
+Treasury Stock,2024-12-31 00:00:00,491000000.0,STM,2021
+Retained Earnings,2024-12-31 00:00:00,13459000000.0,STM,2021
+Additional Paid In Capital,2024-12-31 00:00:00,3088000000.0,STM,2021
+Capital Stock,2024-12-31 00:00:00,1157000000.0,STM,2021
+Common Stock,2024-12-31 00:00:00,1157000000.0,STM,2021
+Total Liabilities Net Minority Interest,2024-12-31 00:00:00,7064000000.0,STM,2021
+Total Non Current Liabilities Net Minority Interest,2024-12-31 00:00:00,3291000000.0,STM,2021
+Other Non Current Liabilities,2024-12-31 00:00:00,245000000.0,STM,2021
+Derivative Product Liabilities,2024-12-31 00:00:00,3000000.0,STM,2021
+Employee Benefits,2024-12-31 00:00:00,476000000.0,STM,2021
+Non Current Pension And Other Postretirement Benefit Plans,2024-12-31 00:00:00,377000000.0,STM,2021
+Non Current Deferred Liabilities,2024-12-31 00:00:00,444000000.0,STM,2021
+Non Current Deferred Revenue,2024-12-31 00:00:00,397000000.0,STM,2021
+Non Current Deferred Taxes Liabilities,2024-12-31 00:00:00,47000000.0,STM,2021
+Long Term Debt And Capital Lease Obligation,2024-12-31 00:00:00,2123000000.0,STM,2021
+Long Term Capital Lease Obligation,2024-12-31 00:00:00,160000000.0,STM,2021
+Long Term Debt,2024-12-31 00:00:00,1963000000.0,STM,2021
+Current Liabilities,2024-12-31 00:00:00,3773000000.0,STM,2021
+Other Current Liabilities,2024-12-31 00:00:00,86000000.0,STM,2021
+Current Deferred Liabilities,2024-12-31 00:00:00,89000000.0,STM,2021
+Current Deferred Revenue,2024-12-31 00:00:00,89000000.0,STM,2021
+Current Debt And Capital Lease Obligation,2024-12-31 00:00:00,1044000000.0,STM,2021
+Current Capital Lease Obligation,2024-12-31 00:00:00,54000000.0,STM,2021
+Current Debt,2024-12-31 00:00:00,990000000.0,STM,2021
+Other Current Borrowings,2024-12-31 00:00:00,990000000.0,STM,2021
+Pensionand Other Post Retirement Benefit Plans Current,2024-12-31 00:00:00,824000000.0,STM,2021
+Current Provisions,2024-12-31 00:00:00,,STM,2021
+Payables And Accrued Expenses,2024-12-31 00:00:00,1730000000.0,STM,2021
+Current Accrued Expenses,2024-12-31 00:00:00,,STM,2021
+Payables,2024-12-31 00:00:00,1730000000.0,STM,2021
+Other Payable,2024-12-31 00:00:00,174000000.0,STM,2021
+Dividends Payable,2024-12-31 00:00:00,88000000.0,STM,2021
+Total Tax Payable,2024-12-31 00:00:00,145000000.0,STM,2021
+Income Tax Payable,2024-12-31 00:00:00,66000000.0,STM,2021
+Accounts Payable,2024-12-31 00:00:00,1323000000.0,STM,2021
+Total Assets,2024-12-31 00:00:00,24743000000.0,STM,2021
+Total Non Current Assets,2024-12-31 00:00:00,13009000000.0,STM,2021
+Other Non Current Assets,2024-12-31 00:00:00,57000000.0,STM,2021
+Defined Pension Benefit,2024-12-31 00:00:00,22000000.0,STM,2021
+Non Current Prepaid Assets,2024-12-31 00:00:00,213000000.0,STM,2021
+Non Current Deferred Assets,2024-12-31 00:00:00,464000000.0,STM,2021
+Non Current Deferred Taxes Assets,2024-12-31 00:00:00,464000000.0,STM,2021
+Non Current Accounts Receivable,2024-12-31 00:00:00,632000000.0,STM,2021
+Financial Assets,2024-12-31 00:00:00,0.0,STM,2021
+Investments And Advances,2024-12-31 00:00:00,108000000.0,STM,2021
+Investmentin Financial Assets,2024-12-31 00:00:00,108000000.0,STM,2021
+Available For Sale Securities,2024-12-31 00:00:00,108000000.0,STM,2021
+Goodwill And Other Intangible Assets,2024-12-31 00:00:00,636000000.0,STM,2021
+Other Intangible Assets,2024-12-31 00:00:00,346000000.0,STM,2021
+Goodwill,2024-12-31 00:00:00,290000000.0,STM,2021
+Net PPE,2024-12-31 00:00:00,10877000000.0,STM,2021
+Accumulated Depreciation,2024-12-31 00:00:00,-20011000000.0,STM,2021
+Gross PPE,2024-12-31 00:00:00,30888000000.0,STM,2021
+Construction In Progress,2024-12-31 00:00:00,1899000000.0,STM,2021
+Other Properties,2024-12-31 00:00:00,578000000.0,STM,2021
+Machinery Furniture Equipment,2024-12-31 00:00:00,26907000000.0,STM,2021
+Buildings And Improvements,2024-12-31 00:00:00,1386000000.0,STM,2021
+Land And Improvements,2024-12-31 00:00:00,118000000.0,STM,2021
+Properties,2024-12-31 00:00:00,0.0,STM,2021
+Current Assets,2024-12-31 00:00:00,11734000000.0,STM,2021
+Other Current Assets,2024-12-31 00:00:00,99000000.0,STM,2021
+Hedging Assets Current,2024-12-31 00:00:00,10000000.0,STM,2021
+Restricted Cash,2024-12-31 00:00:00,,STM,2021
+Prepaid Assets,2024-12-31 00:00:00,210000000.0,STM,2021
+Inventory,2024-12-31 00:00:00,2794000000.0,STM,2021
+Finished Goods,2024-12-31 00:00:00,762000000.0,STM,2021
+Work In Process,2024-12-31 00:00:00,1684000000.0,STM,2021
+Raw Materials,2024-12-31 00:00:00,348000000.0,STM,2021
+Receivables,2024-12-31 00:00:00,2437000000.0,STM,2021
+Other Receivables,2024-12-31 00:00:00,391000000.0,STM,2021
+Taxes Receivable,2024-12-31 00:00:00,254000000.0,STM,2021
+Accrued Interest Receivable,2024-12-31 00:00:00,29000000.0,STM,2021
+Loans Receivable,2024-12-31 00:00:00,14000000.0,STM,2021
+Accounts Receivable,2024-12-31 00:00:00,1749000000.0,STM,2021
+Allowance For Doubtful Accounts Receivable,2024-12-31 00:00:00,-19000000.0,STM,2021
+Gross Accounts Receivable,2024-12-31 00:00:00,1768000000.0,STM,2021
+Cash Cash Equivalents And Short Term Investments,2024-12-31 00:00:00,6184000000.0,STM,2021
+Other Short Term Investments,2024-12-31 00:00:00,3902000000.0,STM,2021
+Cash And Cash Equivalents,2024-12-31 00:00:00,2282000000.0,STM,2021
+Treasury Shares Number,2023-12-31 00:00:00,8510839.0,STM,2021
+Ordinary Shares Number,2023-12-31 00:00:00,902771081.0,STM,2021
+Share Issued,2023-12-31 00:00:00,911281920.0,STM,2021
+Net Debt,2023-12-31 00:00:00,,STM,2021
+Total Debt,2023-12-31 00:00:00,3173000000.0,STM,2021
+Tangible Book Value,2023-12-31 00:00:00,16059000000.0,STM,2021
+Invested Capital,2023-12-31 00:00:00,19656000000.0,STM,2021
+Working Capital,2023-12-31 00:00:00,8077000000.0,STM,2021
+Net Tangible Assets,2023-12-31 00:00:00,16059000000.0,STM,2021
+Capital Lease Obligations,2023-12-31 00:00:00,246000000.0,STM,2021
+Common Stock Equity,2023-12-31 00:00:00,16729000000.0,STM,2021
+Total Capitalization,2023-12-31 00:00:00,19439000000.0,STM,2021
+Total Equity Gross Minority Interest,2023-12-31 00:00:00,16852000000.0,STM,2021
+Minority Interest,2023-12-31 00:00:00,123000000.0,STM,2021
+Stockholders Equity,2023-12-31 00:00:00,16729000000.0,STM,2021
+Gains Losses Not Affecting Retained Earnings,2023-12-31 00:00:00,613000000.0,STM,2021
+Other Equity Adjustments,2023-12-31 00:00:00,613000000.0,STM,2021
+Treasury Stock,2023-12-31 00:00:00,377000000.0,STM,2021
+Retained Earnings,2023-12-31 00:00:00,12470000000.0,STM,2021
+Additional Paid In Capital,2023-12-31 00:00:00,2866000000.0,STM,2021
+Capital Stock,2023-12-31 00:00:00,1157000000.0,STM,2021
+Common Stock,2023-12-31 00:00:00,1157000000.0,STM,2021
+Total Liabilities Net Minority Interest,2023-12-31 00:00:00,7601000000.0,STM,2021
+Total Non Current Liabilities Net Minority Interest,2023-12-31 00:00:00,3871000000.0,STM,2021
+Other Non Current Liabilities,2023-12-31 00:00:00,278000000.0,STM,2021
+Derivative Product Liabilities,2023-12-31 00:00:00,0.0,STM,2021
+Employee Benefits,2023-12-31 00:00:00,464000000.0,STM,2021
+Non Current Pension And Other Postretirement Benefit Plans,2023-12-31 00:00:00,372000000.0,STM,2021
+Non Current Deferred Liabilities,2023-12-31 00:00:00,231000000.0,STM,2021
+Non Current Deferred Revenue,2023-12-31 00:00:00,177000000.0,STM,2021
+Non Current Deferred Taxes Liabilities,2023-12-31 00:00:00,54000000.0,STM,2021
+Long Term Debt And Capital Lease Obligation,2023-12-31 00:00:00,2898000000.0,STM,2021
+Long Term Capital Lease Obligation,2023-12-31 00:00:00,188000000.0,STM,2021
+Long Term Debt,2023-12-31 00:00:00,2710000000.0,STM,2021
+Current Liabilities,2023-12-31 00:00:00,3730000000.0,STM,2021
+Other Current Liabilities,2023-12-31 00:00:00,4000000.0,STM,2021
+Current Deferred Liabilities,2023-12-31 00:00:00,186000000.0,STM,2021
+Current Deferred Revenue,2023-12-31 00:00:00,186000000.0,STM,2021
+Current Debt And Capital Lease Obligation,2023-12-31 00:00:00,275000000.0,STM,2021
+Current Capital Lease Obligation,2023-12-31 00:00:00,58000000.0,STM,2021
+Current Debt,2023-12-31 00:00:00,217000000.0,STM,2021
+Other Current Borrowings,2023-12-31 00:00:00,217000000.0,STM,2021
+Pensionand Other Post Retirement Benefit Plans Current,2023-12-31 00:00:00,956000000.0,STM,2021
+Current Provisions,2023-12-31 00:00:00,,STM,2021
+Payables And Accrued Expenses,2023-12-31 00:00:00,2309000000.0,STM,2021
+Current Accrued Expenses,2023-12-31 00:00:00,,STM,2021
+Payables,2023-12-31 00:00:00,2309000000.0,STM,2021
+Other Payable,2023-12-31 00:00:00,240000000.0,STM,2021
+Dividends Payable,2023-12-31 00:00:00,54000000.0,STM,2021
+Total Tax Payable,2023-12-31 00:00:00,159000000.0,STM,2021
+Income Tax Payable,2023-12-31 00:00:00,78000000.0,STM,2021
+Accounts Payable,2023-12-31 00:00:00,1856000000.0,STM,2021
+Total Assets,2023-12-31 00:00:00,24453000000.0,STM,2021
+Total Non Current Assets,2023-12-31 00:00:00,12646000000.0,STM,2021
+Other Non Current Assets,2023-12-31 00:00:00,58000000.0,STM,2021
+Defined Pension Benefit,2023-12-31 00:00:00,15000000.0,STM,2021
+Non Current Prepaid Assets,2023-12-31 00:00:00,224000000.0,STM,2021
+Non Current Deferred Assets,2023-12-31 00:00:00,592000000.0,STM,2021
+Non Current Deferred Taxes Assets,2023-12-31 00:00:00,592000000.0,STM,2021
+Non Current Accounts Receivable,2023-12-31 00:00:00,478000000.0,STM,2021
+Financial Assets,2023-12-31 00:00:00,2000000.0,STM,2021
+Investments And Advances,2023-12-31 00:00:00,53000000.0,STM,2021
+Investmentin Financial Assets,2023-12-31 00:00:00,53000000.0,STM,2021
+Available For Sale Securities,2023-12-31 00:00:00,53000000.0,STM,2021
+Goodwill And Other Intangible Assets,2023-12-31 00:00:00,670000000.0,STM,2021
+Other Intangible Assets,2023-12-31 00:00:00,367000000.0,STM,2021
+Goodwill,2023-12-31 00:00:00,303000000.0,STM,2021
+Net PPE,2023-12-31 00:00:00,10554000000.0,STM,2021
+Accumulated Depreciation,2023-12-31 00:00:00,-19449000000.0,STM,2021
+Gross PPE,2023-12-31 00:00:00,30003000000.0,STM,2021
+Construction In Progress,2023-12-31 00:00:00,1712000000.0,STM,2021
+Other Properties,2023-12-31 00:00:00,614000000.0,STM,2021
+Machinery Furniture Equipment,2023-12-31 00:00:00,26253000000.0,STM,2021
+Buildings And Improvements,2023-12-31 00:00:00,1306000000.0,STM,2021
+Land And Improvements,2023-12-31 00:00:00,118000000.0,STM,2021
+Properties,2023-12-31 00:00:00,0.0,STM,2021
+Current Assets,2023-12-31 00:00:00,11807000000.0,STM,2021
+Other Current Assets,2023-12-31 00:00:00,128000000.0,STM,2021
+Hedging Assets Current,2023-12-31 00:00:00,58000000.0,STM,2021
+Restricted Cash,2023-12-31 00:00:00,,STM,2021
+Prepaid Assets,2023-12-31 00:00:00,180000000.0,STM,2021
+Inventory,2023-12-31 00:00:00,2698000000.0,STM,2021
+Finished Goods,2023-12-31 00:00:00,655000000.0,STM,2021
+Work In Process,2023-12-31 00:00:00,1745000000.0,STM,2021
+Raw Materials,2023-12-31 00:00:00,298000000.0,STM,2021
+Receivables,2023-12-31 00:00:00,2660000000.0,STM,2021
+Other Receivables,2023-12-31 00:00:00,651000000.0,STM,2021
+Taxes Receivable,2023-12-31 00:00:00,241000000.0,STM,2021
+Accrued Interest Receivable,2023-12-31 00:00:00,27000000.0,STM,2021
+Loans Receivable,2023-12-31 00:00:00,10000000.0,STM,2021
+Accounts Receivable,2023-12-31 00:00:00,1731000000.0,STM,2021
+Allowance For Doubtful Accounts Receivable,2023-12-31 00:00:00,-19000000.0,STM,2021
+Gross Accounts Receivable,2023-12-31 00:00:00,1750000000.0,STM,2021
+Cash Cash Equivalents And Short Term Investments,2023-12-31 00:00:00,6083000000.0,STM,2021
+Other Short Term Investments,2023-12-31 00:00:00,2861000000.0,STM,2021
+Cash And Cash Equivalents,2023-12-31 00:00:00,3222000000.0,STM,2021
+Treasury Shares Number,2022-12-31 00:00:00,7416157.0,STM,2021
+Ordinary Shares Number,2022-12-31 00:00:00,903865763.0,STM,2021
+Share Issued,2022-12-31 00:00:00,911281920.0,STM,2021
+Net Debt,2022-12-31 00:00:00,,STM,2021
+Total Debt,2022-12-31 00:00:00,2910000000.0,STM,2021
+Tangible Book Value,2022-12-31 00:00:00,11991000000.0,STM,2021
+Invested Capital,2022-12-31 00:00:00,15410000000.0,STM,2021
+Working Capital,2022-12-31 00:00:00,5968000000.0,STM,2021
+Net Tangible Assets,2022-12-31 00:00:00,11991000000.0,STM,2021
+Capital Lease Obligations,2022-12-31 00:00:00,193000000.0,STM,2021
+Common Stock Equity,2022-12-31 00:00:00,12693000000.0,STM,2021
+Total Capitalization,2022-12-31 00:00:00,15235000000.0,STM,2021
+Total Equity Gross Minority Interest,2022-12-31 00:00:00,12758000000.0,STM,2021
+Minority Interest,2022-12-31 00:00:00,65000000.0,STM,2021
+Stockholders Equity,2022-12-31 00:00:00,12693000000.0,STM,2021
+Gains Losses Not Affecting Retained Earnings,2022-12-31 00:00:00,460000000.0,STM,2021
+Other Equity Adjustments,2022-12-31 00:00:00,460000000.0,STM,2021
+Treasury Stock,2022-12-31 00:00:00,268000000.0,STM,2021
+Retained Earnings,2022-12-31 00:00:00,8713000000.0,STM,2021
+Additional Paid In Capital,2022-12-31 00:00:00,2631000000.0,STM,2021
+Capital Stock,2022-12-31 00:00:00,1157000000.0,STM,2021
+Common Stock,2022-12-31 00:00:00,1157000000.0,STM,2021
+Total Liabilities Net Minority Interest,2022-12-31 00:00:00,7224000000.0,STM,2021
+Total Non Current Liabilities Net Minority Interest,2022-12-31 00:00:00,3387000000.0,STM,2021
+Other Non Current Liabilities,2022-12-31 00:00:00,155000000.0,STM,2021
+Derivative Product Liabilities,2022-12-31 00:00:00,4000000.0,STM,2021
+Employee Benefits,2022-12-31 00:00:00,412000000.0,STM,2021
+Non Current Pension And Other Postretirement Benefit Plans,2022-12-31 00:00:00,331000000.0,STM,2021
+Non Current Deferred Liabilities,2022-12-31 00:00:00,133000000.0,STM,2021
+Non Current Deferred Revenue,2022-12-31 00:00:00,73000000.0,STM,2021
+Non Current Deferred Taxes Liabilities,2022-12-31 00:00:00,60000000.0,STM,2021
+Long Term Debt And Capital Lease Obligation,2022-12-31 00:00:00,2683000000.0,STM,2021
+Long Term Capital Lease Obligation,2022-12-31 00:00:00,141000000.0,STM,2021
+Long Term Debt,2022-12-31 00:00:00,2542000000.0,STM,2021
+Current Liabilities,2022-12-31 00:00:00,3837000000.0,STM,2021
+Other Current Liabilities,2022-12-31 00:00:00,35000000.0,STM,2021
+Current Deferred Liabilities,2022-12-31 00:00:00,262000000.0,STM,2021
+Current Deferred Revenue,2022-12-31 00:00:00,262000000.0,STM,2021
+Current Debt And Capital Lease Obligation,2022-12-31 00:00:00,227000000.0,STM,2021
+Current Capital Lease Obligation,2022-12-31 00:00:00,52000000.0,STM,2021
+Current Debt,2022-12-31 00:00:00,175000000.0,STM,2021
+Other Current Borrowings,2022-12-31 00:00:00,175000000.0,STM,2021
+Pensionand Other Post Retirement Benefit Plans Current,2022-12-31 00:00:00,834000000.0,STM,2021
+Current Provisions,2022-12-31 00:00:00,,STM,2021
+Payables And Accrued Expenses,2022-12-31 00:00:00,2479000000.0,STM,2021
+Current Accrued Expenses,2022-12-31 00:00:00,32000000.0,STM,2021
+Payables,2022-12-31 00:00:00,2479000000.0,STM,2021
+Other Payable,2022-12-31 00:00:00,134000000.0,STM,2021
+Dividends Payable,2022-12-31 00:00:00,60000000.0,STM,2021
+Total Tax Payable,2022-12-31 00:00:00,163000000.0,STM,2021
+Income Tax Payable,2022-12-31 00:00:00,95000000.0,STM,2021
+Accounts Payable,2022-12-31 00:00:00,2122000000.0,STM,2021
+Total Assets,2022-12-31 00:00:00,19982000000.0,STM,2021
+Total Non Current Assets,2022-12-31 00:00:00,10177000000.0,STM,2021
+Other Non Current Assets,2022-12-31 00:00:00,56000000.0,STM,2021
+Defined Pension Benefit,2022-12-31 00:00:00,9000000.0,STM,2021
+Non Current Prepaid Assets,2022-12-31 00:00:00,107000000.0,STM,2021
+Non Current Deferred Assets,2022-12-31 00:00:00,602000000.0,STM,2021
+Non Current Deferred Taxes Assets,2022-12-31 00:00:00,602000000.0,STM,2021
+Non Current Accounts Receivable,2022-12-31 00:00:00,450000000.0,STM,2021
+Financial Assets,2022-12-31 00:00:00,13000000.0,STM,2021
+Investments And Advances,2022-12-31 00:00:00,37000000.0,STM,2021
+Investmentin Financial Assets,2022-12-31 00:00:00,37000000.0,STM,2021
+Available For Sale Securities,2022-12-31 00:00:00,37000000.0,STM,2021
+Goodwill And Other Intangible Assets,2022-12-31 00:00:00,702000000.0,STM,2021
+Other Intangible Assets,2022-12-31 00:00:00,405000000.0,STM,2021
+Goodwill,2022-12-31 00:00:00,297000000.0,STM,2021
+Net PPE,2022-12-31 00:00:00,8201000000.0,STM,2021
+Accumulated Depreciation,2022-12-31 00:00:00,-18015000000.0,STM,2021
+Gross PPE,2022-12-31 00:00:00,26216000000.0,STM,2021
+Construction In Progress,2022-12-31 00:00:00,1454000000.0,STM,2021
+Other Properties,2022-12-31 00:00:00,537000000.0,STM,2021
+Machinery Furniture Equipment,2022-12-31 00:00:00,23026000000.0,STM,2021
+Buildings And Improvements,2022-12-31 00:00:00,1116000000.0,STM,2021
+Land And Improvements,2022-12-31 00:00:00,83000000.0,STM,2021
+Properties,2022-12-31 00:00:00,0.0,STM,2021
+Current Assets,2022-12-31 00:00:00,9805000000.0,STM,2021
+Other Current Assets,2022-12-31 00:00:00,61000000.0,STM,2021
+Hedging Assets Current,2022-12-31 00:00:00,56000000.0,STM,2021
+Restricted Cash,2022-12-31 00:00:00,,STM,2021
+Prepaid Assets,2022-12-31 00:00:00,125000000.0,STM,2021
+Inventory,2022-12-31 00:00:00,2583000000.0,STM,2021
+Finished Goods,2022-12-31 00:00:00,744000000.0,STM,2021
+Work In Process,2022-12-31 00:00:00,1490000000.0,STM,2021
+Raw Materials,2022-12-31 00:00:00,349000000.0,STM,2021
+Receivables,2022-12-31 00:00:00,2462000000.0,STM,2021
+Other Receivables,2022-12-31 00:00:00,190000000.0,STM,2021
+Taxes Receivable,2022-12-31 00:00:00,270000000.0,STM,2021
+Accrued Interest Receivable,2022-12-31 00:00:00,22000000.0,STM,2021
+Loans Receivable,2022-12-31 00:00:00,10000000.0,STM,2021
+Accounts Receivable,2022-12-31 00:00:00,1970000000.0,STM,2021
+Allowance For Doubtful Accounts Receivable,2022-12-31 00:00:00,-21000000.0,STM,2021
+Gross Accounts Receivable,2022-12-31 00:00:00,1991000000.0,STM,2021
+Cash Cash Equivalents And Short Term Investments,2022-12-31 00:00:00,4518000000.0,STM,2021
+Other Short Term Investments,2022-12-31 00:00:00,1260000000.0,STM,2021
+Cash And Cash Equivalents,2022-12-31 00:00:00,3258000000.0,STM,2021
+Treasury Shares Number,2021-12-31 00:00:00,4758863.0,STM,2021
+Ordinary Shares Number,2021-12-31 00:00:00,906518057.0,STM,2021
+Share Issued,2021-12-31 00:00:00,911276920.0,STM,2021
+Net Debt,2021-12-31 00:00:00,,STM,2021
+Total Debt,2021-12-31 00:00:00,2742000000.0,STM,2021
+Tangible Book Value,2021-12-31 00:00:00,8458000000.0,STM,2021
+Invested Capital,2021-12-31 00:00:00,11748000000.0,STM,2021
+Working Capital,2021-12-31 00:00:00,4879000000.0,STM,2021
+Net Tangible Assets,2021-12-31 00:00:00,8458000000.0,STM,2021
+Capital Lease Obligations,2021-12-31 00:00:00,203000000.0,STM,2021
+Common Stock Equity,2021-12-31 00:00:00,9209000000.0,STM,2021
+Total Capitalization,2021-12-31 00:00:00,11605000000.0,STM,2021
+Total Equity Gross Minority Interest,2021-12-31 00:00:00,9273000000.0,STM,2021
+Minority Interest,2021-12-31 00:00:00,64000000.0,STM,2021
+Stockholders Equity,2021-12-31 00:00:00,9209000000.0,STM,2021
+Gains Losses Not Affecting Retained Earnings,2021-12-31 00:00:00,496000000.0,STM,2021
+Other Equity Adjustments,2021-12-31 00:00:00,496000000.0,STM,2021
+Treasury Stock,2021-12-31 00:00:00,200000000.0,STM,2021
+Retained Earnings,2021-12-31 00:00:00,5223000000.0,STM,2021
+Additional Paid In Capital,2021-12-31 00:00:00,2533000000.0,STM,2021
+Capital Stock,2021-12-31 00:00:00,1157000000.0,STM,2021
+Common Stock,2021-12-31 00:00:00,1157000000.0,STM,2021
+Total Liabilities Net Minority Interest,2021-12-31 00:00:00,6267000000.0,STM,2021
+Total Non Current Liabilities Net Minority Interest,2021-12-31 00:00:00,3318000000.0,STM,2021
+Other Non Current Liabilities,2021-12-31 00:00:00,178000000.0,STM,2021
+Derivative Product Liabilities,2021-12-31 00:00:00,0.0,STM,2021
+Employee Benefits,2021-12-31 00:00:00,532000000.0,STM,2021
+Non Current Pension And Other Postretirement Benefit Plans,2021-12-31 00:00:00,442000000.0,STM,2021
+Non Current Deferred Liabilities,2021-12-31 00:00:00,64000000.0,STM,2021
+Non Current Deferred Revenue,2021-12-31 00:00:00,0.0,STM,2021
+Non Current Deferred Taxes Liabilities,2021-12-31 00:00:00,64000000.0,STM,2021
+Long Term Debt And Capital Lease Obligation,2021-12-31 00:00:00,2544000000.0,STM,2021
+Long Term Capital Lease Obligation,2021-12-31 00:00:00,148000000.0,STM,2021
+Long Term Debt,2021-12-31 00:00:00,2396000000.0,STM,2021
+Current Liabilities,2021-12-31 00:00:00,2949000000.0,STM,2021
+Other Current Liabilities,2021-12-31 00:00:00,43000000.0,STM,2021
+Current Deferred Liabilities,2021-12-31 00:00:00,86000000.0,STM,2021
+Current Deferred Revenue,2021-12-31 00:00:00,59000000.0,STM,2021
+Current Debt And Capital Lease Obligation,2021-12-31 00:00:00,198000000.0,STM,2021
+Current Capital Lease Obligation,2021-12-31 00:00:00,55000000.0,STM,2021
+Current Debt,2021-12-31 00:00:00,143000000.0,STM,2021
+Other Current Borrowings,2021-12-31 00:00:00,143000000.0,STM,2021
+Pensionand Other Post Retirement Benefit Plans Current,2021-12-31 00:00:00,751000000.0,STM,2021
+Current Provisions,2021-12-31 00:00:00,,STM,2021
+Payables And Accrued Expenses,2021-12-31 00:00:00,1871000000.0,STM,2021
+Current Accrued Expenses,2021-12-31 00:00:00,29000000.0,STM,2021
+Payables,2021-12-31 00:00:00,1871000000.0,STM,2021
+Other Payable,2021-12-31 00:00:00,108000000.0,STM,2021
+Dividends Payable,2021-12-31 00:00:00,55000000.0,STM,2021
+Total Tax Payable,2021-12-31 00:00:00,126000000.0,STM,2021
+Income Tax Payable,2021-12-31 00:00:00,68000000.0,STM,2021
+Accounts Payable,2021-12-31 00:00:00,1582000000.0,STM,2021
+Total Assets,2021-12-31 00:00:00,15540000000.0,STM,2021
+Total Non Current Assets,2021-12-31 00:00:00,7712000000.0,STM,2021
+Other Non Current Assets,2021-12-31 00:00:00,74000000.0,STM,2021
+Defined Pension Benefit,2021-12-31 00:00:00,15000000.0,STM,2021
+Non Current Prepaid Assets,2021-12-31 00:00:00,21000000.0,STM,2021
+Non Current Deferred Assets,2021-12-31 00:00:00,652000000.0,STM,2021
+Non Current Deferred Taxes Assets,2021-12-31 00:00:00,652000000.0,STM,2021
+Non Current Accounts Receivable,2021-12-31 00:00:00,500000000.0,STM,2021
+Financial Assets,2021-12-31 00:00:00,0.0,STM,2021
+Investments And Advances,2021-12-31 00:00:00,39000000.0,STM,2021
+Investmentin Financial Assets,2021-12-31 00:00:00,39000000.0,STM,2021
+Available For Sale Securities,2021-12-31 00:00:00,39000000.0,STM,2021
+Goodwill And Other Intangible Assets,2021-12-31 00:00:00,751000000.0,STM,2021
+Other Intangible Assets,2021-12-31 00:00:00,438000000.0,STM,2021
+Goodwill,2021-12-31 00:00:00,313000000.0,STM,2021
+Net PPE,2021-12-31 00:00:00,5660000000.0,STM,2021
+Accumulated Depreciation,2021-12-31 00:00:00,-17828000000.0,STM,2021
+Gross PPE,2021-12-31 00:00:00,23488000000.0,STM,2021
+Construction In Progress,2021-12-31 00:00:00,1022000000.0,STM,2021
+Other Properties,2021-12-31 00:00:00,461000000.0,STM,2021
+Machinery Furniture Equipment,2021-12-31 00:00:00,20970000000.0,STM,2021
+Buildings And Improvements,2021-12-31 00:00:00,951000000.0,STM,2021
+Land And Improvements,2021-12-31 00:00:00,84000000.0,STM,2021
+Properties,2021-12-31 00:00:00,0.0,STM,2021
+Current Assets,2021-12-31 00:00:00,7828000000.0,STM,2021
+Other Current Assets,2021-12-31 00:00:00,33000000.0,STM,2021
+Hedging Assets Current,2021-12-31 00:00:00,6000000.0,STM,2021
+Restricted Cash,2021-12-31 00:00:00,,STM,2021
+Prepaid Assets,2021-12-31 00:00:00,118000000.0,STM,2021
+Inventory,2021-12-31 00:00:00,1972000000.0,STM,2021
+Finished Goods,2021-12-31 00:00:00,514000000.0,STM,2021
+Work In Process,2021-12-31 00:00:00,1235000000.0,STM,2021
+Raw Materials,2021-12-31 00:00:00,223000000.0,STM,2021
+Receivables,2021-12-31 00:00:00,2183000000.0,STM,2021
+Other Receivables,2021-12-31 00:00:00,296000000.0,STM,2021
+Taxes Receivable,2021-12-31 00:00:00,119000000.0,STM,2021
+Accrued Interest Receivable,2021-12-31 00:00:00,1000000.0,STM,2021
+Loans Receivable,2021-12-31 00:00:00,8000000.0,STM,2021
+Accounts Receivable,2021-12-31 00:00:00,1759000000.0,STM,2021
+Allowance For Doubtful Accounts Receivable,2021-12-31 00:00:00,-19000000.0,STM,2021
+Gross Accounts Receivable,2021-12-31 00:00:00,1778000000.0,STM,2021
+Cash Cash Equivalents And Short Term Investments,2021-12-31 00:00:00,3516000000.0,STM,2021
+Other Short Term Investments,2021-12-31 00:00:00,291000000.0,STM,2021
+Cash And Cash Equivalents,2021-12-31 00:00:00,3225000000.0,STM,2021
+Treasury Shares Number,2020-12-31 00:00:00,,STM,2021
+Ordinary Shares Number,2020-12-31 00:00:00,,STM,2021
+Share Issued,2020-12-31 00:00:00,,STM,2021
+Net Debt,2020-12-31 00:00:00,,STM,2021
+Total Debt,2020-12-31 00:00:00,,STM,2021
+Tangible Book Value,2020-12-31 00:00:00,,STM,2021
+Invested Capital,2020-12-31 00:00:00,,STM,2021
+Working Capital,2020-12-31 00:00:00,,STM,2021
+Net Tangible Assets,2020-12-31 00:00:00,,STM,2021
+Capital Lease Obligations,2020-12-31 00:00:00,,STM,2021
+Common Stock Equity,2020-12-31 00:00:00,,STM,2021
+Total Capitalization,2020-12-31 00:00:00,,STM,2021
+Total Equity Gross Minority Interest,2020-12-31 00:00:00,,STM,2021
+Minority Interest,2020-12-31 00:00:00,,STM,2021
+Stockholders Equity,2020-12-31 00:00:00,,STM,2021
+Gains Losses Not Affecting Retained Earnings,2020-12-31 00:00:00,,STM,2021
+Other Equity Adjustments,2020-12-31 00:00:00,,STM,2021
+Treasury Stock,2020-12-31 00:00:00,,STM,2021
+Retained Earnings,2020-12-31 00:00:00,,STM,2021
+Additional Paid In Capital,2020-12-31 00:00:00,,STM,2021
+Capital Stock,2020-12-31 00:00:00,,STM,2021
+Common Stock,2020-12-31 00:00:00,,STM,2021
+Total Liabilities Net Minority Interest,2020-12-31 00:00:00,,STM,2021
+Total Non Current Liabilities Net Minority Interest,2020-12-31 00:00:00,,STM,2021
+Other Non Current Liabilities,2020-12-31 00:00:00,,STM,2021
+Derivative Product Liabilities,2020-12-31 00:00:00,,STM,2021
+Employee Benefits,2020-12-31 00:00:00,,STM,2021
+Non Current Pension And Other Postretirement Benefit Plans,2020-12-31 00:00:00,,STM,2021
+Non Current Deferred Liabilities,2020-12-31 00:00:00,,STM,2021
+Non Current Deferred Revenue,2020-12-31 00:00:00,,STM,2021
+Non Current Deferred Taxes Liabilities,2020-12-31 00:00:00,,STM,2021
+Long Term Debt And Capital Lease Obligation,2020-12-31 00:00:00,,STM,2021
+Long Term Capital Lease Obligation,2020-12-31 00:00:00,,STM,2021
+Long Term Debt,2020-12-31 00:00:00,,STM,2021
+Current Liabilities,2020-12-31 00:00:00,,STM,2021
+Other Current Liabilities,2020-12-31 00:00:00,,STM,2021
+Current Deferred Liabilities,2020-12-31 00:00:00,,STM,2021
+Current Deferred Revenue,2020-12-31 00:00:00,,STM,2021
+Current Debt And Capital Lease Obligation,2020-12-31 00:00:00,,STM,2021
+Current Capital Lease Obligation,2020-12-31 00:00:00,,STM,2021
+Current Debt,2020-12-31 00:00:00,,STM,2021
+Other Current Borrowings,2020-12-31 00:00:00,,STM,2021
+Pensionand Other Post Retirement Benefit Plans Current,2020-12-31 00:00:00,,STM,2021
+Current Provisions,2020-12-31 00:00:00,4000000.0,STM,2021
+Payables And Accrued Expenses,2020-12-31 00:00:00,,STM,2021
+Current Accrued Expenses,2020-12-31 00:00:00,24000000.0,STM,2021
+Payables,2020-12-31 00:00:00,,STM,2021
+Other Payable,2020-12-31 00:00:00,,STM,2021
+Dividends Payable,2020-12-31 00:00:00,,STM,2021
+Total Tax Payable,2020-12-31 00:00:00,,STM,2021
+Income Tax Payable,2020-12-31 00:00:00,,STM,2021
+Accounts Payable,2020-12-31 00:00:00,,STM,2021
+Total Assets,2020-12-31 00:00:00,,STM,2021
+Total Non Current Assets,2020-12-31 00:00:00,,STM,2021
+Other Non Current Assets,2020-12-31 00:00:00,,STM,2021
+Defined Pension Benefit,2020-12-31 00:00:00,,STM,2021
+Non Current Prepaid Assets,2020-12-31 00:00:00,,STM,2021
+Non Current Deferred Assets,2020-12-31 00:00:00,,STM,2021
+Non Current Deferred Taxes Assets,2020-12-31 00:00:00,,STM,2021
+Non Current Accounts Receivable,2020-12-31 00:00:00,,STM,2021
+Financial Assets,2020-12-31 00:00:00,,STM,2021
+Investments And Advances,2020-12-31 00:00:00,,STM,2021
+Investmentin Financial Assets,2020-12-31 00:00:00,,STM,2021
+Available For Sale Securities,2020-12-31 00:00:00,,STM,2021
+Goodwill And Other Intangible Assets,2020-12-31 00:00:00,,STM,2021
+Other Intangible Assets,2020-12-31 00:00:00,,STM,2021
+Goodwill,2020-12-31 00:00:00,,STM,2021
+Net PPE,2020-12-31 00:00:00,,STM,2021
+Accumulated Depreciation,2020-12-31 00:00:00,,STM,2021
+Gross PPE,2020-12-31 00:00:00,,STM,2021
+Construction In Progress,2020-12-31 00:00:00,,STM,2021
+Other Properties,2020-12-31 00:00:00,,STM,2021
+Machinery Furniture Equipment,2020-12-31 00:00:00,,STM,2021
+Buildings And Improvements,2020-12-31 00:00:00,,STM,2021
+Land And Improvements,2020-12-31 00:00:00,,STM,2021
+Properties,2020-12-31 00:00:00,,STM,2021
+Current Assets,2020-12-31 00:00:00,,STM,2021
+Other Current Assets,2020-12-31 00:00:00,,STM,2021
+Hedging Assets Current,2020-12-31 00:00:00,,STM,2021
+Restricted Cash,2020-12-31 00:00:00,0.0,STM,2021
+Prepaid Assets,2020-12-31 00:00:00,,STM,2021
+Inventory,2020-12-31 00:00:00,,STM,2021
+Finished Goods,2020-12-31 00:00:00,,STM,2021
+Work In Process,2020-12-31 00:00:00,,STM,2021
+Raw Materials,2020-12-31 00:00:00,,STM,2021
+Receivables,2020-12-31 00:00:00,,STM,2021
+Other Receivables,2020-12-31 00:00:00,,STM,2021
+Taxes Receivable,2020-12-31 00:00:00,,STM,2021
+Accrued Interest Receivable,2020-12-31 00:00:00,,STM,2021
+Loans Receivable,2020-12-31 00:00:00,,STM,2021
+Accounts Receivable,2020-12-31 00:00:00,,STM,2021
+Allowance For Doubtful Accounts Receivable,2020-12-31 00:00:00,,STM,2021
+Gross Accounts Receivable,2020-12-31 00:00:00,,STM,2021
+Cash Cash Equivalents And Short Term Investments,2020-12-31 00:00:00,,STM,2021
+Other Short Term Investments,2020-12-31 00:00:00,,STM,2021
+Cash And Cash Equivalents,2020-12-31 00:00:00,,STM,2021
+Treasury Shares Number,__statement__,balance_sheet,STM,2021
+Ordinary Shares Number,__statement__,balance_sheet,STM,2021
+Share Issued,__statement__,balance_sheet,STM,2021
+Net Debt,__statement__,balance_sheet,STM,2021
+Total Debt,__statement__,balance_sheet,STM,2021
+Tangible Book Value,__statement__,balance_sheet,STM,2021
+Invested Capital,__statement__,balance_sheet,STM,2021
+Working Capital,__statement__,balance_sheet,STM,2021
+Net Tangible Assets,__statement__,balance_sheet,STM,2021
+Capital Lease Obligations,__statement__,balance_sheet,STM,2021
+Common Stock Equity,__statement__,balance_sheet,STM,2021
+Total Capitalization,__statement__,balance_sheet,STM,2021
+Total Equity Gross Minority Interest,__statement__,balance_sheet,STM,2021
+Minority Interest,__statement__,balance_sheet,STM,2021
+Stockholders Equity,__statement__,balance_sheet,STM,2021
+Gains Losses Not Affecting Retained Earnings,__statement__,balance_sheet,STM,2021
+Other Equity Adjustments,__statement__,balance_sheet,STM,2021
+Treasury Stock,__statement__,balance_sheet,STM,2021
+Retained Earnings,__statement__,balance_sheet,STM,2021
+Additional Paid In Capital,__statement__,balance_sheet,STM,2021
+Capital Stock,__statement__,balance_sheet,STM,2021
+Common Stock,__statement__,balance_sheet,STM,2021
+Total Liabilities Net Minority Interest,__statement__,balance_sheet,STM,2021
+Total Non Current Liabilities Net Minority Interest,__statement__,balance_sheet,STM,2021
+Other Non Current Liabilities,__statement__,balance_sheet,STM,2021
+Derivative Product Liabilities,__statement__,balance_sheet,STM,2021
+Employee Benefits,__statement__,balance_sheet,STM,2021
+Non Current Pension And Other Postretirement Benefit Plans,__statement__,balance_sheet,STM,2021
+Non Current Deferred Liabilities,__statement__,balance_sheet,STM,2021
+Non Current Deferred Revenue,__statement__,balance_sheet,STM,2021
+Non Current Deferred Taxes Liabilities,__statement__,balance_sheet,STM,2021
+Long Term Debt And Capital Lease Obligation,__statement__,balance_sheet,STM,2021
+Long Term Capital Lease Obligation,__statement__,balance_sheet,STM,2021
+Long Term Debt,__statement__,balance_sheet,STM,2021
+Current Liabilities,__statement__,balance_sheet,STM,2021
+Other Current Liabilities,__statement__,balance_sheet,STM,2021
+Current Deferred Liabilities,__statement__,balance_sheet,STM,2021
+Current Deferred Revenue,__statement__,balance_sheet,STM,2021
+Current Debt And Capital Lease Obligation,__statement__,balance_sheet,STM,2021
+Current Capital Lease Obligation,__statement__,balance_sheet,STM,2021
+Current Debt,__statement__,balance_sheet,STM,2021
+Other Current Borrowings,__statement__,balance_sheet,STM,2021
+Pensionand Other Post Retirement Benefit Plans Current,__statement__,balance_sheet,STM,2021
+Current Provisions,__statement__,balance_sheet,STM,2021
+Payables And Accrued Expenses,__statement__,balance_sheet,STM,2021
+Current Accrued Expenses,__statement__,balance_sheet,STM,2021
+Payables,__statement__,balance_sheet,STM,2021
+Other Payable,__statement__,balance_sheet,STM,2021
+Dividends Payable,__statement__,balance_sheet,STM,2021
+Total Tax Payable,__statement__,balance_sheet,STM,2021
+Income Tax Payable,__statement__,balance_sheet,STM,2021
+Accounts Payable,__statement__,balance_sheet,STM,2021
+Total Assets,__statement__,balance_sheet,STM,2021
+Total Non Current Assets,__statement__,balance_sheet,STM,2021
+Other Non Current Assets,__statement__,balance_sheet,STM,2021
+Defined Pension Benefit,__statement__,balance_sheet,STM,2021
+Non Current Prepaid Assets,__statement__,balance_sheet,STM,2021
+Non Current Deferred Assets,__statement__,balance_sheet,STM,2021
+Non Current Deferred Taxes Assets,__statement__,balance_sheet,STM,2021
+Non Current Accounts Receivable,__statement__,balance_sheet,STM,2021
+Financial Assets,__statement__,balance_sheet,STM,2021
+Investments And Advances,__statement__,balance_sheet,STM,2021
+Investmentin Financial Assets,__statement__,balance_sheet,STM,2021
+Available For Sale Securities,__statement__,balance_sheet,STM,2021
+Goodwill And Other Intangible Assets,__statement__,balance_sheet,STM,2021
+Other Intangible Assets,__statement__,balance_sheet,STM,2021
+Goodwill,__statement__,balance_sheet,STM,2021
+Net PPE,__statement__,balance_sheet,STM,2021
+Accumulated Depreciation,__statement__,balance_sheet,STM,2021
+Gross PPE,__statement__,balance_sheet,STM,2021
+Construction In Progress,__statement__,balance_sheet,STM,2021
+Other Properties,__statement__,balance_sheet,STM,2021
+Machinery Furniture Equipment,__statement__,balance_sheet,STM,2021
+Buildings And Improvements,__statement__,balance_sheet,STM,2021
+Land And Improvements,__statement__,balance_sheet,STM,2021
+Properties,__statement__,balance_sheet,STM,2021
+Current Assets,__statement__,balance_sheet,STM,2021
+Other Current Assets,__statement__,balance_sheet,STM,2021
+Hedging Assets Current,__statement__,balance_sheet,STM,2021
+Restricted Cash,__statement__,balance_sheet,STM,2021
+Prepaid Assets,__statement__,balance_sheet,STM,2021
+Inventory,__statement__,balance_sheet,STM,2021
+Finished Goods,__statement__,balance_sheet,STM,2021
+Work In Process,__statement__,balance_sheet,STM,2021
+Raw Materials,__statement__,balance_sheet,STM,2021
+Receivables,__statement__,balance_sheet,STM,2021
+Other Receivables,__statement__,balance_sheet,STM,2021
+Taxes Receivable,__statement__,balance_sheet,STM,2021
+Accrued Interest Receivable,__statement__,balance_sheet,STM,2021
+Loans Receivable,__statement__,balance_sheet,STM,2021
+Accounts Receivable,__statement__,balance_sheet,STM,2021
+Allowance For Doubtful Accounts Receivable,__statement__,balance_sheet,STM,2021
+Gross Accounts Receivable,__statement__,balance_sheet,STM,2021
+Cash Cash Equivalents And Short Term Investments,__statement__,balance_sheet,STM,2021
+Other Short Term Investments,__statement__,balance_sheet,STM,2021
+Cash And Cash Equivalents,__statement__,balance_sheet,STM,2021
+Free Cash Flow,2024-12-31 00:00:00,-216000000.0,STM,2021
+Repurchase Of Capital Stock,2024-12-31 00:00:00,-359000000.0,STM,2021
+Repayment Of Debt,2024-12-31 00:00:00,-203000000.0,STM,2021
+Issuance Of Debt,2024-12-31 00:00:00,300000000.0,STM,2021
+Capital Expenditure,2024-12-31 00:00:00,-3181000000.0,STM,2021
+Interest Paid Supplemental Data,2024-12-31 00:00:00,67000000.0,STM,2021
+Income Tax Paid Supplemental Data,2024-12-31 00:00:00,197000000.0,STM,2021
+End Cash Position,2024-12-31 00:00:00,2282000000.0,STM,2021
+Beginning Cash Position,2024-12-31 00:00:00,3222000000.0,STM,2021
+Effect Of Exchange Rate Changes,2024-12-31 00:00:00,-8000000.0,STM,2021
+Changes In Cash,2024-12-31 00:00:00,-932000000.0,STM,2021
+Financing Cash Flow,2024-12-31 00:00:00,-155000000.0,STM,2021
+Cash Flow From Continuing Financing Activities,2024-12-31 00:00:00,-155000000.0,STM,2021
+Net Other Financing Charges,2024-12-31 00:00:00,395000000.0,STM,2021
+Cash Dividends Paid,2024-12-31 00:00:00,-288000000.0,STM,2021
+Common Stock Dividend Paid,2024-12-31 00:00:00,-288000000.0,STM,2021
+Net Common Stock Issuance,2024-12-31 00:00:00,-359000000.0,STM,2021
+Common Stock Payments,2024-12-31 00:00:00,-359000000.0,STM,2021
+Net Issuance Payments Of Debt,2024-12-31 00:00:00,97000000.0,STM,2021
+Net Long Term Debt Issuance,2024-12-31 00:00:00,97000000.0,STM,2021
+Long Term Debt Payments,2024-12-31 00:00:00,-203000000.0,STM,2021
+Long Term Debt Issuance,2024-12-31 00:00:00,300000000.0,STM,2021
+Investing Cash Flow,2024-12-31 00:00:00,-3742000000.0,STM,2021
+Cash Flow From Continuing Investing Activities,2024-12-31 00:00:00,-3742000000.0,STM,2021
+Net Other Investing Changes,2024-12-31 00:00:00,441000000.0,STM,2021
+Net Investment Purchase And Sale,2024-12-31 00:00:00,-1007000000.0,STM,2021
+Sale Of Investment,2024-12-31 00:00:00,2251000000.0,STM,2021
+Purchase Of Investment,2024-12-31 00:00:00,-3258000000.0,STM,2021
+Net Business Purchase And Sale,2024-12-31 00:00:00,,STM,2021
+Sale Of Business,2024-12-31 00:00:00,,STM,2021
+Purchase Of Business,2024-12-31 00:00:00,,STM,2021
+Net Intangibles Purchase And Sale,2024-12-31 00:00:00,-93000000.0,STM,2021
+Purchase Of Intangibles,2024-12-31 00:00:00,-93000000.0,STM,2021
+Net PPE Purchase And Sale,2024-12-31 00:00:00,-3083000000.0,STM,2021
+Sale Of PPE,2024-12-31 00:00:00,5000000.0,STM,2021
+Purchase Of PPE,2024-12-31 00:00:00,-3088000000.0,STM,2021
+Operating Cash Flow,2024-12-31 00:00:00,2965000000.0,STM,2021
+Cash Flow From Continuing Operating Activities,2024-12-31 00:00:00,2965000000.0,STM,2021
+Interest Paid Cfo,2024-12-31 00:00:00,,STM,2021
+Change In Working Capital,2024-12-31 00:00:00,-495000000.0,STM,2021
+Change In Other Working Capital,2024-12-31 00:00:00,-261000000.0,STM,2021
+Change In Payables And Accrued Expense,2024-12-31 00:00:00,-35000000.0,STM,2021
+Change In Payable,2024-12-31 00:00:00,-35000000.0,STM,2021
+Change In Account Payable,2024-12-31 00:00:00,-35000000.0,STM,2021
+Change In Inventory,2024-12-31 00:00:00,-167000000.0,STM,2021
+Change In Receivables,2024-12-31 00:00:00,-32000000.0,STM,2021
+Changes In Account Receivables,2024-12-31 00:00:00,-32000000.0,STM,2021
+Other Non Cash Items,2024-12-31 00:00:00,-212000000.0,STM,2021
+Stock Based Compensation,2024-12-31 00:00:00,222000000.0,STM,2021
+Asset Impairment Charge,2024-12-31 00:00:00,,STM,2021
+Deferred Tax,2024-12-31 00:00:00,124000000.0,STM,2021
+Deferred Income Tax,2024-12-31 00:00:00,124000000.0,STM,2021
+Depreciation Amortization Depletion,2024-12-31 00:00:00,1760000000.0,STM,2021
+Depreciation And Amortization,2024-12-31 00:00:00,1760000000.0,STM,2021
+Amortization Cash Flow,2024-12-31 00:00:00,102000000.0,STM,2021
+Amortization Of Intangibles,2024-12-31 00:00:00,102000000.0,STM,2021
+Depreciation,2024-12-31 00:00:00,1658000000.0,STM,2021
+Operating Gains Losses,2024-12-31 00:00:00,1000000.0,STM,2021
+Earnings Losses From Equity Investments,2024-12-31 00:00:00,,STM,2021
+Gain Loss On Investment Securities,2024-12-31 00:00:00,1000000.0,STM,2021
+Net Income From Continuing Operations,2024-12-31 00:00:00,1565000000.0,STM,2021
+Free Cash Flow,2023-12-31 00:00:00,1456000000.0,STM,2021
+Repurchase Of Capital Stock,2023-12-31 00:00:00,-346000000.0,STM,2021
+Repayment Of Debt,2023-12-31 00:00:00,-169000000.0,STM,2021
+Issuance Of Debt,2023-12-31 00:00:00,329000000.0,STM,2021
+Capital Expenditure,2023-12-31 00:00:00,-4536000000.0,STM,2021
+Interest Paid Supplemental Data,2023-12-31 00:00:00,31000000.0,STM,2021
+Income Tax Paid Supplemental Data,2023-12-31 00:00:00,489000000.0,STM,2021
+End Cash Position,2023-12-31 00:00:00,3222000000.0,STM,2021
+Beginning Cash Position,2023-12-31 00:00:00,3258000000.0,STM,2021
+Effect Of Exchange Rate Changes,2023-12-31 00:00:00,5000000.0,STM,2021
+Changes In Cash,2023-12-31 00:00:00,-41000000.0,STM,2021
+Financing Cash Flow,2023-12-31 00:00:00,-267000000.0,STM,2021
+Cash Flow From Continuing Financing Activities,2023-12-31 00:00:00,-267000000.0,STM,2021
+Net Other Financing Charges,2023-12-31 00:00:00,142000000.0,STM,2021
+Cash Dividends Paid,2023-12-31 00:00:00,-223000000.0,STM,2021
+Common Stock Dividend Paid,2023-12-31 00:00:00,-223000000.0,STM,2021
+Net Common Stock Issuance,2023-12-31 00:00:00,-346000000.0,STM,2021
+Common Stock Payments,2023-12-31 00:00:00,-346000000.0,STM,2021
+Net Issuance Payments Of Debt,2023-12-31 00:00:00,160000000.0,STM,2021
+Net Long Term Debt Issuance,2023-12-31 00:00:00,160000000.0,STM,2021
+Long Term Debt Payments,2023-12-31 00:00:00,-169000000.0,STM,2021
+Long Term Debt Issuance,2023-12-31 00:00:00,329000000.0,STM,2021
+Investing Cash Flow,2023-12-31 00:00:00,-5766000000.0,STM,2021
+Cash Flow From Continuing Investing Activities,2023-12-31 00:00:00,-5766000000.0,STM,2021
+Net Other Investing Changes,2023-12-31 00:00:00,320000000.0,STM,2021
+Net Investment Purchase And Sale,2023-12-31 00:00:00,-1558000000.0,STM,2021
+Sale Of Investment,2023-12-31 00:00:00,750000000.0,STM,2021
+Purchase Of Investment,2023-12-31 00:00:00,-2308000000.0,STM,2021
+Net Business Purchase And Sale,2023-12-31 00:00:00,,STM,2021
+Sale Of Business,2023-12-31 00:00:00,,STM,2021
+Purchase Of Business,2023-12-31 00:00:00,,STM,2021
+Net Intangibles Purchase And Sale,2023-12-31 00:00:00,-97000000.0,STM,2021
+Purchase Of Intangibles,2023-12-31 00:00:00,-97000000.0,STM,2021
+Net PPE Purchase And Sale,2023-12-31 00:00:00,-4431000000.0,STM,2021
+Sale Of PPE,2023-12-31 00:00:00,8000000.0,STM,2021
+Purchase Of PPE,2023-12-31 00:00:00,-4439000000.0,STM,2021
+Operating Cash Flow,2023-12-31 00:00:00,5992000000.0,STM,2021
+Cash Flow From Continuing Operating Activities,2023-12-31 00:00:00,5992000000.0,STM,2021
+Interest Paid Cfo,2023-12-31 00:00:00,0.0,STM,2021
+Change In Working Capital,2023-12-31 00:00:00,78000000.0,STM,2021
+Change In Other Working Capital,2023-12-31 00:00:00,159000000.0,STM,2021
+Change In Payables And Accrued Expense,2023-12-31 00:00:00,-238000000.0,STM,2021
+Change In Payable,2023-12-31 00:00:00,-238000000.0,STM,2021
+Change In Account Payable,2023-12-31 00:00:00,-238000000.0,STM,2021
+Change In Inventory,2023-12-31 00:00:00,-72000000.0,STM,2021
+Change In Receivables,2023-12-31 00:00:00,229000000.0,STM,2021
+Changes In Account Receivables,2023-12-31 00:00:00,229000000.0,STM,2021
+Other Non Cash Items,2023-12-31 00:00:00,-124000000.0,STM,2021
+Stock Based Compensation,2023-12-31 00:00:00,236000000.0,STM,2021
+Asset Impairment Charge,2023-12-31 00:00:00,0.0,STM,2021
+Deferred Tax,2023-12-31 00:00:00,19000000.0,STM,2021
+Deferred Income Tax,2023-12-31 00:00:00,19000000.0,STM,2021
+Depreciation Amortization Depletion,2023-12-31 00:00:00,1561000000.0,STM,2021
+Depreciation And Amortization,2023-12-31 00:00:00,1561000000.0,STM,2021
+Amortization Cash Flow,2023-12-31 00:00:00,97000000.0,STM,2021
+Amortization Of Intangibles,2023-12-31 00:00:00,97000000.0,STM,2021
+Depreciation,2023-12-31 00:00:00,1464000000.0,STM,2021
+Operating Gains Losses,2023-12-31 00:00:00,,STM,2021
+Earnings Losses From Equity Investments,2023-12-31 00:00:00,,STM,2021
+Gain Loss On Investment Securities,2023-12-31 00:00:00,,STM,2021
+Net Income From Continuing Operations,2023-12-31 00:00:00,4222000000.0,STM,2021
+Free Cash Flow,2022-12-31 00:00:00,1566000000.0,STM,2021
+Repurchase Of Capital Stock,2022-12-31 00:00:00,-346000000.0,STM,2021
+Repayment Of Debt,2022-12-31 00:00:00,-134000000.0,STM,2021
+Issuance Of Debt,2022-12-31 00:00:00,200000000.0,STM,2021
+Capital Expenditure,2022-12-31 00:00:00,-3636000000.0,STM,2021
+Interest Paid Supplemental Data,2022-12-31 00:00:00,2000000.0,STM,2021
+Income Tax Paid Supplemental Data,2022-12-31 00:00:00,416000000.0,STM,2021
+End Cash Position,2022-12-31 00:00:00,3258000000.0,STM,2021
+Beginning Cash Position,2022-12-31 00:00:00,3225000000.0,STM,2021
+Effect Of Exchange Rate Changes,2022-12-31 00:00:00,-11000000.0,STM,2021
+Changes In Cash,2022-12-31 00:00:00,44000000.0,STM,2021
+Financing Cash Flow,2022-12-31 00:00:00,-567000000.0,STM,2021
+Cash Flow From Continuing Financing Activities,2022-12-31 00:00:00,-567000000.0,STM,2021
+Net Other Financing Charges,2022-12-31 00:00:00,-75000000.0,STM,2021
+Cash Dividends Paid,2022-12-31 00:00:00,-212000000.0,STM,2021
+Common Stock Dividend Paid,2022-12-31 00:00:00,-212000000.0,STM,2021
+Net Common Stock Issuance,2022-12-31 00:00:00,-346000000.0,STM,2021
+Common Stock Payments,2022-12-31 00:00:00,-346000000.0,STM,2021
+Net Issuance Payments Of Debt,2022-12-31 00:00:00,66000000.0,STM,2021
+Net Long Term Debt Issuance,2022-12-31 00:00:00,66000000.0,STM,2021
+Long Term Debt Payments,2022-12-31 00:00:00,-134000000.0,STM,2021
+Long Term Debt Issuance,2022-12-31 00:00:00,200000000.0,STM,2021
+Investing Cash Flow,2022-12-31 00:00:00,-4591000000.0,STM,2021
+Cash Flow From Continuing Investing Activities,2022-12-31 00:00:00,-4591000000.0,STM,2021
+Net Other Investing Changes,2022-12-31 00:00:00,21000000.0,STM,2021
+Net Investment Purchase And Sale,2022-12-31 00:00:00,-980000000.0,STM,2021
+Sale Of Investment,2022-12-31 00:00:00,0.0,STM,2021
+Purchase Of Investment,2022-12-31 00:00:00,-980000000.0,STM,2021
+Net Business Purchase And Sale,2022-12-31 00:00:00,0.0,STM,2021
+Sale Of Business,2022-12-31 00:00:00,0.0,STM,2021
+Purchase Of Business,2022-12-31 00:00:00,0.0,STM,2021
+Net Intangibles Purchase And Sale,2022-12-31 00:00:00,-87000000.0,STM,2021
+Purchase Of Intangibles,2022-12-31 00:00:00,-87000000.0,STM,2021
+Net PPE Purchase And Sale,2022-12-31 00:00:00,-3545000000.0,STM,2021
+Sale Of PPE,2022-12-31 00:00:00,4000000.0,STM,2021
+Purchase Of PPE,2022-12-31 00:00:00,-3549000000.0,STM,2021
+Operating Cash Flow,2022-12-31 00:00:00,5202000000.0,STM,2021
+Cash Flow From Continuing Operating Activities,2022-12-31 00:00:00,5202000000.0,STM,2021
+Interest Paid Cfo,2022-12-31 00:00:00,0.0,STM,2021
+Change In Working Capital,2022-12-31 00:00:00,-130000000.0,STM,2021
+Change In Other Working Capital,2022-12-31 00:00:00,511000000.0,STM,2021
+Change In Payables And Accrued Expense,2022-12-31 00:00:00,240000000.0,STM,2021
+Change In Payable,2022-12-31 00:00:00,240000000.0,STM,2021
+Change In Account Payable,2022-12-31 00:00:00,240000000.0,STM,2021
+Change In Inventory,2022-12-31 00:00:00,-650000000.0,STM,2021
+Change In Receivables,2022-12-31 00:00:00,-231000000.0,STM,2021
+Changes In Account Receivables,2022-12-31 00:00:00,-231000000.0,STM,2021
+Other Non Cash Items,2022-12-31 00:00:00,-68000000.0,STM,2021
+Stock Based Compensation,2022-12-31 00:00:00,215000000.0,STM,2021
+Asset Impairment Charge,2022-12-31 00:00:00,0.0,STM,2021
+Deferred Tax,2022-12-31 00:00:00,3000000.0,STM,2021
+Deferred Income Tax,2022-12-31 00:00:00,3000000.0,STM,2021
+Depreciation Amortization Depletion,2022-12-31 00:00:00,1216000000.0,STM,2021
+Depreciation And Amortization,2022-12-31 00:00:00,1216000000.0,STM,2021
+Amortization Cash Flow,2022-12-31 00:00:00,103000000.0,STM,2021
+Amortization Of Intangibles,2022-12-31 00:00:00,103000000.0,STM,2021
+Depreciation,2022-12-31 00:00:00,1113000000.0,STM,2021
+Operating Gains Losses,2022-12-31 00:00:00,,STM,2021
+Earnings Losses From Equity Investments,2022-12-31 00:00:00,0.0,STM,2021
+Gain Loss On Investment Securities,2022-12-31 00:00:00,,STM,2021
+Net Income From Continuing Operations,2022-12-31 00:00:00,3966000000.0,STM,2021
+Free Cash Flow,2021-12-31 00:00:00,1123000000.0,STM,2021
+Repurchase Of Capital Stock,2021-12-31 00:00:00,-485000000.0,STM,2021
+Repayment Of Debt,2021-12-31 00:00:00,-1357000000.0,STM,2021
+Issuance Of Debt,2021-12-31 00:00:00,788000000.0,STM,2021
+Capital Expenditure,2021-12-31 00:00:00,-1937000000.0,STM,2021
+Interest Paid Supplemental Data,2021-12-31 00:00:00,2000000.0,STM,2021
+Income Tax Paid Supplemental Data,2021-12-31 00:00:00,279000000.0,STM,2021
+End Cash Position,2021-12-31 00:00:00,3225000000.0,STM,2021
+Beginning Cash Position,2021-12-31 00:00:00,3006000000.0,STM,2021
+Effect Of Exchange Rate Changes,2021-12-31 00:00:00,-9000000.0,STM,2021
+Changes In Cash,2021-12-31 00:00:00,228000000.0,STM,2021
+Financing Cash Flow,2021-12-31 00:00:00,-1314000000.0,STM,2021
+Cash Flow From Continuing Financing Activities,2021-12-31 00:00:00,-1314000000.0,STM,2021
+Net Other Financing Charges,2021-12-31 00:00:00,-55000000.0,STM,2021
+Cash Dividends Paid,2021-12-31 00:00:00,-205000000.0,STM,2021
+Common Stock Dividend Paid,2021-12-31 00:00:00,-205000000.0,STM,2021
+Net Common Stock Issuance,2021-12-31 00:00:00,-485000000.0,STM,2021
+Common Stock Payments,2021-12-31 00:00:00,-485000000.0,STM,2021
+Net Issuance Payments Of Debt,2021-12-31 00:00:00,-569000000.0,STM,2021
+Net Long Term Debt Issuance,2021-12-31 00:00:00,-569000000.0,STM,2021
+Long Term Debt Payments,2021-12-31 00:00:00,-1357000000.0,STM,2021
+Long Term Debt Issuance,2021-12-31 00:00:00,788000000.0,STM,2021
+Investing Cash Flow,2021-12-31 00:00:00,-1518000000.0,STM,2021
+Cash Flow From Continuing Investing Activities,2021-12-31 00:00:00,-1518000000.0,STM,2021
+Net Other Investing Changes,2021-12-31 00:00:00,10000000.0,STM,2021
+Net Investment Purchase And Sale,2021-12-31 00:00:00,407000000.0,STM,2021
+Sale Of Investment,2021-12-31 00:00:00,424000000.0,STM,2021
+Purchase Of Investment,2021-12-31 00:00:00,-17000000.0,STM,2021
+Net Business Purchase And Sale,2021-12-31 00:00:00,0.0,STM,2021
+Sale Of Business,2021-12-31 00:00:00,0.0,STM,2021
+Purchase Of Business,2021-12-31 00:00:00,0.0,STM,2021
+Net Intangibles Purchase And Sale,2021-12-31 00:00:00,-97000000.0,STM,2021
+Purchase Of Intangibles,2021-12-31 00:00:00,-97000000.0,STM,2021
+Net PPE Purchase And Sale,2021-12-31 00:00:00,-1838000000.0,STM,2021
+Sale Of PPE,2021-12-31 00:00:00,2000000.0,STM,2021
+Purchase Of PPE,2021-12-31 00:00:00,-1840000000.0,STM,2021
+Operating Cash Flow,2021-12-31 00:00:00,3060000000.0,STM,2021
+Cash Flow From Continuing Operating Activities,2021-12-31 00:00:00,3060000000.0,STM,2021
+Interest Paid Cfo,2021-12-31 00:00:00,-40000000.0,STM,2021
+Change In Working Capital,2021-12-31 00:00:00,-145000000.0,STM,2021
+Change In Other Working Capital,2021-12-31 00:00:00,255000000.0,STM,2021
+Change In Payables And Accrued Expense,2021-12-31 00:00:00,95000000.0,STM,2021
+Change In Payable,2021-12-31 00:00:00,95000000.0,STM,2021
+Change In Account Payable,2021-12-31 00:00:00,95000000.0,STM,2021
+Change In Inventory,2021-12-31 00:00:00,-188000000.0,STM,2021
+Change In Receivables,2021-12-31 00:00:00,-307000000.0,STM,2021
+Changes In Account Receivables,2021-12-31 00:00:00,-307000000.0,STM,2021
+Other Non Cash Items,2021-12-31 00:00:00,-117000000.0,STM,2021
+Stock Based Compensation,2021-12-31 00:00:00,221000000.0,STM,2021
+Asset Impairment Charge,2021-12-31 00:00:00,2000000.0,STM,2021
+Deferred Tax,2021-12-31 00:00:00,45000000.0,STM,2021
+Deferred Income Tax,2021-12-31 00:00:00,45000000.0,STM,2021
+Depreciation Amortization Depletion,2021-12-31 00:00:00,1045000000.0,STM,2021
+Depreciation And Amortization,2021-12-31 00:00:00,1045000000.0,STM,2021
+Amortization Cash Flow,2021-12-31 00:00:00,93000000.0,STM,2021
+Amortization Of Intangibles,2021-12-31 00:00:00,93000000.0,STM,2021
+Depreciation,2021-12-31 00:00:00,952000000.0,STM,2021
+Operating Gains Losses,2021-12-31 00:00:00,43000000.0,STM,2021
+Earnings Losses From Equity Investments,2021-12-31 00:00:00,0.0,STM,2021
+Gain Loss On Investment Securities,2021-12-31 00:00:00,43000000.0,STM,2021
+Net Income From Continuing Operations,2021-12-31 00:00:00,2006000000.0,STM,2021
+Free Cash Flow,2020-12-31 00:00:00,,STM,2021
+Repurchase Of Capital Stock,2020-12-31 00:00:00,,STM,2021
+Repayment Of Debt,2020-12-31 00:00:00,,STM,2021
+Issuance Of Debt,2020-12-31 00:00:00,,STM,2021
+Capital Expenditure,2020-12-31 00:00:00,,STM,2021
+Interest Paid Supplemental Data,2020-12-31 00:00:00,,STM,2021
+Income Tax Paid Supplemental Data,2020-12-31 00:00:00,,STM,2021
+End Cash Position,2020-12-31 00:00:00,,STM,2021
+Beginning Cash Position,2020-12-31 00:00:00,,STM,2021
+Effect Of Exchange Rate Changes,2020-12-31 00:00:00,,STM,2021
+Changes In Cash,2020-12-31 00:00:00,,STM,2021
+Financing Cash Flow,2020-12-31 00:00:00,,STM,2021
+Cash Flow From Continuing Financing Activities,2020-12-31 00:00:00,,STM,2021
+Net Other Financing Charges,2020-12-31 00:00:00,,STM,2021
+Cash Dividends Paid,2020-12-31 00:00:00,,STM,2021
+Common Stock Dividend Paid,2020-12-31 00:00:00,,STM,2021
+Net Common Stock Issuance,2020-12-31 00:00:00,,STM,2021
+Common Stock Payments,2020-12-31 00:00:00,,STM,2021
+Net Issuance Payments Of Debt,2020-12-31 00:00:00,,STM,2021
+Net Long Term Debt Issuance,2020-12-31 00:00:00,,STM,2021
+Long Term Debt Payments,2020-12-31 00:00:00,,STM,2021
+Long Term Debt Issuance,2020-12-31 00:00:00,,STM,2021
+Investing Cash Flow,2020-12-31 00:00:00,,STM,2021
+Cash Flow From Continuing Investing Activities,2020-12-31 00:00:00,,STM,2021
+Net Other Investing Changes,2020-12-31 00:00:00,,STM,2021
+Net Investment Purchase And Sale,2020-12-31 00:00:00,,STM,2021
+Sale Of Investment,2020-12-31 00:00:00,,STM,2021
+Purchase Of Investment,2020-12-31 00:00:00,,STM,2021
+Net Business Purchase And Sale,2020-12-31 00:00:00,-112000000.0,STM,2021
+Sale Of Business,2020-12-31 00:00:00,1000000.0,STM,2021
+Purchase Of Business,2020-12-31 00:00:00,-113000000.0,STM,2021
+Net Intangibles Purchase And Sale,2020-12-31 00:00:00,,STM,2021
+Purchase Of Intangibles,2020-12-31 00:00:00,,STM,2021
+Net PPE Purchase And Sale,2020-12-31 00:00:00,,STM,2021
+Sale Of PPE,2020-12-31 00:00:00,,STM,2021
+Purchase Of PPE,2020-12-31 00:00:00,,STM,2021
+Operating Cash Flow,2020-12-31 00:00:00,,STM,2021
+Cash Flow From Continuing Operating Activities,2020-12-31 00:00:00,,STM,2021
+Interest Paid Cfo,2020-12-31 00:00:00,-41000000.0,STM,2021
+Change In Working Capital,2020-12-31 00:00:00,,STM,2021
+Change In Other Working Capital,2020-12-31 00:00:00,,STM,2021
+Change In Payables And Accrued Expense,2020-12-31 00:00:00,,STM,2021
+Change In Payable,2020-12-31 00:00:00,,STM,2021
+Change In Account Payable,2020-12-31 00:00:00,,STM,2021
+Change In Inventory,2020-12-31 00:00:00,,STM,2021
+Change In Receivables,2020-12-31 00:00:00,,STM,2021
+Changes In Account Receivables,2020-12-31 00:00:00,,STM,2021
+Other Non Cash Items,2020-12-31 00:00:00,,STM,2021
+Stock Based Compensation,2020-12-31 00:00:00,,STM,2021
+Asset Impairment Charge,2020-12-31 00:00:00,-3000000.0,STM,2021
+Deferred Tax,2020-12-31 00:00:00,,STM,2021
+Deferred Income Tax,2020-12-31 00:00:00,,STM,2021
+Depreciation Amortization Depletion,2020-12-31 00:00:00,,STM,2021
+Depreciation And Amortization,2020-12-31 00:00:00,,STM,2021
+Amortization Cash Flow,2020-12-31 00:00:00,,STM,2021
+Amortization Of Intangibles,2020-12-31 00:00:00,,STM,2021
+Depreciation,2020-12-31 00:00:00,,STM,2021
+Operating Gains Losses,2020-12-31 00:00:00,24000000.0,STM,2021
+Earnings Losses From Equity Investments,2020-12-31 00:00:00,-2000000.0,STM,2021
+Gain Loss On Investment Securities,2020-12-31 00:00:00,26000000.0,STM,2021
+Net Income From Continuing Operations,2020-12-31 00:00:00,,STM,2021
+Free Cash Flow,__statement__,cashflow,STM,2021
+Repurchase Of Capital Stock,__statement__,cashflow,STM,2021
+Repayment Of Debt,__statement__,cashflow,STM,2021
+Issuance Of Debt,__statement__,cashflow,STM,2021
+Capital Expenditure,__statement__,cashflow,STM,2021
+Interest Paid Supplemental Data,__statement__,cashflow,STM,2021
+Income Tax Paid Supplemental Data,__statement__,cashflow,STM,2021
+End Cash Position,__statement__,cashflow,STM,2021
+Beginning Cash Position,__statement__,cashflow,STM,2021
+Effect Of Exchange Rate Changes,__statement__,cashflow,STM,2021
+Changes In Cash,__statement__,cashflow,STM,2021
+Financing Cash Flow,__statement__,cashflow,STM,2021
+Cash Flow From Continuing Financing Activities,__statement__,cashflow,STM,2021
+Net Other Financing Charges,__statement__,cashflow,STM,2021
+Cash Dividends Paid,__statement__,cashflow,STM,2021
+Common Stock Dividend Paid,__statement__,cashflow,STM,2021
+Net Common Stock Issuance,__statement__,cashflow,STM,2021
+Common Stock Payments,__statement__,cashflow,STM,2021
+Net Issuance Payments Of Debt,__statement__,cashflow,STM,2021
+Net Long Term Debt Issuance,__statement__,cashflow,STM,2021
+Long Term Debt Payments,__statement__,cashflow,STM,2021
+Long Term Debt Issuance,__statement__,cashflow,STM,2021
+Investing Cash Flow,__statement__,cashflow,STM,2021
+Cash Flow From Continuing Investing Activities,__statement__,cashflow,STM,2021
+Net Other Investing Changes,__statement__,cashflow,STM,2021
+Net Investment Purchase And Sale,__statement__,cashflow,STM,2021
+Sale Of Investment,__statement__,cashflow,STM,2021
+Purchase Of Investment,__statement__,cashflow,STM,2021
+Net Business Purchase And Sale,__statement__,cashflow,STM,2021
+Sale Of Business,__statement__,cashflow,STM,2021
+Purchase Of Business,__statement__,cashflow,STM,2021
+Net Intangibles Purchase And Sale,__statement__,cashflow,STM,2021
+Purchase Of Intangibles,__statement__,cashflow,STM,2021
+Net PPE Purchase And Sale,__statement__,cashflow,STM,2021
+Sale Of PPE,__statement__,cashflow,STM,2021
+Purchase Of PPE,__statement__,cashflow,STM,2021
+Operating Cash Flow,__statement__,cashflow,STM,2021
+Cash Flow From Continuing Operating Activities,__statement__,cashflow,STM,2021
+Interest Paid Cfo,__statement__,cashflow,STM,2021
+Change In Working Capital,__statement__,cashflow,STM,2021
+Change In Other Working Capital,__statement__,cashflow,STM,2021
+Change In Payables And Accrued Expense,__statement__,cashflow,STM,2021
+Change In Payable,__statement__,cashflow,STM,2021
+Change In Account Payable,__statement__,cashflow,STM,2021
+Change In Inventory,__statement__,cashflow,STM,2021
+Change In Receivables,__statement__,cashflow,STM,2021
+Changes In Account Receivables,__statement__,cashflow,STM,2021
+Other Non Cash Items,__statement__,cashflow,STM,2021
+Stock Based Compensation,__statement__,cashflow,STM,2021
+Asset Impairment Charge,__statement__,cashflow,STM,2021
+Deferred Tax,__statement__,cashflow,STM,2021
+Deferred Income Tax,__statement__,cashflow,STM,2021
+Depreciation Amortization Depletion,__statement__,cashflow,STM,2021
+Depreciation And Amortization,__statement__,cashflow,STM,2021
+Amortization Cash Flow,__statement__,cashflow,STM,2021
+Amortization Of Intangibles,__statement__,cashflow,STM,2021
+Depreciation,__statement__,cashflow,STM,2021
+Operating Gains Losses,__statement__,cashflow,STM,2021
+Earnings Losses From Equity Investments,__statement__,cashflow,STM,2021
+Gain Loss On Investment Securities,__statement__,cashflow,STM,2021
+Net Income From Continuing Operations,__statement__,cashflow,STM,2021
